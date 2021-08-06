@@ -29,3 +29,8 @@
 2. 手机下载tpo听力音频方法：
     1. 音频下载地址：https://www.kekenet.com/toefl/listening/List_142.shtml
     2. 下载后上传地址：https://my.eudic.net/Ting/index
+
+# 20210806
+已精听TPO
+1. 49-C1、47-C1、28-C1、17-C1、14-C1、10-C2、41-C1(30-C1、33-C1、22-C1、21-C1)
+2. 20-2
