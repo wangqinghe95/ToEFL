@@ -37,3 +37,6 @@
 ## reading
 1. 先把课程结束掉
 2. 开始从 tpo1 的开始练习
+
+## 补充知识
+连读、弱读：B站 每日英语听力（Daily English Dictation）
