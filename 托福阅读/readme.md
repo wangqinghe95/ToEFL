@@ -5,4 +5,4 @@
 
 + 4-1
 + 4-2：reviewing
-+ 4-3：translating
++ 4-3：translating // have done
