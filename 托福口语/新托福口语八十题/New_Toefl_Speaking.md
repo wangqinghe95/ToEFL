@@ -15,7 +15,7 @@
 ## Live in the plain
 1. I would like to perfer on the plain.
 2. First, I like wide open view.
-3. Second, the plain usually has fertile soil on which I can grow food and feed animals. Also, If I have a car or some sort of transportation, I can easily go around to explore surrounding ared.
+3. Second, the plain usually has fertile soil on which I can grow food and feed animals. Also, If I have a car or some sort of transportation, I can easily go around to explore surrounding area.
 4. Living in the forest is also wonderful, But I just don't like the moist climate there and mosquitoes.
 5. And desert is definitely a bad place to live, because I may not even have enough water to live
 6. Looking back at the history of our civilization, many cities and kingdoms were originally found on the plain area.
