@@ -1,5 +1,12 @@
 # 关于ToEFL备考资料收集和准备
 
+# 学习进度
+## 20230611
+1. listening:
+    + 17-1 start
+2. writing：
+    + government should support artist or athletics
+
 # 托福真题
 https://toefl.kmf.com/
 
