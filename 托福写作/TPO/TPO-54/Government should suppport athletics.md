@@ -5,6 +5,8 @@
 
 1. Arts and athletics are essential parts related to citizen's actual lives. Some may argue that arts should be prioritized with limited budgets because it is crucial in developing people's aesthetics, However, I firmly believe that putting money into developing athletics in relatively more important than arts since there are more additional benefits for both of the common people and the nation in support of athletics.
 
-2. 首先，支持体育发展有助于提高公民的身体素质。体育运动能够促进身心健康，增强体质和免疫力，减少感染流感和慢性病的风险。一个健康的身体快乐生活的基本，也是做任何事情的前提。政府可以通过修建体育场馆，举办各种赛事鼓励民众参加体育锻炼，通过网络，报纸，电视宣传体育活动来培养人们的运动意识。
+2. 首先，支持体育发展对个人有好处。第一，它可以帮助公民提高身体素质。体育运动能够促进身心健康，增强体质和免疫力，减少感染流感和慢性病的风险, 一个健康的身体做任何事情的前提和基础。第二，体育运动可以增加公民生活的幸福感。一个健康的身体是一个人快乐生活的基本，
 
-2. First of all, 
+2. To the begin with, Supporting the development are good for individuals. Firstly, it can help civilians to improve their physical quality. A healthy body is the foundation of a person's happy life, and also the prerequisite and basis for one to do anything. Do exercise can promote physical and mental health, enhance physical fitness and immunity, adn reduce risk of contracting infulenza and chronic diseases. Secondly, 
+
+3. 再次，体育运动可以培养团队合作精神。团队合作是体育运动的重要组成部分，通过参加体育运动，人们可以培养团队协作能力。在体育锻炼的过程中，参加体育运动又可以促进社交互动和社区参与，帮助人们提高沟通协调能力，促进社会和谐，增强公民的社会责任感和公民意识。
