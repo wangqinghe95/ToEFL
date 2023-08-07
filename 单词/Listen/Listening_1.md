@@ -34,7 +34,7 @@
 |---|---|---|---|---|---|---|---|
 |orchestra|管弦乐|audition|听觉，面试|straight|笔直的|folk|民俗的|
 |ballad|民谣|lyrics|歌词|castle|城堡|royalty|王族成员，王权|
-|antique|古董的，古老的|
+|antique|古董的，古老的|journalism|新闻学，新闻专业|scholarly|学术性的|perspective|观点，看法|
 
 + 41-2
 
