@@ -60,3 +60,10 @@
 |---|---|---|---|---|---|---|---|
 |twist|扭曲，曲折|portion|一部分|argument|理由，论据|citation|引用，引述|
 |convention|习俗，惯例|
+
++ 46-1
+
+|word|translation|word|translation|word|translation|word|translation|
+|---|---|---|---|---|---|---|---|
+|dorm|学生宿舍|campus|校园|odd|古怪的，奇数的|disturb|打扰，打断|
+|inform|非正式的|concert|音乐会|jazz|爵士乐|guideline|指导方针|
