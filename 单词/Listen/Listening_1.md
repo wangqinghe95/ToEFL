@@ -1,10 +1,9 @@
-# Word
 + 20-2
 
 |word|translation|word|translation|word|translation|word|translation|
 |---|---|---|---|---|---|---|---|
-|violate|违反，违背|maxim|格言|hint|提示|ambiguity|歧义|
-|sarcasm|嘲讽，讽刺|irnoy|讽刺|blame|责备，指责|phrase|词组，句子|
+|violate|违反，违背|maxim|格言|hint|提示|ambiguity|歧义，不明确|
+|sarcasm|嘲讽，讥讽|irony|反语，讽刺|blame|责备，指责|phrase|词组，句子|
 
 + 17-1
 
