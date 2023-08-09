@@ -67,3 +67,11 @@
 |---|---|---|---|---|---|---|---|
 |dorm|学生宿舍|campus|校园|odd|古怪的，奇数的|disturb|打扰，打断|
 |inform|非正式的|concert|音乐会|jazz|爵士乐|guideline|指导方针|
+
++ 40-1
+
+|word|translation|word|translation|word|translation|word|translation|
+|---|---|---|---|---|---|---|---|
+|eatery|食堂，餐馆|cafeteria|自助餐厅|hypothetical|假定的|sworn|发誓|
+|smoothly|平滑的，流畅的|protocol|礼仪，协议|soup|汤，羹|dessert|甜品，甜点|
+|cash|现金，资金|bakery|面包店|slice|薄片，切成薄片|
