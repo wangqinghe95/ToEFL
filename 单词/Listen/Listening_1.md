@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|---|---|
 |violate|违反，违背|maxim|格言|hint|提示|ambiguity|歧义，不明确|
 |sarcasm|嘲讽，讥讽|irony|反语，讽刺|blame|责备，指责|phrase|词组，句子|
+|principle|道德原则，理由|subtle|微妙的，敏感的|politician|政治家，政客|advertiser|登广告的人|
 
 + 17-1
 
@@ -34,6 +35,7 @@
 |orchestra|管弦乐|audition|听觉，面试|straight|笔直的|folk|民俗的|
 |ballad|民谣|lyrics|歌词|castle|城堡|royalty|王族成员，王权|
 |antique|古董的，古老的|journalism|新闻学，新闻专业|scholarly|学术性的|perspective|观点，看法|
+|lord|领主|location|地点，位置|occupation|职业，工作，占有|
 
 + 41-2
 
