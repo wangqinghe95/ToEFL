@@ -44,7 +44,7 @@
 |succulent|多肉植物|seep|渗出，渗透|evaporate|蒸发，挥发|inch|英寸，少量|
 |saturate|湿透，浸透|moist|潮湿的，微湿的|waxy|像蜡的，蜡色的|stomate|像小孔的，有空叶的|
 |metabolism|新陈代谢|dormant|休眠的，蛰伏的|occasionally|有时，偶尔|revive|使复活|
-|wetter|湿的，潮湿的|wipe|擦，擦除|
+|wetter|湿的，潮湿的|wipe|擦，擦除|specialized|专门的，专攻|adaptation|改编，适应|
 
 + 10-2
 
