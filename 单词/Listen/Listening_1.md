@@ -62,6 +62,13 @@
 |twist|扭曲，曲折|portion|一部分|argument|理由，论据|citation|引用，引述|
 |convention|习俗，惯例|
 
++ 37-1
+
+|word|translation|word|translation|word|translation|word|translation|
+|---|---|---|---|---|---|---|---|
+|ceremonial|仪式，仪式的|approach|方法，接近，靠近|anthropological|人类学|decay|腐烂，衰落|
+|booklet|小册子|curator|馆长（博物馆）|
+
 + 46-1
 
 |word|translation|word|translation|word|translation|word|translation|
