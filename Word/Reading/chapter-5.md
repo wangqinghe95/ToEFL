@@ -26,5 +26,6 @@
 |5-3|
 |diversification|多样化，变化|timescale|时间表|extinct|灭绝的|sediment|沉淀物，沉积物|
 |decomposition|分解，腐烂|exclusively|排外地，专有地|distribution|分配，分发|remain|残留，剩余物|
-|niche|壁龛|slide|（使）滑动|arise|出现，产生|predator|食肉动物|
-|violent|暴力的，强力的|eruption|喷发，爆发|
+|niche|壁龛，舒适或者称心的工作，商机|slide|（使）滑动|arise|出现，产生|predator|食肉动物|
+|violent|暴力的，强力的|eruption|喷发，爆发|discourage|阻碍，阻拦|formation|构成|
+|mud|泥淖|marine|海洋的|detritus|岩屑，碎石|algae|水藻|
