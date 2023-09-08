@@ -17,3 +17,5 @@
 |finite|有限的，限定的|negligible|可以忽略的|replenish|补充，重新装满|drastically|彻底地; 激烈地|
 |withdrawal|收回，取出，撤退|depletion|减少，消耗|profitable|有利可图的，有益的|
 |grandiose|宏伟的; 浮夸的|transport|运输; 传播|capillary|毛细管; 毛细血管|strain|品系，品种（动植物的）株系|
+|3-3|
+|

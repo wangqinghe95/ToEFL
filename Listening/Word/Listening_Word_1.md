@@ -36,7 +36,8 @@
 |convention|习俗，惯例|
 |37-1|
 |ceremonial|仪式，仪式的|approach|方法，接近，靠近|anthropological|人类学|decay|腐烂，衰落|
-|booklet|小册子|curator|馆长（博物馆）|
+|booklet|小册子|curator|馆长（博物馆）|exhibition|展览会|feather|羽毛|
+|coast|海滨|bet|打赌,赌注,预计|chance|机会，可能性|
 |46-1|
 |dorm|学生宿舍|campus|校园|odd|古怪的，奇数的|disturb|打扰，打断|
 |inform|非正式的|concert|音乐会|jazz|爵士乐|guideline|指导方针|
@@ -44,6 +45,3 @@
 |eatery|食堂，餐馆|cafeteria|自助餐厅|hypothetical|假定的|sworn|发誓|
 |smoothly|平滑的，流畅的|protocol|礼仪，协议|soup|汤，羹|dessert|甜品，甜点|
 |cash|现金，资金|bakery|面包店|slice|薄片，切成薄片|
-|37-1|
-|exhibition|展览会|feather|羽毛|ceremonial|仪式的; 礼节的|coast|海滨|
-|bet|打赌,赌注,预计|chance|机会，可能性|curator|馆长; 监护人|
