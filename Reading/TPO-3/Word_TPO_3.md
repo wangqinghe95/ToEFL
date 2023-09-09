@@ -18,4 +18,8 @@
 |withdrawal|收回，取出，撤退|depletion|减少，消耗|profitable|有利可图的，有益的|
 |grandiose|宏伟的; 浮夸的|transport|运输; 传播|capillary|毛细管; 毛细血管|strain|品系，品种（动植物的）株系|
 |3-3|
-|
+|assemble|聚集，收集|flexibly|灵活地|succession|继承人，继承权，[生]自然演替; 一系列，接连|pioneer|先驱; 开拓者|
+|climax|高潮，顶点; 最精彩处|mix|混音; 结合体|cumulative|积累的，累计的; 渐增的|diversity|多样性，多元性|
+|apparent|明显的，显而易见的|invasion|入侵，侵略|pest|讨厌的人或事; 害虫; 害鸟|alternatively|二者择一地; 要不然; 或者|
+|resilience|弹性; 弹力|exact|精确的; 确切的|volcanic|火山的，猛烈的|pale|显得逊色，浅色的; 苍白的|
+|extinct|灭绝的; 废除了的|instinct|本能的|vacate|搬出; 空出; 取消|intact|完整无缺的，未经触动的|
