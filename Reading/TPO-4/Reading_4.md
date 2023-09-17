@@ -16,8 +16,7 @@
 |crude|粗略的，简陋的|marked|显著的，著名的|slab|厚板，平板|excavate|挖掘，开凿|
 |cliff|悬崖|indentify|认出，支持|principal|主要的，资本的|inhabited|有人居住的|
 |gallery|画廊，走廊|interpret|诠释，领会|bare|裸露的，光秃秃的|backdrop|背景|
-|trap|陷阱，夹子，骗局|injury|伤害，损伤|chip|缺口，打破，凿下|
-spear|矛，枪|
+|trap|陷阱，夹子，骗局|injury|伤害，损伤|chip|缺口，打破，凿下|spear|矛，枪|
 |inspire|激起，启发|reveal|揭示，提示|portray|扮演，描述，描绘|hide|遮住，隐瞒，隐蔽处，兽皮|
 |cattle|牛|weapon|武器，手段|shaft|柄，轴|engrave|使铭记，雕刻|
 |notation|记号，标记法|exaggerate|夸张，夸大|
