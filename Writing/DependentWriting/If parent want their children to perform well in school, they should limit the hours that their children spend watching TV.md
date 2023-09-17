@@ -15,19 +15,16 @@
 + 第一，在当今时代，孩子们有太多的学科去学习，并且他们也有大量的家庭作业需要完成。所以孩子们需要有足够的时间去预习复习课本，并且完成他们的家庭作业。如果孩子们把时间都花费在电视节目上，他们就不能去巩固他们学到的知识。其次，因为孩子缺乏自制力，如果他们熬夜看电视，那么他们第二天在课堂上就会很困，而且他们也很可能在课堂上想着各种电视节目，这样就导致无法集中精神去听讲，最后就不能完全的掌握课堂上老师传授的知识，严重影响孩子们的学习效率。
 + 所以，有足够多的证据证明限制孩子们看电视的时间会帮助孩子们提高学习效率。
 
-## 注释：
-+ Exert a negative impact on：产生负面影响
-+ exert：运用，施加，努力；
-+ be addicted to：上瘾
-+ sedentary：坐着的，不爱活动的
-+ obesity：肥胖的
-+ be prone to：易于…
-+ immature：不成熟的
-+ distinguish right from wrong：明辨是非
-+ obscene：淫秽的，下流的
-+ so as to：为了，导致，以便于
-+ eccentric：古怪的
-+ unsociable and eccentric：孤僻
-+ undermine：组件削弱，挖…墙角
-+ indulge：沉迷于， 动词
-+ give rise to：导致
+## Word
+|word|translation|word|translation|word|translation|word|translation|
+|---|---|---|---|---|---|---|---|
+|exert|运用，施加，努力|sedentary|坐着的，不爱运动的|obesity|肥胖的|immature|不成熟的|
+|obscene|淫秽的，下流的|eccentric|古怪的|undermine|逐渐削弱，挖…墙角|indulge|沉迷于|
+
+## Phrase
+|Pharse|Translation|Pharse|Translation|
+|---|---|---|---|
+|Exert a negative impact on|产生负面影响|be addicted to|上瘾|
+|be prone to|易于|distinguish right from wrong|明辨是非|
+|so as to|为了，导致，以便于|unsociable and eccentric|孤僻|
+|give rise to|导致|
