@@ -18,3 +18,7 @@
 |embed|嵌入，融入，派遣|jawbone|下颌骨|dive|潜水|bred/breed|生育|
 |fat|脂肪|shallow|浅的|vestigial|残留的，剩余的|locomotion|运动，移动|
 |propulsion|推进，推进力|conceal|隐藏，隐瞒，遮掩|yield|产生，屈服，让步，放弃|
+|2-3|
+|cinema|电影院|arcade|商业中心|phonograph|留声机|projection|投影|
+|advent|出现，到来，问世|motion|运动，手势|ultimate|最大的，首要的|spectacle|奇观，壮观; 光景，景象; 表演|
+|marvel|奇迹，令人惊奇的事|trick|诡计，骗局; 把戏; 技巧|
