@@ -23,3 +23,15 @@
 8. I hope that the fortune may smile upon you.
 9. He was considered a canditate with a clear record.
 10. Does your job fulfil with your expectation?
+
+## 10.22
+1. His guilty conscience forced him to make a clean breast of everything.
+2. His new house was built by himself brick by brick.
+3. This cathedral is regarded as a miracle in architercture history.
+4. We have admit that the quality of life is as important as lift itself.
+5. Such behaviour is unacceptable in a civilized society.
+6. He bacame an active social reformer.
+7. The administration of a big enterprise requires skills in dealing with people
+8. The little boy likes making notes in the margin of books.
+9. The few words fully revealed her noble quality.
+10. She kept all the old photos for sentimental resons.
