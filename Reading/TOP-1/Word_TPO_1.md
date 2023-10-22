@@ -23,3 +23,8 @@
 |fantasy|幻想，憧憬|penchant|倾向，爱好|comic|喜剧的|comedy|喜剧片|
 |deviation|背离，偏离|ridiculous|荒谬的，愚蠢的，可笑的|admire|钦佩，欣赏，羡慕|religious|宗教的，虔诚的|
 |1-3|
+|slope|斜坡|deciduous|每年落叶的|twist|扭曲|deform|变形|
+|ridge|脊背|frost|霜冻|cessation|停止，中断|smother|使窒息，使透不过气|
+|avalanche|雪崩|creep|缓慢的移动|ultraviolet|紫外线|elevation|提升，提拔，海拔|
+|graze|放牧|fairly|相当的，公平，简直|bare|裸露的，光秃秃的|moss|苔藓|
+|melt|融化|rigor|严格，严酷，严密|insulation|隔离，孤立|equatorial|赤道的|
