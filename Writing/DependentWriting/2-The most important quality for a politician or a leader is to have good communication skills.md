@@ -1,0 +1,1 @@
+# The most important quality for a politician or a leader is to have good communication skills
