@@ -11,9 +11,8 @@
 |instigate|激起，教唆|adornment|装饰品|secular|现世的，俗世的，长久的|commission|委托，任命|
 |10-2|
 |constitute|组成，构成|millennia|千年|undergo|经历|immense|极大的，巨大的|
-|interpret|解释，理解|confidence|秘密，自信，信赖|decide|下决心，判定|instrumental|仪器的，乐器的|
+|interpret|解释，理解|confidence|秘密，自信，信赖|ambient|周围的，包围着的|instrumental|仪器的，乐器的|
 |interval|间隔|swing|摆动，秋千|regime|朝代更迭|appreciably|相当大的，明显的|
-|ambient|周围的，包围着的|
 |10-3|
 |prosperous|繁荣的，兴旺的|rural|乡村的|reclamation|开垦|spectacular|壮观的|
 |peasant|农夫|urban|城镇的|access|入口，通道，访问，接触|intrinsic|固有的，本质的|
