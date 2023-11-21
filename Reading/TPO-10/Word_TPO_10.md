@@ -1,4 +1,4 @@
-# TPO-6
+# TPO-10
 
 |word|translation|word|translation|word|translation|word|translation|
 |---|---|---|---|---|---|---|---|
