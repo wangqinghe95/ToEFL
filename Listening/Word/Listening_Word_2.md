@@ -16,3 +16,7 @@
 |botany|植物学|chlorophyll|叶绿素|photosynthesis|光合作用|sugar|糖|
 |pigment|颜料，色料|anthocyanin|花青素|predatory|食肉的|fungi|真菌|
 |shield|盾，护照|
+|37-2|
+|lay down|放下，规定|compost|混合的|resistant|抵抗的|property|财产，属性，特性|
+|clay|黏土|residue|残余，残渣|cellulose|纤维素，细胞膜质|humus|腐殖质|
+|mobile|活动的，流动的，易变的|incorporate|混合，包含|
