@@ -1,7 +1,17 @@
 # The most important quality for a politician or a leader is to have good communication skills
 
-和其他人沟通是每个人无法避开的一件事，所以沟通技能是每个人都应该必备的技能，尤其是对于一名政治家或者领导者来说，因为他们不仅需要和自己的团队成员沟通，还需要向其他的团队甚至陌生人交流。但是我不认为这项技能是他们所必须拥有的最重要的品质，因为想要领导好一个团队，一个党派，甚至是一个国家，还有许多其他重要的品质要比沟通能力更重要。
+## Essay
+Some people believe that the most important characteristic of a successful politician or leader is good communication skills. They argue that a good communicator can persuade, inspire, and motivate others to achieve a common goal. However, I disagree with this statement. I think that good communication skills are not enough to make a great politician or a leader. In my opinion, there are other qualities that are more essential, such as integrity, vision, and competence. In this essay, I will explain why I think these qualities are more important than good communication skills for a politician or a leader.
 
-首先，我认为想要成为一名合格的领导者需要具备的最重要的品质是志向。就如同一个党派的纲领，一个国家的宣言一样，一个领导者的志向会吸引志同道合的追随者。一个优秀的志向不仅能吸引优秀的成员加入，也能赢得外界的肯定，陌生人的支持。一个优秀的志向也会成为整个团队的奋斗目标，所有成员团结一心为这个目标努力，这样才是一个优秀的领导者带领起来的优秀团队。
+The first reason why I think integrity is more important than good communication skills for a politician or a leader is that integrity is the foundation of trust and credibility. A politician or a leader who has integrity is honest, ethical, and consistent in his or her words and actions. He or she does not lie, cheat, or manipulate others for personal gain. 
 
-其次是与之匹配的
+The second reason why I think vision is more important than good communication skills for a politician or a leader is that vision is the source of inspiration and direction. A politician or a leader who has vision is able to see the big picture and the long-term goals. He or she can create a compelling and realistic vision that aligns with the needs and aspirations of the people. He or she can also communicate the vision clearly and persuasively to others, and mobilize them to work toward it. 
+
+I acknowledge that good communication skills are important for a politician or a leader, but I do not think they are the most important quality. Good communication skills can help a politician or a leader to convey his or her ideas and opinions effectively, but they do not guarantee that those ideas and opinions are sound and beneficial. A politician or a leader who has good communication skills but lacks other qualities, such as integrity, vision, and competence, may use his or her skills to deceive, manipulate, or mislead others. 
+
+In conclusion, I disagree with the statement that the most important quality for a politician or a leader is to have good communication skills. I think that there are other qualities that are more essential, such as integrity, vision, and competence. A politician or a leader who has these qualities can build trust, inspire change, and deliver results. He or she can also use his or her communication skills to support and enhance these qualities, rather than to undermine or abuse them. I hope that in the future, we can elect and follow politicians and leaders who have these qualities, and who can lead us to a better and brighter future.
+
+<div style="page-break-after: always;"></div>
+
+## Translation
+
