@@ -1,4 +1,4 @@
-# TPO-6
+# Reading TPO-6
 
 |word|translation|word|translation|word|translation|word|translation|
 |---|---|---|---|---|---|---|---|

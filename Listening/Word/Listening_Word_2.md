@@ -9,7 +9,7 @@
 | mess       | 弄乱                   | adulthood   | 成年             | grunt          | 咕哝着说; 发哼声 | sibling       | 兄弟，姐妹       |
 | 29-3       |
 | auditorium | 观众席，礼堂           | acoustics   | 听觉的，声学的   | phsicist       | 物理学家         | reverberation | 反响，反射       |
-| equation   | 等式，方程式           | drown       | 使淹死，使盖过   | symphony       | 交响乐           | racquetball   |                  | 墙球 |
+| equation   | 等式，方程式           | drown       | 使淹死，使盖过   | symphony       | 交响乐           | racquetball   | 墙球 |
 | bounce     | 弹起，反射，蹦跳       | ornamental  | 装饰的，装饰品的 | plasterwork    | 抹灰泥工作       | plush         | 豪华的，漂亮的   |
 | chadelier  | 吊灯                   |
 | 43-2       |

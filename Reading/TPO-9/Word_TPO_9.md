@@ -1,4 +1,4 @@
-# Word TPO 9
+# Reading TPO-9
 
 |word|translation|word|translation|word|translation|word|translation|
 |---|---|---|---|---|---|---|---|

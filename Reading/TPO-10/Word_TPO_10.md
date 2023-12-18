@@ -1,4 +1,4 @@
-# TPO-10
+# Reading TPO-10
 
 |word|translation|word|translation|word|translation|word|translation|
 |---|---|---|---|---|---|---|---|
