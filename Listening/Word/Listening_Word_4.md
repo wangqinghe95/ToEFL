@@ -26,5 +26,3 @@
 | distinction | 差别; 分别; 卓越           | force         | 强迫; 强行; 把…强加给              | appreciate    | 欣赏，重视; 感激，欢迎; 理解 | banding       | 条带; （如按能力、价值、交税等）分类; 染色体带 |
 | vulture     | 秃鹰，秃鹫                 | pecking       | 啄，啄食，小口地吃                 | mystery       | 秘密，谜; 神秘，神秘的事物   | ring          | 包围，给…戴上金属环; 画圈                      |
 | bar         | 阻拦，禁止，条，块，棒     | wing          | 飞（行）; 赶往                     | hybridization | 杂交，杂种培植               | captivity     | 被俘; 囚禁; 束缚                               |
-| 40-3        |
-| collapse    | 倒闭; 倒塌                 | bucket        | （有提手的）桶; 一桶（的量）; 大量 | vessel        | 容器; 船，飞船               | sophisticated | 复杂的; 精致的                                 | competing | 对抗的，竞争的 |
