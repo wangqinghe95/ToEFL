@@ -11,7 +11,7 @@
 |barley|大麦; 大麦粒; 麦子|grew|种植( grow的过去式 ); 扩大; 扩展; 增加|grain|谷粒; 谷物; 细粒|elevate|提拔，提升; 提高; 举起|
 |consistent|一致的; 连贯的; 始终如一的|rodent|（与） 啮齿动物（有关）的|excavate|挖掘; 开凿; 挖出; 发掘|criteria|批评、判断等的）标准，准则( criterion的名词复数 )|
 |doubt|怀疑|remnant|剩余部分; 残余; 幸存者|multiple|多重的; 多个的|surplus|过剩的; 多余的|
-|entire|全部的，整个的|regularly|有规律地; 经常; 均匀地|camp|营地; 营房; 度假村|artifacts|史前古器物|
+|entire|全部的，整个的|regularly|有规律地; 经常; 均匀地|camp|营地; 营房; 度假村|artifacts|手工制品，工艺品|
 |mortar|迫击炮; 砂浆; 房产; 研钵|grinding|磨的，磨擦的，碾的|equipment|设备; 配备|substantial|大量的; 结实的，牢固的; 重大的|
 |54-4|
 |assignment|业，任务; 分配|scene|地点，现场; 场面|fairly|相当地; 还算; 公正地|tale|传说，传言|
@@ -41,3 +41,13 @@
 |stationary|不动的，固定的; 静止的|clutter|使凌乱; 乱糟糟地堆满|hills|小山，山冈|spear|用矛刺; 用鱼叉捉|
 |angle|斜移，斜置; 从某角度报道|chaotic|混乱的; 乱糟糟的|evaluation|评估，评价|faint|微弱的，暗淡的|
 |waveform|波形|smooth|使光滑; 均匀涂抹|jagged|参差不齐的; 锯齿状的|rough|粗糙的，不平的; 粗略的|
+|16-3|
+|genre|类型，种类; 体裁|narrow|狭窄的; 狭隘的|patronage|资助，赞助; 光顾，惠顾|composer|作曲家|
+|earn|赚取; 盈（利）|technical|技术的，技能的;|transverse|横向的; 横断的;|flute|长笛，长笛吹奏者|
+|intention|意图; 打算|organ|机构; 器官|harpsichord|有键竖琴，羽管键琴|combination|结合（体）; 联合（体）|
+|classified|将…分类（ classify的过去式和过去分词）|quill|刺; 羽毛管|pluck|勇气，精神; 内脏|hammer|铁锤，榔头; 链球|
+|strike|碰撞; 打; 突击|drumstick|鼓槌，鼓槌（形物）体|percussive|敲击的|pianoforte|钢琴（旧称）|
+|artistically|有艺术地|emotion|情绪; 强烈的情感|expressiveness|表现，表示|dominated|控制( dominate的过去式和过去分词 )|
+|coincide|同时发生; 一致; 重叠|refined|精炼( refine的过去式和过去分词)|dropped|落下|previously|事先; 以前; 仓促|
+|composed|镇静的，沉着的|refinement|精炼，提纯，净化;|exceptioned|杰出的，非凡的; 例外的|opportunity|机会; 时机|
+|dramatically|戏剧地; 显著地|extraordinary|非凡的; 非常奇特的; 特别的|recital|独唱会; 独奏会|virtuoso|艺术大师，演奏能手|
