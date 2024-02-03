@@ -3,9 +3,9 @@
 | word          | translation                  | word            | translation                    | word             | translation                          | word               | translation              |
 | ------------- | ---------------------------- | --------------- | ------------------------------ | ---------------- | ------------------------------------ | ------------------ | ------------------------ |
 
-|14-3|
-|regulating|sweating|panting|burrow|spot|localized|moisture|square|aspect|elevation|substantial|forest|sinked|squirrel|foraging|internally|perspire|dehydrate|balancing|precise|thickness|microscope|decomposing|disturbed|knocks|unwittingly|
-|17-6|
-|fascinating|defense|mechanism|prey|escape|mythology|form|series|skin|presents|speckled|gray|blend|hide|enemies|coral|executed|chromatophores|sacs|dye|millimeter|muscles|shrinks|contract|combination|mimic|supplemented|projection|resembles|papilla|rough|flatten|acquire|squirting|threatened|distract|apparent|muscular|flexible|posture|nestle|
+|20-6|
+|western|incredible|adapt|evolve|adaptation|hare|technically|blind|fur|coat|issue|twig|concern|camouflage|swear|chances|shedding|furry|thick|thin|paws|hop|lean|lightweight|accumulate|harsh|
+|21-5|
+|previous|evolved|lizards|venomous|advanced|secrete|poisonous|viper|cobra|fit|category|classified|except|protein|mixture|toxic|brain|similarity|method|bacteria|routes|related|reliable|separate|effective|deliver|immobilize|digest|teeth|efficient|crushing|apparatus|disappeared|constriction|led|exciting|applications|medical|alter|functions|drug|benefit|effect|far-fetch|
 |18-6|
 |melting|patience|frog|blend|worth|effort|territory|drop|below|weather|crystal|aback|solid|beat|trigger|lungs|liver|driver|puddle|underneath|glucose|circulatory|antifreeze|sightly|wet|pumpling|clinically|pulse|recovered|thawing|peculiar|longevity|reproduction|diminishes|
