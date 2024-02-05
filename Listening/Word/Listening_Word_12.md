@@ -20,3 +20,10 @@
 |migrate|throughout|habitant|traits|
 |niche|diversification|radiation|undergoes|
 |multiple|fill|colonizing|
+|1-6|
+|marmot|rodent|squirrel|average|
+|portion|hibernating|excellent|reside|
+|frost|vegetative|describe|social|
+|territorial|aggressive|ritual|impersonal|
+|emerge|edible|vegetation|ceremonies|
+|bizarre|meadow|nurture|cooperation|
