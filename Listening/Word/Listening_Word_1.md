@@ -12,8 +12,8 @@
 | pigment      | 颜料，色料             | anthocyanin     | 花青素                 | predatory      | 食肉的                     | fungi         | 真菌                   |
 | shield       | 盾，护照               | interfere       | 干涉，妨碍             | constitute     | 组成，构成                 |
 | 37-2         |
-| geology      | 地质学                 | growth          | 发展，成长             | vegetable      | 蔬菜; 植物人               | initial       | 开始的                 |
-| raw          | 生的; 自然状态的       | exposure        | 暴露; 揭发; 报道       | particle       | 微粒，颗粒                 | concentration | 全神贯注; 浓度         |
+| geology      | 地质学                 | growth          | 发展，成长             | vegetable      | 植物               | initial       | 开始的                 |
+| raw          | 原始的       | exposure        | 暴露; 揭发; 报道       | particle       | 微粒，颗粒                 | concentration | 浓度         |
 | ultimately   | 最后，最终             | mixture         | 混合; 混合物           | vertically     | 垂直地; 直立地             | deplete       | 耗尽，使枯竭           |
 | lay down     | 放下，规定             | compost         | 混合的                 | resistant      | 抵抗的                     | property      | 财产，属性，特性       |
 | clay         | 黏土                   | residue         | 残余，残渣             | cellulose      | 纤维素，细胞膜质           | humus         | 腐殖质                 |
