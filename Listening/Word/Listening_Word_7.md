@@ -1,36 +1,26 @@
 # Listening_Word_7
 
-| word                | translation                | word          | translation                | word           | translation                     | word          | translation              |
-| ------------------- | -------------------------- | ------------- | -------------------------- | -------------- | ------------------------------- | ------------- | ------------------------ |
-| 7-3                 |
-| elephant            | 象，大象                   | infrasound    | 次声（风暴产生的低频音波） | spectrum       | 光谱; 波谱;                     | ultrasound    | 超声; 超声波             |
-| frequency           | 频繁性;频率                | bats          | 神经不正常的，怪异的       | blind          | 失明的; 双眼模糊的              | echolocation  | 回声定位能力             |
-| explanatory         | 解释性的，说明性的         | navigation    | 航行（学）; 航海（术）     | orientation    | 方向，定位，取向                | prey          | 捕食; 欺凌               |
-| summarize           | 结，概述                   | emit          | 发出; 散发                 | purse          | 钱包，钱袋; 财力                | echoes        | 重复，随声附和           |
-| bounce              | 弹跳; 弹性; 活力; 反弹     | pulses        | 脉搏;脉动; 活力            | diagram        | 用图表表示                      | burst         | 爆裂，爆炸;              |
-| identified/identify | 认出; 支持; 确认; 辨认     | moth          | 飞蛾，蛾子                 | beating        | 打，敲打;                       |
-| escape              | 逃避; 解脱; 渗出           | motionless    | 不动的，静止的; 呆若木鸡的 | leaf           | 叶子; 页; 叶状的结构            | underestimate | 低估; 估计不足; 过低评价 |
-| sophisticated       | 复杂的; 精致的; 富有经验的 | assume        | 假设，认为; 承担           | filtering      | 过滤，滤除，滤清                | radar         | 雷达; 雷达装置           |
-| stationary          | 不动的，固定的; 静止的     | clutter       | 使凌乱; 乱糟糟地堆满       | hills          | 小山，山冈                      | spear         | 用矛刺; 用鱼叉捉         |
-| angle               | 斜移，斜置; 从某角度报道   | chaotic       | 混乱的; 乱糟糟的           | evaluation     | 评估，评价                      | faint         | 微弱的，暗淡的           |
-| waveform            | 波形                       | smooth        | 使光滑; 均匀涂抹           | jagged         | 参差不齐的; 锯齿状的            | rough         | 粗糙的，不平的; 粗略的   | experiment | 实验; 试用 |
-| 16-3                |
-| genre               | 类型，种类; 体裁           | narrow        | 狭窄的; 狭隘的             | patronage      | 资助，赞助; 光顾，惠顾          | composer      | 作曲家                   |
-| earn                | 赚取; 盈（利）             | technical     | 技术的，技能的;            | transverse     | 横向的; 横断的;                 | flute         | 长笛，长笛吹奏者         |
-| intention           | 意图; 打算                 | organ         | 机构; 器官                 | harpsichord    | 有键竖琴，羽管键琴              | combination   | 结合体，联合             |
-| classified/classify | 将…分类                    | quill         | 刺; 羽毛管                 | pluck          | 勇气，精神; 内脏                | hammer        | 铁锤，榔头; 链球         |
-| strike              | 碰撞; 打; 突击             | drumstick     | 鼓槌，鼓槌（形物）体       | percussive     | 敲击的                          | pianoforte    | 钢琴（旧称）             |
-| artistically        | 有艺术地                   | emotion       | 情绪; 强烈的情感           | expressiveness | 表现，表示                      | dominated     | 控制                     |
-| coincide            | 同时发生; 一致; 重叠       | refined       | 精炼                       | dropped        | 落下                            | previously    | 事先; 以前; 仓促         |
-| composed            | 镇静的，沉着的             | refinement    | 精炼，提纯，净化;          | exceptioned    | 杰出的，非凡的; 例外的          | opportunity   | 机会; 时机               |
-| dramatically        | 戏剧地; 显著地             | extraordinary | 非凡的; 特别的             | recital        | 独唱会; 独奏会                  | virtuoso      | 艺术大师，演奏能手       |
-| 18-3                |
-| examination         | 考试; 审查                 | portrait      | 肖像，肖像画               | bust           | 打碎，破坏                      | commerce      | 商业; 贸易               |
-| relief              | 宽慰，解脱                 | category      | 种类; 类别                 | campaign       | 运动; 战役                      | army          | 陆军（部队）; 大批，大群 |
-| empire              | 帝国; 企业集团             | conquer       | 占领; 攻克                 | impressed      | 印象深刻的，使感动，使印象深刻  | dominant      | 占支配地位的; 显著的     |
-| effort              | 努力; 吃力; 有组织的行动   | hypothesis    | 假设，假说                 | indicate       | 表明，暗示; 指示                | idealization  | 理想化; 观念化           |
-| prevalent           | 流行的，盛行的;            | convinced     | 坚信的，确信的             | admire         | 钦佩，赞赏; 羡慕; 欣赏          | reproduction  | 繁殖，生殖; 再生产       |
-| sake                | 缘故; 理由; 日本米酒       | decoration    | 装饰; 装饰风格             | emperor        | 皇帝; 君主                      | imperial      | 帝国的; 皇帝的           |
-| inhabitant          | 居民，住户                 | coin          | 硬币                       | reminder       | 令人回忆起…的东西; 提醒…的东西; | charge        | 收费; 指控; 负责         |
-| original            | 最初的; 独创的             | exact         | 精确的; 确切的             | combination    | 结合（体）; 联合（体）          | plaster       | 涂以灰泥; 在…上敷贴膏药  |
-| marble              | 大理石; 大理石制品;        | bronze        | 青铜（色）; 青铜像         |
+| word          | translation                  | word            | translation                    | word             | translation                          | word               | translation              |
+| ------------- | ---------------------------- | --------------- | ------------------------------ | ---------------- | ------------------------------------ | ------------------ | ------------------------ |
+| 51-3          |
+| perspective   | 透镜，望远镜; 观点，看法     | heliocentric    | 以太阳为中心的                 | laid out         | 安排；陈列；花费                     | telescope          | 望远镜                   |
+| toss          | 掷硬币决定; 向上甩头; 猛仰头 | despite         | 尽管，虽然                     | ingenious        | 灵巧的; 精巧的                       | caroused/carouse   | 痛饮，闹饮欢宴           |
+| amusement     | 有趣，可笑; 愉悦; 消遣       | tight           | 紧的，牢固的; 密封的           | centrifugal      | 离心的                               | securely           | 安全地; 牢固地           |
+| sorta         | 近似，有几分                 | atmosphere      | 大气层; 空气; 氛围             | heliocentrism    | 日心说                               | equator            | 赤道                     |
+| matchstick    | 火柴杆，火柴杆似的东西       | rotating/rotate | （使某物）旋转; 使转动         | inclination      | 倾向; 爱好; 斜坡                     |
+| 1-2           |
+| contemporary  | 当代的; 同时发生的           | semester        | 学期; 半学年                   | exhibit          | 展览; 表现                           | gallery            | 画廊，走廊;              |
+| artist        | 艺术家; 艺人; 高手           | unfamiliar      | 不熟悉的; 不常见的;            | unusual          | 特别的，不寻常的; 独特的             | realistic          | 现实的; 实际的; 明智的   |
+| impressionism | （绘画的）印象主义; 印象派   | separately      | 分别地，另行; 分开             | depict           | 描绘，描画; 描述                     | thickly            | 厚厚地; 浓密地           |
+| brushstroke   | 一笔，一画，绘画的技巧       | canvas          | 帆布; 油画（布）               | rough            | 粗糙的，不平的                       | bleak              | 暗淡的，无望的; 阴冷的   |
+| broad         | 宽的; 广泛的; 辽阔的         | blurry          | 模糊的; 污脏的                 | pinkish          | 带桃红色的; 较为激进的               | fence              | 栅栏; 赛马障碍物; 销赃者 |
+| foreground    | 前景; 突出的地方             | cattle          | 牛                             | depiction        | 描绘，描画; 描述                     | idealized          | 理想化的                 |
+| wrapped/wrap  | 包，裹; 用…绕住              | blanket         | 毯子; 厚层; 蒙蔽之物           | zigzagging       | 弯弯曲曲地走路，曲折地前进           | chaotic            | 混乱的; 乱糟糟的         |
+| vibrant       | 充满生机的；生气勃勃的       | hint            | 线索，迹象; 提示               | peeking/peek     | 偷看; 窥视                           | convinced/convince | 坚信的，确信的           |
+| 47-3          |
+| seasonal      | 季节的，季节性的             | foraging/forage | 搜寻（食物），尤指动物觅（食） | nest             | 巢; 安乐窝; 窝点                     | chick              | 雏鸟                     |
+| flown/fly     | 飞; 飞行                     | supply          | 提供，供应                     | burn up          | 烧毁，烧尽                           | back and forth     | 来回地                   |
+| snack         | 快餐，点心                   | soaring         | 高飞; 飞腾; 猛增               | expending/expend | 花费; 使用（钱等）做某事; 用光; 耗尽 | lay                | 放置; 布置餐桌; 铺放     |
+| captivity     | 被俘; 囚禁; 束缚             | wild            | 野生的; 荒凉的                 | apply            | 申请; 应用; 适用                     | compasses/compass  | 圆规; 罗盘               |
+| magnetic      | 有磁性的，有吸引力的         | celestial       | 天的，天空的                   | sensory          | 感觉的，感受的                       | navigation         | 航行（学）; 航海（术）   |
+| star          | 星; 星状物; 星级             | complain        | 抱怨，发牢骚                   |

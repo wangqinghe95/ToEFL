@@ -1,47 +1,45 @@
 # Listening_Word_1
 
-|word|translation|word|translation|word|translation|word|translation|
-|---|---|---|---|---|---|---|---|
-|20-2|
-|violate|违反，违背|maxim|格言|hint|提示|ambiguity|歧义，不明确|
-|sarcasm|嘲讽，讥讽|irony|反语，讽刺|blame|责备，指责|phrase|词组，句子|
-|principle|道德原则，理由|subtle|微妙的，敏感的|politician|政治家，政客|advertiser|登广告的人|
-|17-1|
-|tick|做出..举动|ironic|具有讽刺意味的|videotape|录像到磁带上|landmark|纪念碑，里程碑|
-|transient|短暂的|
-|14-1|
-|swamp|淹没，沉没|reasonable|合理的，公平的|rate|速率，比率，价格|
-|49-1|
-|seminar|研讨班|plot|情节，阴谋|thicken|使不清晰，变厚|rare|稀少的，罕见的|
-|annotation|注释|faint|微弱的，暗淡的|extraneous|外部的，外来的|misread|读错，念错|
-|prerequisite|先决条件|authorization|批准，授权|straighten|变直，使好转|skate|滑冰|
-|disintegrate|破裂，使瓦裂|
-|47-1|
-|orchestra|管弦乐|audition|听觉，面试|straight|笔直的|folk|民俗的|
-|ballad|民谣|lyrics|歌词|castle|城堡|royalty|王族成员，王权|
-|antique|古董的，古老的|journalism|新闻学，新闻专业|scholarly|学术性的|perspective|观点，看法|
-|lord|领主|location|地点，位置|occupation|职业，工作，占有|
-|41-2|
-|succulent|多肉植物|seep|渗出，渗透|evaporate|蒸发，挥发|inch|英寸，少量|
-|saturate|湿透，浸透|moist|潮湿的，微湿的|waxy|像蜡的，蜡色的|stomate|像小孔的，有空叶的|
-|metabolism|新陈代谢|dormant|休眠的，蛰伏的|occasionally|有时，偶尔|revive|使复活|
-|wetter|湿的，潮湿的|wipe|擦，擦除|specialized|专门的，专攻|adaptation|改编，适应|
-|10-2|
-|record|记录，记载|transition|过渡，转变|clearer|更清楚的|skull|颅骨，头盖骨|
-|aquatic|水产的，水生的|limb|肢，翼|skeletal|骨骼的，骸骨的|pelvis|骨盆|
-|descendant|后代，子孙|hippopotamus|河马|contradictory|对立的|molecular|分子的，由分子构成的|
-|sperm|精子，精液|baleen|鲸须|sperm whale|抹香鲸|baleen whale|长须鲸|
-|28-1|
-|twist|扭曲，曲折|portion|一部分|argument|理由，论据|citation|引用，引述|
-|convention|习俗，惯例|
-|37-1|
-|ceremonial|仪式，仪式的|approach|方法，接近，靠近|anthropological|人类学|decay|腐烂，衰落|
-|booklet|小册子|curator|馆长（博物馆）|exhibition|展览会|feather|羽毛|
-|coast|海滨|bet|打赌,赌注,预计|chance|机会，可能性|
-|46-1|
-|dorm|学生宿舍|campus|校园|odd|古怪的，奇数的|disturb|打扰，打断|
-|inform|非正式的|concert|音乐会|jazz|爵士乐|guideline|指导方针|
-|40-1|
-|eatery|食堂，餐馆|cafeteria|自助餐厅|hypothetical|假定的|sworn|发誓|
-|smoothly|平滑的，流畅的|protocol|礼仪，协议|soup|汤，羹|dessert|甜品，甜点|
-|cash|现金，资金|bakery|面包店|slice|薄片，切成薄片|
+| word         | translation            | word            | translation            | word           | translation                | word          | translation            |
+| ------------ | ---------------------- | --------------- | ---------------------- | -------------- | -------------------------- | ------------- | ---------------------- |
+| 29-3         |
+| auditorium   | 观众席，礼堂           | acoustics       | 听觉的，声学的         | phsicist       | 物理学家                   | reverberation | 反响，反射             |
+| equation     | 等式，方程式           | drown           | 使淹死，使盖过         | symphony       | 交响乐                     | racquetball   | 墙球                   |
+| bounce       | 弹起，反射，蹦跳       | ornamental      | 装饰的，装饰品的       | plasterwork    | 抹灰泥工作                 | plush         | 豪华的，漂亮的         |
+| chandelier   | 吊灯                   |
+| 43-2         |
+| botany       | 植物学                 | chlorophyll     | 叶绿素                 | photosynthesis | 光合作用                   | sugar         | 糖                     |
+| pigment      | 颜料，色料             | anthocyanin     | 花青素                 | predatory      | 食肉的                     | fungi         | 真菌                   |
+| shield       | 盾，护照               | interfere       | 干涉，妨碍             | constitute     | 组成，构成                 |
+| 37-2         |
+| geology      | 地质学                 | growth          | 发展，成长             | vegetable      | 蔬菜; 植物人               | initial       | 开始的                 |
+| raw          | 生的; 自然状态的       | exposure        | 暴露; 揭发; 报道       | particle       | 微粒，颗粒                 | concentration | 全神贯注; 浓度         |
+| ultimately   | 最后，最终             | mixture         | 混合; 混合物           | vertically     | 垂直地; 直立地             | deplete       | 耗尽，使枯竭           |
+| lay down     | 放下，规定             | compost         | 混合的                 | resistant      | 抵抗的                     | property      | 财产，属性，特性       |
+| clay         | 黏土                   | residue         | 残余，残渣             | cellulose      | 纤维素，细胞膜质           | humus         | 腐殖质                 |
+| mobile       | 活动的，流动的，易变的 | incorporate     | 混合，包含             | horizontally   | 水平地，横地               | deposit       | 放下; 存放，使沉淀     |
+| 24-3         |
+| formalized   | 是具有一定形式         | radical         | 根本的                 | analogy        | 类比，比喻                 | predecessor   | 前辈，前任             |
+| experimental | 根据实验的，实验性的   | improvisational | 即兴的                 | emotion        | 情绪，强烈的情感           | intangible    | 触摸不到的，难以理解的 |
+| pioneer      | 先驱，开拓者           | recital         | 独唱会，独奏会         | sway           | 倾斜，摇摆                 | gesture       | 手势，姿态             |
+| motivate     | 激发，诱发             | dictate         | 口述，命令             | stiff          | 严厉的，僵硬的             | ballerina     | 芭蕾舞演员             |
+| adore        | 热爱，喜爱             | critic          | 批评家                 | pantomime      | 哑剧，儿童剧               | rebellion     | 造反，反叛             |
+| restrictive  | 受限制的，受约束的     | exemplify       | 是...的典范            | renowned       | 有名的，享有盛誉的         | appall        | 使厌恶，使惊骇         |
+| denounce     | 谴责，痛斥             | acrobatic       | 杂技的                 | excruciating   | 使苦恼的，极度的           | critique      | 评论文章               |
+| theatrical   | 戏剧的，戏剧性的       | briefly         | 短暂地; 简单地; 简略地 | shore          | 岸，滨                     | tunics        | 外衣                   |
+| barefoot     | 赤脚的; 光着脚的       | tiptoe          | 踮着脚走               | mechanism      | 机制，机能                | rivalry       | 竞争，对抗，对立       |
+| 45-2         |
+| religious    | 宗教的，虔诚的         | secular         | 现实的，俗世的         | theme          | 主题，题目                 | portrait      | 肖像，肖画像           |
+| sculptor     | 雕刻家，雕塑家         | narrative       | 记叙文，故事           | church         | 教堂，礼拜                 | realistically | 现实地，实际地         |
+| contrapposto | 对应，构图均衡         | entail          | 牵扯，使必要           | shoulder       | 肩膀; 路肩                 | hip           | 臀部                   |
+| slant        | 倾斜，歪斜             | realistic       | 现实的                 | mess           | 弄乱                       | proportion    | 部分，份额             |
+| visualize    | 设想; 使可见           | imagine         | 想象; 猜测; 臆想       | tendon         | 筋，腱                     | muscle        | 肌肉; 力量             |
+| flesh        | 肌肤                   | method          | 方法                   | antiquity      | 古老，古代; 古迹           | anatomical    | 结构的                 |
+| accurate     | 精确的，精准的         | liner           | 线性                   | geometry       | 几何学; 几何形状           | coverage      | 新闻报道，信息覆盖     |
+| vanish       | 消失，突然不见         | illusion        | 错觉; 幻想             | depth          | 深度                       | forefront     | 前列; 第一线           |
+| 4-3          |
+| essay        | 短文，论文             | reliance        | 依赖，依靠             | poem           | 诗，韵文                   | potential     | 潜在的                 |
+| profound     | 深厚的，意义深远的     | belief          | 信心，信仰             | conviction     | 判罪，坚信                 | universal     | 普遍的，全体的         |
+| geniuses     | 天才，创造能力         | unique          | 唯一的，独特的         | glimpse        | 一瞥，扫视                 | conformity    | 遵从，遵守             |
+| criticize    | 批评，指责             | consistently    | 一贯地，坚持地         | nonconformist  | 不墨守成规的，不遵循常规者 | foolish       | 愚蠢的，荒谬的         |
+| voyage       | 航行，航海             | zigzag          | 曲折前行               | attest         | 证实，证明                 | accountant    | 会计，会计师           |

@@ -1,33 +1,29 @@
 # Listening_Word_10
 
-| word          | translation                  | word            | translation                    | word             | translation                          | word               | translation              |
-| ------------- | ---------------------------- | --------------- | ------------------------------ | ---------------- | ------------------------------------ | ------------------ | ------------------------ |
-|20-6|
-|western|西方的，西部的|incredible|不可思议的; 惊人的|adapt|使）适应/适合; 改编; 改造|evolve|（使）逐渐形成/演变; 进化|
-|adaptation|改编版; 适应|hare|野兔; 怪人，傻瓜|technically|技术上; 学术上; 专业上|blind|失明的; 使…看不见; 使眼花|
-|fur|毛皮; 软毛; 毛皮衣服|coat|外套，大衣; （动物）皮毛|issue|问题;发表，发布|twig|理解，明白，细枝，嫩枝|
-|concern|担心; 令人担心的事，影响; 涉及|camouflage|伪装; 掩饰|swear|咒骂; 郑重承诺; 发誓|chances|机会( chance的名词复数 ); 偶然;|
-|shedding/shed|脱落，蜕落，流出; 流下;|furry|毛皮的，毛皮制的|thick|浓的，茂密的; 厚的|thin|薄的; 瘦的; 稀少的; 细的|
-|paws|爪子,手|hop|跃过; 登上|lean|倾斜; 倚靠，瘦的，脂肪少的|lightweight|轻量的; 不重要的|
-|accumulate|积累，积聚; 堆积|harsh|粗糙的; 刺耳的; 严厉的|
-|21-5|
-|previous|先前的; 以前的|evolved|演变，进化|lizards|蜥蜴|venomous|（蛇等）分泌毒液的; 有毒的|
-|advanced|先进的; 高级的|secrete|分泌; 隐匿，隐藏|poisonous|有毒的; 极令人厌恶的|viper|蝰蛇; 毒蛇; 阴险恶毒的人|
-|cobra|眼镜蛇|fit|适合; 合身; 试穿|category|种类; 类别|classified|机密的，保密的; 分类的|
-|except|除了…之外|protein|朊，蛋白（质）|mixture|混合; 混合物|toxic|有毒的; 中毒的|
-|brain|脑; 智力; 出谋划策者|similarity|类似; 相似点|method|方法; 有条不紊|bacteria|细菌|
-|routes|路,常规路线; 途径; 渠道|separate|独立的，分开的|effective|有效的; 实际的|deliver|发表; 宣布; 递送; 交付|
-|immobilize|使不动，使固定|digest|消化; 理解|teeth/tooth|牙; 齿; 齿状部份|efficient|效率高的; 有能力的|
-|crushing|压倒的; 决定性的|apparatus|机构，组织; 器械，设备|disappeared|不见，消失|constriction|压缩; 紧压的感觉; 束紧; 压缩物|
-|led|带路|exciting|令人激动/兴奋的|applications|申请; 申请书; 申请|medical|医学的; 内科的|
-|alter|改变; 变更，更改|drug|药; 毒品; 成瘾药物|benefit|好处; 优势; 福利费|far-fetch|牵强的，未必会的; 不着边际|
-|18-6|
-|melting|熔化的; 融化的|patience|容忍; 毅力; 单人纸牌游戏|frog|青蛙|blend|（使）混合; 融合|
-|worth|价值，值…钱; 值得|effort|努力; 吃力; 有组织的行动|territory|领土; 地盘; 范围|drop|落下; （使）降低; 使掉下|
-|below|在下面; 在下文中|weather|天气|crystal|结晶，晶体; 水晶|aback|吃惊地; 向后|
-|solid|固体的; 坚硬的|beat|打败; 控制; 难倒; 突破|trigger|引发，触发; 扣…的扳机|lungs|肺|
-|liver|肝脏|driver|司机，驾驶员|puddle|水坑; 胶土|underneath|在下面，在底下|
-|glucose|葡萄糖，右旋糖|circulatory|循环的|antifreeze|防冻剂|sightly|好看的|
-|wet|湿的; 下雨的|pumping/pump|用抽水机汲水|clinically|临床地；门诊部地|pulse|脉搏;|
-|recovered|重新获得; 找回|thawing|熔化，融化|peculiar|奇怪的，古怪的;|longevity|长寿; 寿命; 长期供职|
-|reproduction|繁殖，生殖; 再生|diminishes|使）减少，缩小|
+| word        | translation                      | word            | translation                     | word        | translation              | word        | translation            |
+| ----------- | -------------------------------- | --------------- | ------------------------------- | ----------- | ------------------------ | ----------- | ---------------------- |
+| 27-5        |
+| touched     | 接触，触摸                       | sauropod        | 蜥脚类动物                      | traces      | 描绘; 追溯; 发现; 跟踪   | prehistoric | 史前的; 陈旧的         |
+| impression  | 印象; 影响;                      | weighed         | 称…的重量                       | offspring   | 后代，子孙; 产物         | maintaining | 保持;保养; 坚持        |
+| population  | 人口; 族群                       | thrive          | 兴盛，兴隆; 长得健壮            | oxygen      | 氧（气）                 | anatomy     | 解剖，分解，分析       |
+| expert      | 行家                             | conserving      | 保护，保藏，保存                | enormous    | 巨大的; 极大的           | stomach     | 腹部; 胃               |
+| digest      | 消化; 理解                       | hypothesis      | 假设，假说                      | chew        | 咀嚼，嚼碎               | muscle      | 肌肉; 力量             |
+| swallow     | 吞，咽; 忍耐                     | aid             | 援助，资助; 促进                | grind       | 磨快，磨光; 咬牙         | smashing    | 极好的; 粉碎的         |
+| measured    | 量; 测量; 衡量                   | determine       | 查明; 测定; 准确算出            | ingested    | 吃，吞下                 | speculate   | 投机; 推测; 思索       |
+| 33-5        |
+| ingenious   | 灵巧的; 精巧的; 设计独特的       | inhabit         | 居住; 在…出现                   | shallow     | 浅的; 肤浅的             | eyes        | 眼睛                   |
+| insulating  | 使绝缘;使隔离; 使免除            | layer           | 层，层次; 膜                    | protects    | 防护; 投保               | freezing    | 冻结，冷冻             |
+| dominating  | 在…中占首要地位; 在…中具有最重要 | diverse         | 形形色色的; 不同的              | ancestral   | 祖先的; 与祖先有关的     | mutation    | 变化; 转变; 突变       |
+| production  | 生产; 产量; 产生                 | shift           | 转移; 轮班; 转换键              | continental | 大洲的，大陆的           | landmass    | 大陆                   |
+| encircle    | 包围; 围绕                       | mixing          | 混合;（使）结交; 相容; 平安相处 | frigid      | unique                   |
+| competition | 竞争; 比赛; 竞争者               | ecological      | 生态（学）的                    | vacuum      | 真空; 空白; 空虚         | exploited   | 开采                   |
+| migrate     | 迁移，移往; 移动                 | throughout      | 自始至终; 遍及                  | habitant    | 居住者                   | traits      | 人的个性，显著的特点   |
+| niche       | 细分的，专营的                   | diversification | 变化，多样化; 多种经营          | radiation   | 辐射; 放射物             | undergoes   | 经历，承受             |
+| multiple    | 多重的; 多个的                   | fill            | 装满; 占满; 使遍及              | colonizing  | 开拓殖民地，移民于殖民地 |
+| 1-6         |
+| marmot      | 旱獭，土拨鼠                     | rodent          | 啮齿动物（有关）的              | squirrel    | 松鼠                     | average     | 平均数; 平均水平       |
+| portion     | 一部分; 一份遗产                 | hibernating     | 冬眠，蛰伏                      | excellent   | 极好的，优秀的           | reside      |
+| frost       | 霜冻，结霜                       | vegetative      | 植物的; 有生长力的              | describe    | 描述; 把…称为; 做…运动   | social      | 社会的; 社交的; 合群的 |
+| territorial | 领土的; 区域的                   | aggressive      | 好斗的，挑衅的; 积极进取的      | ritual      | 礼节性的; 例行公事的     | impersonal  | 没有人情味的; 非个人的 |
+| emerge      | 出现，兴起                       | edible          | 可食用的，能吃的                | vegetation  | 植物（总称），草木       | ceremonies  | 仪式; 礼节; 礼仪       |
+| bizarre     | 奇异的; 古怪的                   | meadow          | 草地; 牧场                      | nurture     | 养育; 培育;              | cooperation | 合作; 协助，配合       |

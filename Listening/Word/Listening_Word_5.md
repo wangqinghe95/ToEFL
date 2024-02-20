@@ -1,29 +1,36 @@
 # Listening_Word_5
 
-| word          | translation                   | word        | translation                        | word          | translation                | word          | translation                    |
-| ------------- | ----------------------------- | ----------- | ---------------------------------- | ------------- | -------------------------- | ------------- | ------------------------------ |
-| 40-3          |
-| collapse      | 倒闭; 倒塌                    | bucket      | （有提手的）桶; 一桶（的量）; 大量 | vessel        | 容器; 船，飞船             | sophisticated | 复杂的; 精致的                 |
-| competing     | 对抗的，竞争的                | pound       | 用力击打; 咚咚地走                 | unprofitable  | 无利益的; 没有用的         | fascinating   | 极有吸引力的; 迷人的           |
-| prior         | 优先的; 占先的                | growth      | 发展，增加                         | corner        | 角，角落; 转弯处           | scenario      | 设想; 可能发生的情况           |
-| privatize     | 使私有化; 使归私有            | efficiently | 效率高地; 有效地                   | property      | 财产; 房地产               | prone         | 易于…的; 有…倾向的             |
-| exploiting    | 开采                          | declining   | 倾斜的，衰退中的                   | dramatically  | 戏剧地; 显著地             | declare       | 宣称; 表明                     |
-| extend        | 延长; 扩展                    | territorial | 领土的; 区域的                     | trawler       | 拖网渔船; 拖网捕鱼者       | expel         | 驱逐; 开除; 排出               |
-| fleet         | 舰队，船队; 车队              | regulate    | 控制; 调节; 管理                   | penalty       | 惩罚; 刑罚                 | deter         | 威慑，吓住; 阻止               |
-| violator      | 违犯者                        |
-| 21-2          |
-| astronomy     | 天文学                        | distinction | 差别; 分别; 卓越                   | solar         | 太阳（能）的               | entire        | 全部的，整个的                 |
-| geocentric    | 以地球为中心的                | revolve     | （使）旋转，环绕                   | stationary    | 不动的，固定的; 静止的     | tiny          | 极小的，微小的                 |
-| philosophical | 哲学上的，哲学（家）的        | prevail     | 流行，盛行                         | astronomical  | 天文学的; 极其巨大的       | inconsistent  | 不一致的，不调和的; 前后矛盾的 |
-| alternate     | 使）交替，轮流                | intuitive   | 直觉的; 凭直觉获知的               | phenomenon    | 现象; 杰出的人             | reveal        | 揭示; 展示                     |
-| orbit         | 轨道;盘旋; 绕轨道运行         | epicycle    | 本轮，周转圆                       | motion        | 运动; 手势; 动机           | appearance    | 外表; （突然）到来，出现; 问世 |
-| heliocentric  | 以太阳为中心的                | calculation | 计算，估算; 算计                   | heavenly      | 神圣的; 天空的; 天国的     | mention       | 谈及; 提到; 提名               |
-| blowing       | 吹风，排泄，鼓风              | sweep       | 打扫，拂去; 梳（头发）             |
-| 27-3          |
-| optimized     | 使最优化，使尽可能有效        | acoustical  | 听觉的，声学的                     | properties    | 财产; 所有权; 特性         | vibrate       | 振动; 摆动; 犹豫; 激动         |
-| eardums       | 鼓膜，耳膜                    | applaud     | 鼓掌; 称赞，赞许                   | violinist     | 小提琴家                   | blew          | 吹气( blow的过去式 )           |
-| inspiring     | 鼓舞人心的; 启发灵感的        | identical   | 同一的; 完全同样的，相同的         | extraordinary | 非凡的; 非常奇特的; 特别的 | generation    | 一代人; 一代; 一批; 产生       |
-| vintage       | 美酒; 葡萄产量;酿酒的; 老式的 | counterpart | 职能（或地位）相当的人; 对应的事物 | replicate     | 复制，复写; 重复           | craftsmanship | 技术，技艺; 工力               |
-| coat          | 外套，大衣                    | furniture   | 家具                               | density       | 密度，密集; 浓度           | tropic        | 回归线; 热带，热带地方         |
-| porous        | 能穿透的，能渗透的            | denser      | 密集的( dense的比较级 )            | northern      | 北方的，北部的             | simulate      | 假装，冒充; 模仿               |
-| fungus        | 真菌; 霉，霉菌                | mushroom    | 蘑菇; 蘑菇状物                     | nibble        | 啃，一点一点地咬           |
+| word                | translation                | word          | translation                | word           | translation                     | word          | translation              |
+| ------------------- | -------------------------- | ------------- | -------------------------- | -------------- | ------------------------------- | ------------- | ------------------------ |
+| 7-3                 |
+| elephant            | 象，大象                   | infrasound    | 次声（风暴产生的低频音波） | spectrum       | 光谱; 波谱;                     | ultrasound    | 超声; 超声波             |
+| frequency           | 频繁性;频率                | bats          | 神经不正常的，怪异的       | blind          | 失明的; 双眼模糊的              | echolocation  | 回声定位能力             |
+| explanatory         | 解释性的，说明性的         | navigation    | 航行（学）; 航海（术）     | orientation    | 方向，定位，取向                | prey          | 捕食; 欺凌               |
+| summarize           | 结，概述                   | emit          | 发出; 散发                 | purse          | 钱包，钱袋; 财力                | echoes        | 重复，随声附和           |
+| bounce              | 弹跳; 弹性; 活力; 反弹     | pulses        | 脉搏;脉动; 活力            | diagram        | 用图表表示                      | burst         | 爆裂，爆炸;              |
+| identified/identify | 认出; 支持; 确认; 辨认     | moth          | 飞蛾，蛾子                 | beating        | 打，敲打;                       |
+| escape              | 逃避; 解脱; 渗出           | motionless    | 不动的，静止的; 呆若木鸡的 | leaf           | 叶子; 页; 叶状的结构            | underestimate | 低估; 估计不足; 过低评价 |
+| sophisticated       | 复杂的; 精致的; 富有经验的 | assume        | 假设，认为; 承担           | filtering      | 过滤，滤除，滤清                | radar         | 雷达; 雷达装置           |
+| stationary          | 不动的，固定的; 静止的     | clutter       | 使凌乱; 乱糟糟地堆满       | hills          | 小山，山冈                      | spear         | 用矛刺; 用鱼叉捉         |
+| angle               | 斜移，斜置; 从某角度报道   | chaotic       | 混乱的; 乱糟糟的           | evaluation     | 评估，评价                      | faint         | 微弱的，暗淡的           |
+| waveform            | 波形                       | smooth        | 使光滑; 均匀涂抹           | jagged         | 参差不齐的; 锯齿状的            | rough         | 粗糙的，不平的; 粗略的   | experiment | 实验; 试用 |
+| 16-3                |
+| genre               | 类型，种类; 体裁           | narrow        | 狭窄的; 狭隘的             | patronage      | 资助，赞助; 光顾，惠顾          | composer      | 作曲家                   |
+| earn                | 赚取; 盈（利）             | technical     | 技术的，技能的;            | transverse     | 横向的; 横断的;                 | flute         | 长笛，长笛吹奏者         |
+| intention           | 意图; 打算                 | organ         | 机构; 器官                 | harpsichord    | 有键竖琴，羽管键琴              | combination   | 结合体，联合             |
+| classified/classify | 将…分类                    | quill         | 刺; 羽毛管                 | pluck          | 勇气，精神; 内脏                | hammer        | 铁锤，榔头; 链球         |
+| strike              | 碰撞; 打; 突击             | drumstick     | 鼓槌，鼓槌（形物）体       | percussive     | 敲击的                          | pianoforte    | 钢琴（旧称）             |
+| artistically        | 有艺术地                   | emotion       | 情绪; 强烈的情感           | expressiveness | 表现，表示                      | dominated     | 控制                     |
+| coincide            | 同时发生; 一致; 重叠       | refined       | 精炼                       | dropped        | 落下                            | previously    | 事先; 以前; 仓促         |
+| composed            | 镇静的，沉着的             | refinement    | 精炼，提纯，净化;          | exceptioned    | 杰出的，非凡的; 例外的          | opportunity   | 机会; 时机               |
+| dramatically        | 戏剧地; 显著地             | extraordinary | 非凡的; 特别的             | recital        | 独唱会; 独奏会                  | virtuoso      | 艺术大师，演奏能手       |
+| 18-3                |
+| examination         | 考试; 审查                 | portrait      | 肖像，肖像画               | bust           | 打碎，破坏                      | commerce      | 商业; 贸易               |
+| relief              | 宽慰，解脱                 | category      | 种类; 类别                 | campaign       | 运动; 战役                      | army          | 陆军（部队）; 大批，大群 |
+| empire              | 帝国; 企业集团             | conquer       | 占领; 攻克                 | impressed      | 印象深刻的，使感动，使印象深刻  | dominant      | 占支配地位的; 显著的     |
+| effort              | 努力; 吃力; 有组织的行动   | hypothesis    | 假设，假说                 | indicate       | 表明，暗示; 指示                | idealization  | 理想化; 观念化           |
+| prevalent           | 流行的，盛行的;            | convinced     | 坚信的，确信的             | admire         | 钦佩，赞赏; 羡慕; 欣赏          | reproduction  | 繁殖，生殖; 再生产       |
+| sake                | 缘故; 理由; 日本米酒       | decoration    | 装饰; 装饰风格             | emperor        | 皇帝; 君主                      | imperial      | 帝国的; 皇帝的           |
+| inhabitant          | 居民，住户                 | coin          | 硬币                       | reminder       | 令人回忆起…的东西; 提醒…的东西; | charge        | 收费; 指控; 负责         |
+| original            | 最初的; 独创的             | exact         | 精确的; 确切的             | combination    | 结合（体）; 联合（体）          | plaster       | 涂以灰泥; 在…上敷贴膏药  |
+| marble              | 大理石; 大理石制品;        | bronze        | 青铜（色）; 青铜像         |

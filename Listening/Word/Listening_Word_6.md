@@ -1,30 +1,33 @@
 # Listening_Word_6
 
-| word           | translation                                              | word          | translation                            | word           | translation                              | word          | translation                                       |
-| -------------- | -------------------------------------------------------- | ------------- | -------------------------------------- | -------------- | ---------------------------------------- | ------------- | ------------------------------------------------- |
-| 35-3           |
-| archaeology    | 考古学; 古物; 古迹                                       | frustrating   | 产生挫折的，使人沮丧的                 | permanent      | 永久的; 不断出现的                       | settlement    | 解决; 结算; 沉淀; 定居点                          |
-| sedentary      | 坐着的; （指工作等）坐着干的; 案头的; （指人）不爱活动的 | remind        | 提醒; 使想起                           | nomadic        | 游牧的; 流浪的                           | edible        | 可食用的，能吃的                                  |
-| agricultural   | 农业的，农用的                                           | consensus     | 共识，一致看法                         | shortage       | 不足，缺少，短缺                         | revert        | 使恢复原状                                        |
-| contest        | 比赛，竞赛;角逐                                          | circular      | 圆形的; 环形的                         | appear         | 看来，好像; 出现; 出演                   | husk          | 去皮；去壳；去荚                                  |
-| barley         | 大麦; 大麦粒; 麦子                                       | grew          | 种植( grow的过去式 ); 扩大; 扩展; 增加 | grain          | 谷粒; 谷物; 细粒                         | elevate       | 提拔，提升; 提高; 举起                            |
-| consistent     | 一致的; 连贯的; 始终如一的                               | rodent        | （与） 啮齿动物（有关）的              | excavate       | 挖掘; 开凿; 挖出; 发掘                   | criteria      | 批评、判断等的）标准，准则( criterion的名词复数 ) |
-| doubt          | 怀疑                                                     | remnant       | 剩余部分; 残余; 幸存者                 | multiple       | 多重的; 多个的                           | surplus       | 过剩的; 多余的                                    |
-| entire         | 全部的，整个的                                           | regularly     | 有规律地; 经常; 均匀地                 | camp           | 营地; 营房; 度假村                       | artifacts     | 手工制品，工艺品                                  |
-| mortar         | 迫击炮; 砂浆; 房产; 研钵                                 | grinding      | 磨的，磨擦的，碾的                     | equipment      | 设备; 配备                               | substantial   | 大量的; 结实的，牢固的; 重大的                    |
-| 54-4           |
-| assignment     | 业，任务; 分配                                           | scene         | 地点，现场; 场面                       | fairly         | 相当地; 还算; 公正地                     | tale          | 传说，传言                                        |
-| approach       | 方法，方式; 接近                                         | actor         | 演员                                   | narrate        | 叙述，讲述                               | props         | 小道具; 支柱                                      |
-| scenery        | 风景; 舞台布景                                           | disillusion   | 使不再抱幻想，使理想破灭               | grappling      | 抓住( grapple的现在分词 ); 搏斗; 与…格斗 | unfortunate   | 不幸的; 不恰当的                                  |
-| magical        | 魔力的，不可思议的，迷人的                               | unsolvable    | 不能解决的，无法解释的，不能溶解的     | turmoil        | 混乱; 焦虑                               | bothered      | 打扰（ bother的过去式和过去分词 ）; 烦扰; 迷惑    |
-| departure      | 离开，启程; 离开的飞机                                   | realistic     | 现实的; 实际的; 明智的                 | elaborate      | 详尽说明; 变得复杂                       | swept         | 扫( sweep的过去式和过去分词 ); 扫视; 蜿蜒         |
-| energized      | 给予…精力;使通电                                         | innovation    | 改革，创新; 新观念                     | critics        | 批评家                                   | enthusiastic  | 非常感兴趣的，热心的                              |
-| 53-3           |
-| occasionally   | 偶尔; 偶然; 有时候                                       | silent        | 沉默的; 未谈及的;                      | controversial  | 有争议的，引发争论的                     | director      | 导演; 主任; 经理                                  |
-| purity         | 纯度; 纯洁，纯净                                         | cinema        | 电影院; 电影业                         | reverse        | 倒转，反向                               | progress      | 步; 前进; 进展                                    |
-| soundtrack     | 声道; 音带                                               | drum          | 打鼓; 有规律地敲击                     | thunder        | 雷声; 隆隆的响声                         | narrate       | 叙述，讲述                                        |
-| luster         | 光泽; 光辉; 有光泽，发光                                 | enhance       | 提高，增强; 改进                       | commerce       | 商业; 贸易                               | predicted     | 预言，预测，预示                                  |
-| visual         | 视觉的; 视力的                                           | medium        | 中等的; 中间的;方式; 媒介; 巫师        | straight       | 笔直地; 直接                             | adaptation    | 改编版; 适应                                      |
-| remedy         | 治疗法; 补救办法;改正，纠正                              | proposed      | 提议，建议                             | theorist       | 理论家; 学说创立人;                      | synchronous   | 同时存在的，同步的                                |
-| simultaneously | 同时地; 一壁; 齐; 一齐                                   | technicians   | 技术人员;专家; 技巧好的人              | separately     | 分别地，另行; 分开                       | literally     | 逐字地; 照字面地; 确实地                          |
-| unless         | 除非; 如果不; 除非在…的时候                              | shot          | 射击; 优秀射手; 弹丸                   | radical        | 根本的，基本的                           | exaggeration  | 夸张，夸大                                        |
+| word                  | translation             | word            | translation                                | word           | translation                      | word       | translation                              |
+| --------------------- | ----------------------- | --------------- | ------------------------------------------ | -------------- | -------------------------------- | ---------- | ---------------------------------------- |
+| 38-2                  |
+| bacteria              | 细菌                    | virtues/virtue  | 美德; 德行; 优点; 长处                     | viruses/virus  | 病毒; 病毒性疾病                 | infect     | 传染; 使感染                             |
+| tulips/tulip          | 郁金香                  | pigmentation    | 染色，着色，色素沉着                       | affect         | 影响; 使感动，（疾病）感染; 假装 | petal      | 花瓣                                     |
+| intensified/intensify | （使）增强， （使）加剧 | fade            | 变暗淡; 褪色                               | detrimental    | 有害的，不利的                   | reduced    | 减少的，简化的                           |
+| radically             | 根本地; 彻底地          | pattern         | 模式; 范例                                 | stripes        | （与底色不同的）条纹             | streaks    | 使布满条纹                               |
+| flame                 | 变红; 燃烧              | symptoms        | 症状                                       | merchants      | 商人，（某活动的）爱好者         | showcase   | 展示（优点）（商店或博物馆等的）玻璃柜台 |
+| exotic                | 异国情调的; 奇异的      | gardens         | 公园; 庭园                                 | wealth         | 财富，财产; 大量                 | headgear   | 头饰，帽子                               |
+| bulb                  | 电灯泡; 球茎            | shrivel         | （因热力，严寒、干燥、年老等而）枯萎，皱缩 | seeds          | 种子; 子孙; 起源;                | bloom      | 开花; 变得健康/快活/自信                 |
+| viable                | 切实可行的; 能养活的    | transported     | 运送，流放                                 | spread         | 散布; 广泛; 酱; 范围             | cultivated | 促进增长; 教养，改善                     |
+| rare                  | 稀少的，罕见的          | skyrocket       | 突升，猛涨                                 | breed          | (动物)品种; 种类                 | speculator | 投机倒把者，投机商人                     |
+| fist                  | 拳头                    | collapse        | 倒闭; 倒塌; 晕倒                           | fell/fall      | 落下，跌倒                       | fortunes   | （某人的）命运;富有; 幸运                |
+| 14-3                  |
+| sweating              | 使）出汗                | panting         | 脉动; 波动                                 | ducking        | 钻入水中，闪避                   | burrow     | 翻寻                                     |
+| spot                  | 地点; 斑点;             | moisture        | 水分; 湿气                                 | square         | 正方形; 广场;                    | elevation  | 提拔，提升; 海拔                         |
+| substantial           | 大量的; 结实的          | forest          | 森林; 丛林;                                | sink           | 下沉; 坐下;                      |
+| shaded/shade          | 遮蔽住，使阴暗          |
+| squirrel              | 松鼠                    | forage/foraging | 搜寻（食物），尤指动物觅（食）             | trips          | 旅游                             | internally | 内地; 内心地                             |
+| perspire              | 出汗，流汗              | dehydrate       | （人体的）脱水，失水                       | balancing      | 使）平衡                         | precise    | 清晰的; 精确的;                          |
+| thickness             | 层; 浓度; 厚（度）      | microscopic     | 显微镜的; 用显微镜可看见的                 | decompose      | 分解; （使）腐烂                 | disturb    | 打扰，打断;                              |
+| knock                 | 敲，碰; 打通;           | unwittingly     | 不知情地; 无意地;                          |
+| 17-6                  |
+| fascinating           | 极有吸引力的; 迷人的    | defense         | 防御; 国防; 辩护（律师）                   | mechanism      | 机制，机能，机理;                | mythology  | 神话学; 神话                             |
+| series                | 一系列; 连续; 串联      | presents        | 颁发，呈递;                                | speckled       | （皮肤、羽毛、蛋壳等上的）斑点   | blend      | 融合; 混合                               |
+| coral                 | 珊瑚色的                | execute         | 处死; 实施; 完成; 制作                     | chromatography | 套色版; 层析法                   | sacs       | 动植物组织中的）液囊                     |
+| dye                   | 染料，染液              | millimeter      | 毫米                                       | muscle         | 肌肉; 力量; 权威，权力           | shrinks    | 收缩; 畏缩                               |
+| contract              | 签合同，订契约;         | mimic           | 模仿，学样; 摹拟                           | supplement     | 增补，补充; 补充物               | resemble   | 像; 类似                                 |
+| papillae/papilla      | 乳头                    | flatten         | 变平，使（某物）变平                       | acquire        | 获得，得到;                      | squirting  | 喷射，喷湿; 注射                         |
+| threaten              | 恐吓; 对…构成威胁       | distract        | 分散（注意力）; 使分心                     | apparent       | 明显的，显而易见的               | muscular   | 肌肉的; 壮健的                           |
+| flexible              | 柔韧的; 灵活的          | posture         | 姿势; 看法; 态度; 立场                     | nestle         | 安居，舒适地居住                 |
