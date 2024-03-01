@@ -13,16 +13,16 @@
 | military    | 军事的，军用的；军人，军队 | detail        | 详述; 派遣                         | associated    | 联想，联系                   |
 | 13-2        |
 | financial   | 财政的，财务的             | steady        | 稳步的; 稳定的                     | suburb        | 郊区，城郊                   | residential   | 住宅的，适于作住宅的                           |
-| pedestrian  | 步行者                     | fountain      | 造喷泉，喷泉水                     | denominator   | 分母; 共同特性               |
+| pedestrian  | 步行者                     | fountain      | 造喷泉，喷泉水                     | denominator   | 分母; 共同特性               |adopted|采用|
 | bustling    | 繁忙的，熙熙攘攘的         | unpleasant    | 使人不愉快的                       | congestion    | 拥挤，堵车                   | equally       | 平等地，相等地                                 |
 | proximity   | 接近，邻近; 接近度         | accessibility | 易接近，可到达                     | theoretically | 理论地，理论上               | aesthetically | 审美地，美学观点上地                           |
-| appeal      | 呼吁，恳请; 上诉           | compact       | 把…压实                            | ingredient    | 混合物的）组成部分           | reciple       | 食谱; 秘诀; 原因                               |
+| appeal      | 呼吁，恳请; 上诉           | compact       | 把…压实                            | ingredient    | （混合物的）组成部分           | recipe       | 食谱; 秘诀; 原因                               |
 | effect      | 影响; 效果                 | possess       | 拥有; 具备; 控制                   | reaction      | 反应（能力）; 不良反应       |
 | 51-2        |
 | illustrate  | 说明; 插图于…              | volume        | 体积; 音量; 一卷; 合订本           | dedication    | 奉献; 落成典礼; 献词         | incredibly    | 难以置信地，很，极为                           |
-| meticulous  | 谨小慎微的; 过度重视细节的 | accurate      | 正确的，精确的; 精准的             | paste         | 粘贴，张贴; 以…覆盖于        | crayon        | 彩色蜡笔或粉笔                                 |
+| meticulous  | 谨小慎微的; 过度重视细节的 | accurate      | 正确的，精确的; 精准的             | pastel         | 彩色粉笔，粉蜡笔        | crayon        | 彩色蜡笔或粉笔                                 |
 | canvas      | 帆布; 油画（布）           | preparatory   | 预备的，准备的                     | scribble      | 潦草地书写; 乱写             | edge          | 边线; 刀锋                                     |
 | concerned   | 忧虑的; 认为重要的; 关注的 | scientific    | 科学（上）的; 细致严谨的           | inquiry       | 调查，审查; 询问，质问       | spreading     | 撒布; 伸开                                     |
 | distinction | 差别; 分别; 卓越           | force         | 强迫; 强行; 把…强加给              | appreciate    | 欣赏，重视; 感激，欢迎; 理解 | banding       | 条带; （如按能力、价值、交税等）分类; 染色体带 |
 | vulture     | 秃鹰，秃鹫                 | pecking       | 啄，啄食，小口地吃                 | mystery       | 秘密，谜; 神秘，神秘的事物   | ring          | 包围，给…戴上金属环; 画圈                      |
-| bar         | 阻拦，禁止，条，块，棒     | wing          | 飞（行）; 赶往                     | hybridization | 杂交，杂种培植               | captivity     | 被俘; 囚禁; 束缚                               |
+| bar         | 阻拦，禁止，条，块，棒     | wing          | 飞（行）; 赶往                     | hybridization | 杂交，杂种培植               | captivity     | 圈养，饲养                               |
