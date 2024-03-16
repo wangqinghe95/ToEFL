@@ -4,7 +4,7 @@
 | ------------- | ---------------------------- | --------------- | ------------------------------ | ---------------- | ------------------------------------ | ------------------ | ------------------------ |
 | 51-3          |
 | perspective   | 透镜，望远镜; 观点，看法     | heliocentric    | 以太阳为中心的                 | laid out         | 安排；陈列；花费                     | telescope          | 望远镜                   |
-| toss          | 掷硬币决定; 向上甩头; 猛仰头 | despite         | 尽管，虽然                     | ingenious        | 灵巧的; 精巧的                       | caroused/carouse   | 痛饮，闹饮欢宴           |
+| toss          | 掷硬币决定; 向上甩头; 猛仰头 | despite         | 尽管，虽然                     | ingenious        | 灵巧的; 精巧的                       | caroused/carouse   | 旋转木马           |
 | amusement     | 有趣，可笑; 愉悦; 消遣       | tight           | 紧的，牢固的; 密封的           | centrifugal      | 离心的                               | securely           | 安全地; 牢固地           |
 | sorta         | 近似，有几分                 | atmosphere      | 大气层; 空气; 氛围             | heliocentrism    | 日心说                               | equator            | 赤道                     |
 | matchstick    | 火柴杆，火柴杆似的东西       | rotating/rotate | （使某物）旋转; 使转动         | inclination      | 倾向; 爱好; 斜坡                     |
@@ -20,7 +20,7 @@
 | 47-3          |
 | seasonal      | 季节的，季节性的             | foraging/forage | 搜寻（食物），尤指动物觅（食） | nest             | 巢; 安乐窝; 窝点                     | chick              | 雏鸟                     |
 | flown/fly     | 飞; 飞行                     | supply          | 提供，供应                     | burn up          | 烧毁，烧尽                           | back and forth     | 来回地                   |
-| snack         | 快餐，点心                   | soaring         | 高飞; 飞腾; 猛增               | expending/expend | 花费; 使用（钱等）做某事; 用光; 耗尽 | lay                | 放置; 布置餐桌; 铺放     |
+| snack         | 快餐，点心                   | soaring         | 高飞; 飞腾; 猛增               | expending/expend | 花费; 使用（钱等）做某事; 用光; 耗尽 | lay                | 产蛋，下蛋     |
 | captivity     | 被俘; 囚禁; 束缚             | wild            | 野生的; 荒凉的                 | apply            | 申请; 应用; 适用                     | compasses/compass  | 圆规; 罗盘               |
 | magnetic      | 有磁性的，有吸引力的         | celestial       | 天的，天空的                   | sensory          | 感觉的，感受的                       | navigation         | 航行（学）; 航海（术）   |
 | star          | 星; 星状物; 星级             | complain        | 抱怨，发牢骚                   |

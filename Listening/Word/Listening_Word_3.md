@@ -3,7 +3,7 @@
 | word          | translation                   | word        | translation                        | word          | translation                | word          | translation                    |
 | ------------- | ----------------------------- | ----------- | ---------------------------------- | ------------- | -------------------------- | ------------- | ------------------------------ |
 | 40-3          |
-| collapse      | 倒闭; 倒塌                    | bucket      | （有提手的）桶; 一桶（的量）; 大量 | vessel        | 容器; 船，飞船             | sophisticated | 复杂的; 精致的                 |
+| collapse      | 倒闭; 倒塌                    | bucket      | （有提手的）桶;  | vessel        | 容器; 船，飞船             | sophisticated | 复杂的; 精致的                 |
 | competing     | 对抗的，竞争的                | pound       | 用力击打; 咚咚地走                 | unprofitable  | 无利益的; 没有用的         | fascinating   | 极有吸引力的; 迷人的           |
 | prior         | 优先的; 占先的                | growth      | 发展，增加                         | corner        | 角，角落; 转弯处           | scenario      | 设想; 可能发生的情况           |
 | privatize     | 使私有化; 使归私有            | efficiently | 效率高地; 有效地                   | property      | 财产; 房地产               | prone         | 易于…的; 有…倾向的             |
@@ -15,7 +15,7 @@
 | astronomy     | 天文学                        | distinction | 差别; 分别; 卓越                   | solar         | 太阳（能）的               | entire        | 全部的，整个的                 |
 | geocentric    | 以地球为中心的                | revolve     | （使）旋转，环绕                   | stationary    | 不动的，固定的; 静止的     | tiny          | 极小的，微小的                 |
 | philosophical | 哲学上的，哲学（家）的        | prevail     | 流行，盛行                         | astronomical  | 天文学的; 极其巨大的       | inconsistent  | 不一致的，不调和的; 前后矛盾的 |
-| alternate     | 使）交替，轮流                | intuitive   | 直觉的; 凭直觉获知的               | phenomenon    | 现象; 杰出的人             | reveal        | 揭示; 展示                     |
+| alternate     | 使）交替，轮流                | intuitive   | 根深蒂固地               | phenomenon    | 现象; 杰出的人             | reveal        | 揭示; 展示                     |
 | orbit         | 轨道;盘旋; 绕轨道运行         | epicycle    | 本轮，周转圆                       | motion        | 运动; 手势; 动机           | appearance    | 外表; （突然）到来，出现; 问世 |
 | heliocentric  | 以太阳为中心的                | calculation | 计算，估算; 算计                   | heavenly      | 神圣的; 天空的; 天国的     | mention       | 谈及; 提到; 提名               |
 | blowing       | 吹风，排泄，鼓风              | sweep       | 打扫，拂去; 梳（头发）             |
