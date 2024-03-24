@@ -13,16 +13,16 @@
 | 33-5        |
 | ingenious   | 灵巧的; 精巧的; 设计独特的       | inhabit         | 居住; 在…出现                   | shallow     | 浅的; 肤浅的             | eyes        | 眼睛                   |
 | insulating  | 使绝缘;使隔离; 使免除            | layer           | 层，层次; 膜                    | protects    | 防护; 投保               | freezing    | 冻结，冷冻             |
-| dominating  | 在…中占首要地位; 在…中具有最重要 | diverse         | 形形色色的; 不同的              | ancestral   | 祖先的; 与祖先有关的     | mutation    | 变化; 转变; 突变       |
+| dominating  | 在…中占首要地位; 在…中具有最重要 | diverse         | 形形色色的; 不同的              | ancestral   | 祖先的; 与祖先有关的     | mutation    | 突变       |
 | production  | 生产; 产量; 产生                 | shift           | 转移; 轮班; 转换键              | continental | 大洲的，大陆的           | landmass    | 大陆                   |
-| encircle    | 包围; 围绕                       | mixing          | 混合;（使）结交; 相容; 平安相处 | frigid      | unique                   |
+| encircle    | 包围; 围绕                       | mixing          | 混合;（使）结交; 相容; 平安相处 | frigid      | 寒冷的 |unique                   | 唯一的 |
 | competition | 竞争; 比赛; 竞争者               | ecological      | 生态（学）的                    | vacuum      | 真空; 空白; 空虚         | exploited   | 开采                   |
 | migrate     | 迁移，移往; 移动                 | throughout      | 自始至终; 遍及                  | habitant    | 居住者                   | traits      | 人的个性，显著的特点   |
 | niche       | 细分的，专营的                   | diversification | 变化，多样化; 多种经营          | radiation   | 辐射; 放射物             | undergoes   | 经历，承受             |
 | multiple    | 多重的; 多个的                   | fill            | 装满; 占满; 使遍及              | colonizing  | 开拓殖民地，移民于殖民地 |
 | 1-6         |
 | marmot      | 旱獭，土拨鼠                     | rodent          | 啮齿动物（有关）的              | squirrel    | 松鼠                     | average     | 平均数; 平均水平       |
-| portion     | 一部分; 一份遗产                 | hibernating     | 冬眠，蛰伏                      | excellent   | 极好的，优秀的           | reside      |
+| portion     | 一部分; 一份遗产                 | hibernating     | 冬眠，蛰伏                      | excellent   | 极好的，优秀的           | reside      | 居住，位于 |
 | frost       | 霜冻，结霜                       | vegetative      | 植物的; 有生长力的              | describe    | 描述; 把…称为; 做…运动   | social      | 社会的; 社交的; 合群的 |
 | territorial | 领土的; 区域的                   | aggressive      | 好斗的，挑衅的; 积极进取的      | ritual      | 礼节性的; 例行公事的     | impersonal  | 没有人情味的; 非个人的 |
 | emerge      | 出现，兴起                       | edible          | 可食用的，能吃的                | vegetation  | 植物（总称），草木       | ceremonies  | 仪式; 礼节; 礼仪       |

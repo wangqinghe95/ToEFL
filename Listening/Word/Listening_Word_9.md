@@ -4,7 +4,7 @@
 | ------------- | ------------------------------ | ------------ | ----------------------------- | ------------- | ------------------------ | ------------- | ------------------------------ |
 | 22-5          |
 | mass          | 一团; 大堆; 大量               | extinction   | 灭绝，消亡                    | fossil        | 化石; 僵化的事物; 老顽固 | indicate      | 表明，暗示; 指示; 象征         |
-| inhabited     | 居住于，栖居于                 | witnes       | 出席; 见证                    | biodiversity  | 生物多样性               | eliminate     | 清除; 淘汰; 消灭               |
+| inhabited     | 居住于，栖居于                 | witness       | 出席; 见证                    | biodiversity  | 生物多样性               | eliminate     | 清除; 淘汰; 消灭               |
 | astounding    | 使人震惊的                     | countless    | 无数的，多得数不清的          | fragmentation | 分裂，破碎               | altering      | 改变，更改                     |
 | ambitious     | 有野心的，有雄心的             | radical      | 根本的，基本的                | vertebrate    | 脊椎动物                 | megafauna     | 巨型（土壤）动物               |
 | horses        | 马                             | camels       | 骆驼                          | proposal      | 提议，建议; 求婚         | subset        | 子集                           |
@@ -22,7 +22,7 @@
 | blowhole      | 鲸头顶的）呼吸孔               | echolocation | 回声定位能力，回声定位法      | nasal         | 鼻的; 鼻音的             | sacs          | （动植物组织中的）液囊         |
 | transmitted   | 发射，播送，广播               | denser       | 密集的                        | medium        | 中等的; 中间的           | travel        | 旅行; 进行; 移动               |
 | merrily       | 快乐地，愉快地                 | hits         | 打，打击                      | reflected     | 反射                     | reaches       | 到达，抵达                     |
-| cavity        | 洞，腔                         | structure    | 构造; 建筑物                  | punch         | 重拳击打; 打孔机         | tissue        | (动植物的)组织; 薄纸           |
+| cavity        | 洞，腔                         | structure    | 构造; 建筑物                  | pouch         | 小袋，育儿袋         | tissue        | (动植物的)组织; 薄纸           |
 | fascinating   | 极有吸引力的; 迷人的           | acoustical   | 听觉的，声学的                | property      | 财产; 房地产; 特性; 属性 | velocity      | 速率，速度; 周转率; 高速，快速 |
 | precisely     | 精确地; 恰好地; 严谨地         | projection   | 预测; 规划，设计              | rear          | 后部，背面，背后; 臀部   | bursa         | 囊，粘液囊                     |
 | efficiently   | 效率高地; 有效地               | primarily    | 首先; 首要地                  | transferring  | 转移，迁移               |
@@ -36,5 +36,5 @@
 | method        | 方法; 有条不紊                 | paramount    | 最高的，至上的; 最重要的      | devising      | 想出;计划; 设计          | pocket        | 把…装进衣袋; 盗用;衣袋; 小容器 |
 | escape        | 逃避; 解脱; 渗出               | destructive  | 破坏性的; 毁灭性的            | resilience    | 弹性; 弹力;              | concentration | 全神贯注; 浓度; 专注           |
 | protect       | 保护; 贸易保护; 投保           | sustain      | 维持; 支撑                    | coastal       | 近海的，沿海的           | vicinity      | 附近，邻近                     |
-| absorb        | 吸收; 理解，掌握               | trap         | 使陷入困境                    | sediment      | 沉淀物; 沉积物           | pollutants    | 污染物质                       |
+| absorb        | 吸收; 理解，掌握               | trap         | 捕捉，困住                    | sediment      | 沉淀物; 沉积物           | pollutants    | 污染物质                       |
 | beneficial    | 有益的，有帮助的               | disruption   | 中断，扰乱，混乱              | depleting     | 使大大的减少，使空虚     | overwhelming  | 势不可挡的                     |
