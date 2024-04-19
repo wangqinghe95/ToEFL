@@ -1,11 +1,10 @@
 # Writing
 
-## Articles
+## Resource
 
-1. University students should be required to take basic science classes even if they are not part
-of the field of the study.
-2. The most important quality for a politician or a leader is to have good communication skills.
-3. Classmates and partners can communicate with each other face to face to finish the project
-better than by sending e-mails.
+1. ![真题练习](./2015-2019托福独立写作真题题目.pdf)
 
-## Way
+## Methods of practice
+
+1. 自己写，没思路的就用 Chatgpt
+2. 400 words，先背汉语思路，再背英语，再默写。
