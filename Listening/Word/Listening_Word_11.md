@@ -42,3 +42,10 @@
 |leads|带路; 领导; 指挥; 领先|hypothesis|假设，假说;|chew|咀嚼，嚼碎|muscles|肌肉|
 |swallow|吞，咽; 忍耐|grind up|把…磨成粉末|smashing|极好的; 粉碎的|gastrolith|胃石|
 |accidently|偶然地，意外地|speculate|思索，猜测，推测|original|最初的; 独创的; 原作的|
+|3-6|
+|5-3|
+|13-6|
+|14-5|
+|1-3|
+|1-5|
+|6-6|
