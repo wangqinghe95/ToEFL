@@ -16,10 +16,17 @@
 + The second reason is that we can prepare something for social activities if we make a plan in advance, such as taking some necessary equipment, wearing proper clothes and shoes. That way the social activities would be even more successful.
 
 ## Do you agree that universities are successful because of experienced professors?
++ I disagree with the view that universities are successful because of experienced professors.
++ The first reason is that I think the university is a place for teaching, so the successful of a univeristy depends on whether it is able to teach excellent college students who both have integrity and comptence.
++ The second reason is that there are many factors that affect the culvation of moral character and ability of college students, such as school spirit of the university and the quality of teachers. So it's not enough to only have experienced professors.
 
-## Which is  more  important  to  the  success  of  an  artist:  natural  talent  or  hard  work? 
+## Which is more important to the success of an artist: natural talent or hard work?
++ I think the natural talent is more important than hard work to the success of an artist.
++ The first reason is that the natural talent is the upper limit for one person, especially for an artist. People who were born with high talent are more likely to come up with good ideas, or get inspiration from things in their life or imagination, Therefore it is easier for them to create extraordinary works of art.
++ The second reason is that the talent can bring people creativity and innovation, it's necessary for arts to be successful with those significant qualities, because it can help them get higher achievement in the art field.
 
-## Do  you  agree  that  schools  should  encourage  students  to  be  creative  and  imaginative  in order for them to be successful?
+## Do you agree that schools should encourage students to be  creative and imaginative in order for them to be successful?
++ 
 
 ## Do you agree that it is more important to maintain the relationship with family members than with friends? 
 
@@ -32,3 +39,4 @@
 ## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
 
 ## Some like to spend a lot of money to get a unique experience on vacations, while others prefer to spend only a little money on vacations. Which one do you prefer?
++ 
