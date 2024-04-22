@@ -1,5 +1,13 @@
 # Practice 2016-2018
 
+## Do you agree or	disagree	that	holding	different	opinions	will	hurt	friendship?
+## Do	you	agree	or	disagree	with	the	following	statement? People	should	not	interrupt	others	when they	are	giving	opinions.
+## Some	secondary	school	require	that	every	student’s	schedule	include	study	hall, which	is	a	free class	 period	 during	 the	 school	 day	 in	 which	 students	 can	 do	 class	 assignments	 or	 rest.	 do	 you	think	this	is	a	good	idea?	why	or	why	not?	use	details	and	examples	in	your	response.
+## Some	university	require	students	 to	choose	a	major	when	entering	school	while	others	require students	to	study	several	fields	at	first	and	then	choose	a	major.	Which	do	you	prefer?
+## Do	 you	 agree	 or	 disagree?	 Parents	 can	 know	 their	 children’s grades	 only	 when	 they	 get permission	by	their	children?
+## Do	you	agree	or	disagree	with	the	following	statement? Kids	should	be	allowed	to	keep	pets.
+## We	should	be	completely	honest	and	open	with	friends
+
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 + I prefer buying food that is already prepared. 
 + The first reason is that it will help me save plenty of time so that I can do some interesting things I enjoy, such as swimming, riding and reading, which are beneficial for my mental and physical health. 
@@ -62,3 +70,8 @@
 + I think both are ok, and it depends on personal economical conditions.
 + First of all, If you have enough money, you can take part in expensive activities to get unique experiences on vacation, such as travelling abroad, skiing, etc, which will become a treasure in your life and enrich your experiences.
 + Secondly, If you are not rich financially, there are still some inexpensive but meaningful things you can do during holidays, such as learning to make delicious meals to reward your parents, participating in social practice activities to earn money, which will also make people more excellent.
+
+## Some college students like to join clubs and enjoy club activities in their spare time, while others like to use this time to study another course or do schoolwork. Which one do you think is better?
++ I think both should be experienced.
++ For one thing, college students have plenty of time and energy to allow them to take part in some club activities, it can help them grow experience, meet friends, develop abilities and hobbies, as well as prepare them for their future careers and lives.
++ For another thing, studying another courses and doing schoolwork is also important, because it can help them cope with academic demands and challenges and complete their studies smoothly.
