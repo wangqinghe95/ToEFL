@@ -1,12 +1,28 @@
 # Practice 2016-2018
 
-## Do you agree or	disagree	that	holding	different	opinions	will	hurt	friendship?
-## Do	you	agree	or	disagree	with	the	following	statement? People	should	not	interrupt	others	when they	are	giving	opinions.
-## Some	secondary	school	require	that	every	student’s	schedule	include	study	hall, which	is	a	free class	 period	 during	 the	 school	 day	 in	 which	 students	 can	 do	 class	 assignments	 or	 rest.	 do	 you	think	this	is	a	good	idea?	why	or	why	not?	use	details	and	examples	in	your	response.
-## Some	university	require	students	 to	choose	a	major	when	entering	school	while	others	require students	to	study	several	fields	at	first	and	then	choose	a	major.	Which	do	you	prefer?
-## Do	 you	 agree	 or	 disagree?	 Parents	 can	 know	 their	 children’s grades	 only	 when	 they	 get permission	by	their	children?
-## Do	you	agree	or	disagree	with	the	following	statement? Kids	should	be	allowed	to	keep	pets.
-## We	should	be	completely	honest	and	open	with	friends
+## Do you agree or disagree	that holding different opinions	will hurt friendship?
++ 我不同意持有不同观点会伤害友情这一看法。
++ 首先每个人的背景，文化，成长环境各不相同，两个人对于一件事的持有不同观点是一个非常正常的事情，所以我们应该理解包容这种差异和不同。
++ 再次，朋友之间的不同观点可以增加对彼此的理解和接纳，使得友谊变得更加丰富和有意义。我们需要做的是如何通过良好的沟通来维护这段友谊。
+
+## Do you agree or disagree with the following statement? People should	not interrupt others when they are giving opinions.
++ 我同意这个观点。
++ 首先打断别人说话本身就是一件很不礼貌的事情。这会让人感觉到他们的观点不被尊重或者不被重视，除非是在一些紧急的情况下或者需要纠正别的人错误的时候。尊重他人的发言时良好沟通的基础。
++ 再次打断别人表达观点会影响沟通交流的效率。在和别人沟通的过程中，如果每个人都去打断别人的发言，只会浪费所有人的时间和精力。所以为了高效地和别人交流，听完别人的发言再说话是一个非常有用的策略。
+
+## Some	secondary school require that every student’s schedule include study hall, which is a free class period during the school day in which students can	do class assignments or rest. do you think this is a good idea? why or why not? use details and examples in your response.
++ 我认为这是一个好的主意。
++ 首先在课堂上听老师教授知识是一个输入的过程，而做课堂作业是一个将学到的知识输出的过程，所以初中生需要一个合适的地方完成作业，以及休息，这对他们的学习都很重要。
++ 再次不是所有的初中生在放学回去以后都能有一个安静的地方，甚至时间来完成老师在课堂上布置的作业，所以在学校安排一个教室和一点时间允许他们在回家之前就完成作业是一件很有必要的事情。
+
+## Some	university require students	to choose a	major when entering school while others	require students to study several fields at first and then choose a	major. Which do you prefer?
++ 
+
+## Do you  agree or disagree? Parents can know their children’s grades only when they get permission by their children?
+
+## Do you agree	or disagree with the following statement? Kids should be allowed to keep pets.
+
+## We should be completely honest and open with friends 
 
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 + I prefer buying food that is already prepared. 
