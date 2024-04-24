@@ -22,7 +22,7 @@
 
 ## Do you agree	or disagree with the following statement? Kids should be allowed to keep pets.
 
-## We should be completely honest and open with friends 
+## A/D: We should be completely honest and open with friends 
 
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 + I prefer buying food that is already prepared. 
@@ -91,3 +91,13 @@
 + I think both should be experienced.
 + For one thing, college students have plenty of time and energy to allow them to take part in some club activities, it can help them grow experience, meet friends, develop abilities and hobbies, as well as prepare them for their future careers and lives.
 + For another thing, studying another courses and doing schoolwork is also important, because it can help them cope with academic demands and challenges and complete their studies smoothly.
+
+## Some people like surprise visits from their friends, while others prefer to be informed of such visits. Which one do you prefer? (2015.2.1.NA)
++ I prefer to be informed of such visits.
++ First of all, if I know my friends will come to visit me, I can make some preparations for them in advance, such as purchasing scenic spot ticket, making tourist routes according to weather condition, etc.
++ Second, I really hate that someone upset my established schedule, I will be very uncomfortable if my friends suddenly come to visit me, although I know he or she want to give me a surprise, it may confluct with the plans I have already made.
+
+## Do you agree that people should be forced to retire after the age of 65? (2014.12.6)
++ I agree that people should be forced to retire after the age of 65.
++ First, it's beneficial for old people, because it's the best time for them to enjoy life. When one retire at the age of 65,he is more likely to have a healthy body and be rich fancianlly, after retirement, he have enough time and moeny to travel, visit friends etc.
++ Secondly, being forced to retire doesn't mean he could never work again, if one really has great passion on work or has to work to earn money, he can continue to work in the forms of reemployment
