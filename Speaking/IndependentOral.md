@@ -141,7 +141,7 @@
 + 其次，社会活动对学生来说同样重要，因为社会活动可以帮助学生了解社会的复杂性和多样性，同时为他们的未来生活和职业生涯做好准备。
 + I disagree that students should take additional courses to graduate.
 + First of all, schools should arrange proper courses for college students according to their ability to accept them, because the time and energe one has are limited, Taking too many courses does not bring any benefits to students.
-+ Secondly, Social activities are equally important for students, because social acitivities can help students understand the complexity and diversity of society, as well as prepare them for their future life and career.
++ Secondly, Social activities are equally important for students, because social acitivities can help students understand the **complexity** and diversity of society, as well as prepare them for their future life and career.
 
 ## Some students prefer to study alone, while others prefer to study with a group of students. Which do you prefer? 
 + 我更喜欢独自学习。
@@ -149,35 +149,35 @@
 + 再次，独自学习更自由。我能根据自己的情况安排去哪，什么时候去学习，不需要考虑别人的感受，这对我非常重要，因为我很讨厌别人打乱我的个人计划。
 
 + I prefer to study alone.
-+ First, my study efficiency is higher I study alone, because I can really focus on studying without others' distractions. I can spend more time and energy on thinking rather than chatting, talking or playing with parnters, which have a negative effect on learning.
-+ Secondly, it's more free for me to study alone. I can arrange where and when to study according to my own situation and don't need to consider others' feelings, This is so essential for me since I really hate it when people distrupt my personal plans.
++ First, my study efficiency is higher I study alone, because I can really focus on studying without others' distractions. I can spend more time and energy on thinking rather than **chatting**, talking or playing with **parnters**, which have a negative effect on learning.
++ Secondly, it's more free for me to study alone. I can arrange where and when to study according to my own situation and don't need to consider others' feelings, This is so essential for me since I really hate it when someone disrupt my personal plans.
 
 ## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
 + 我认为在课堂上留出一些时间做小组讨论对学生有好处。
 + 首先，在课堂上交流他们的想法和经验对学生很重要，因为这对学生更好的理解老师教授的知识很有用。
-+ 再次小组讨论对学生来说能够培养他们的团队精神，沟通和协作能力，这也为它们以后的职业和生活做准备。
++ 再次，小组讨论对学生来说能够培养他们的团队精神，沟通和协作能力，这也为它们以后的职业和生活做准备。
 
 + I agree that it is beneficial for students to set aside some time for group discussions in class.
-+ First, it's so essential for students to exchange their ideas and experiences in class, as it is very useful for students to better understand knowledge taught by the teachers.
++ First, it's so essential for students to exchange their ideas and experiences in class, as it is very useful for students to better understand knowledge **taught** by the teachers.
 + Secondly, group discussions are very helpful for students to cultivate their teamwork spirit, as well as communication and coordination skills, which will prepare them for their future career and life. 
 
 ## Some like to spend a lot of money to get a unique experience on vacations, while others prefer to spend only a little money on vacations. Which one do you prefer?
 + 我认为两个都可以，取决于个人的经济条件。
-+ 首先如果你有足够的钱，你可以参加一些昂贵的活动在假期获取一些独特的经验，比如国外旅行，滑雪等等，这会成为你生命中的财务，丰富你的经历。
++ 首先如果你有足够的钱，你可以参加一些昂贵的活动在假期获取一些独特的经验，比如国外旅行，滑雪等等，这会成为你生命中的财富，丰富你的经历。
 + 第二，如果你经济上不富有，也有很多不贵但是有意义的事情可以在假期做，比如学习做美味的食物犒劳父母，参加社会实践活动挣点钱，这也能使得人更优秀。
 
-+ I think both are ok, and it depends on personal economical conditions.
-+ First of all, If you have enough money, you can take part in expensive activities to get unique experiences on vacation, such as travelling abroad, skiing, etc, which will become a treasure in your life and enrich your experiences.
-+ Secondly, If you are not rich financially, there are still some inexpensive but meaningful things you can do during holidays, such as learning to make delicious meals to reward your parents, participating in social practice activities to earn money, which will also make people more excellent.
++ I think both are ok, and it depends on personal **economical** conditions.
++ First of all, If you have enough money, you can take part in expensive activities to get **unique** experiences on vacation, such as travelling abroad, **skiing**, etc, which will become a **treasure** in your life and enrich your experiences.
++ Secondly, If you are not rich financially, there are still some inexpensive but meaningful things you can do during holidays, such as learning to make **delicious** **meals** to reward your parents, participating in social practice activities to earn money, which will also make people more **excellent**.
 
 ## Some college students like to join clubs and enjoy club activities in their spare time, while others like to use this time to study another course or do schoolwork. Which one do you think is better?
 + 我认为两个都应该经历。
-+ 一方面，大学生有足够多的时间和经历运行它们参加一些俱乐部活动，这可以帮助它们增长阅历，结交朋友，培养能力和爱好，还能为他们未来的职业和生活做准备。
++ 一方面，大学生有足够多的时间和精力允许他们参加一些俱乐部活动，这可以帮助他们增长阅历，结交朋友，培养能力和爱好，还能为他们未来的职业和生活做准备。
 + 另一方面，学习一些其他课程和完成学校作业也非常重要，因为这可以帮助他们应对学术的要求和挑战，顺利地完成他们的学业。
 
 + I think both should be experienced.
-+ For one thing, college students have plenty of time and energy to allow them to take part in some club activities, it can help them grow experience, meet friends, develop abilities and hobbies, as well as prepare them for their future careers and lives.
-+ For another thing, studying another courses and doing schoolwork is also important, because it can help them cope with academic demands and challenges and complete their studies smoothly.
++ For one thing, college students have plenty of time and energy to **allow** them to take part in some club activities, it can help them **grow** experience, meet friends, develop abilities and hobbies, as well as prepare them for their future careers and lives.
++ For another thing, studying another courses and doing schoolwork is also important, because it can help them **cope** with academic demands and challenges and **complete** their studies **smoothly**.
 
 ## Some people like surprise visits from their friends, while others prefer to be informed of such visits. Which one do you prefer? (2015.2.1.NA)
 + 我更喜欢被告知这样的访问。
@@ -185,14 +185,34 @@
 + 再次，我真的讨厌有人打乱我既定的安排，如果我朋友突然来访问我我会非常的不舒服，虽然我知道他或者她想给我一个惊喜，但是这可能会和我已经制定好的计划冲突。
 
 + I prefer to be informed of such visits.
-+ First of all, if I know my friends will come to visit me, I can make some preparations for them in advance, such as purchasing scenic spot ticket, making tourist routes according to weather condition, etc.
-+ Second, I really hate that someone upset my established schedule, I will be very uncomfortable if my friends suddenly come to visit me, although I know he or she want to give me a surprise, it may confluct with the plans I have already made.
++ First of all, if I know my friends will come to visit me, I can make some **preparations** for them in advance, such as **purchasing** scenic spot ticket, making tourist routes according to weather condition, etc.
++ Second, I really hate that someone upset my **established** schedule, I will be very uncomfortable if my friends suddenly come to visit me, although I know he or she want to give me a surprise, it may confluct with the plans I have already made.
 
 ## Do you agree that people should be forced to retire after the age of 65? (2014.12.6)
-+ 我同意人们在 65 岁以后强制退出。
++ 我同意人们在 65 岁以后强制退休。
 + 首先，这对老人非常有益，对他们来说这是最好的时间去享受生活。当一个人 65 岁退休的时候，他大概率有一个健康的身体，和良好的经济，退休以后，他有足够的时间和金钱去旅游，访友等。
 + 再次，强制退休不意味着他不能继续工作，如果一个人真的对工作很有热情或者不得不工作赚钱，他可以以返聘的方式继续工作。 
 
 + I agree that people should be forced to retire after the age of 65.
 + First, it's beneficial for old people, because it's the best time for them to enjoy life. When one retire at the age of 65, he is more likely to have a healthy body and be rich fancianlly, after retirement, he have enough time and moeny to travel, visit friends etc.
 + Secondly, being forced to retire doesn't mean he could never work again, if one really has great passion on work or has to work to earn money, he can continue to work in the forms of reemployment
+
+## Do you agree that parents should use money as an incentive for kids to behave well in school?
+
++ 我同意这个观点
++ 首先，这是一个非常有效的方式来引导孩子好好学习。小朋友也需要金钱购买一些他们喜欢的东西，这就是他们会好好学习的动力，好的成绩也会培养他们的自信心。
++ 再次，这个方式有助于培养小朋友的金钱观，金钱观是正确对待金钱和使用金钱的能力，我们需要和金钱打一辈子的交道，因此，这个能力非常需要尽早地培养。
+
++ I agree with this view.
++ First of all, it's an efficient way to lead kids to study hard. Kids also need money to buy something they are interested in. so it is the motivation to behave well in school and good grades can cultivate their condfidence.
++ Secondly, this method helps children foster their view of money which is the ability to treat and use money correctly. We are supposed to deal with money for a lifetime. This ability is so important that needs to be developed as early as possible.
+
+## Some managers like to closely watch their employees, while others prefer to give their employees more freedom. Which do you think is more effective?
+
++ 我认为经理应该少关注一些员工
++ 首先，一直被领导观察的员工会感觉到不自在，他们会觉得自己不被尊重和重视，这也会影响员工的办公效率，因为他们不能集中在工作上。
++ 再次，经理应该多关注一些他们自己的事情，多花点时间和精力做好自己的本职工作给自己的员工做一个好的榜样，这样才能更好的领导部门取得更好的成绩。
+
++ I think managers should pay less attention to their employees.
++ First, the employees will be uncomfortable if they are colsely watched by their leader, they will feel that they are not respected or valued, which will also affect the office efficiency of the employees, as they can't focus on their work.
++ Secondly, managers are supposed to pay more attention to their own things and spend more time and effort to do their own work well to set an good example for their employees, so as to better lead the department to achieve better results.
