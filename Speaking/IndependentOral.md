@@ -1,68 +1,5 @@
 # Practice 2016-2018
 
-## Do you agree or disagree	that holding different opinions	will hurt friendship?
-+ 我不同意持有不同观点会伤害友情这一看法。
-+ 首先，每个人的背景，文化，成长环境各不相同，所以每个人看问题的角度和方式也是不一样的。两个人对于一件事的持有不同观点是一个非常正常的事情，所以我们应该理解包容这种差异和不同。
-+ 再次，朋友之间的不同观点可以增加对彼此的理解和接纳，使得友谊变得更加丰富和有意义。我们需要做的是如何通过良好的沟通来维护这段友谊。
-
-+ I disagree with the view that holding different opinions will hurt friendship.
-+ First, everyone's background, culture and growing environment are different, which leads to everyone having a different perspective and approach to issues. so it's very common for two people to hold different views on the same thing, we should appreciate and understand this difference.
-+ Secondly, different views between friends can increase the understanding and acceptance of each other, which makes friendship more rich and meaningful. What we need to do is to maintain this friendship through good communication.
-
-## Do you agree or disagree with the following statement? People should	not interrupt others when they are giving opinions.
-+ 我同意这个观点。
-+ 首先，打断别人说话本身就是一件很不礼貌的事情。这会让人感觉到他们的观点不被尊重或者不被重视，除非是在一些紧急的情况下或者需要纠正别的人错误的时候。尊重他人的发言是良好沟通的基础。
-+ 再次，打断别人表达观点会影响沟通交流的效率。在和别人沟通的过程中，频繁地打断别人的发言，只会浪费所有人的时间和精力。所以为了高效地和别人交流，听完别人的发言再说话是一个非常有用的策略。
-
-+ I agree with this view.
-+ first of all, it is very impolite to interrupt others when they are giving opinions, which will make one feel that their views are not respected or valued, unless in some emergency or when correcting someone who is wrong. Respect for what others say is the foundation for good communication.
-+ Secondly, interrupting others to express their opinions will affect the efficiency of the communication. In the process of talking with others, it will cost time and energy for all if one interrupts others frequently. Therefore in order to communicate effectively, it's a very useful strategy to speak after listening to others' words.
-
-## Some	secondary school require that every student’s schedule include study hall, which is a free class period during the school day in which students can	do class assignments or rest. do you think this is a good idea? why or why not? use details and examples in your response.
-+ 我认为这是一个好的主意。
-+ 首先，在课堂上听老师教授知识是一个输入的过程，而做课堂作业是一个将学到的知识输出的过程，所以初中生需要一个合适的地方完成作业，以及休息，这对他们的学习都很重要。
-+ 再次，不是所有的初中生在放学回去以后都能有一个安静的地方，甚至时间来完成老师在课堂上布置的作业，所以在学校很有必要安排一个空闲教室给学生完成他们的作业。
-
-+ I think this is a good idea.
-+ First, listening to teacher teach knowledge in class is process of input, while doing classroom homework is a process of outputing the knowledge learned. So middle school students need a suitable place to do their assignment and rest, which is important for their study.
-+ Second, Not every student has a quiet place or enough time to finish their homework after school, so it is a necessary for schools to arrange a free classroom and time for students to allow them to do their class assignments.
-
-## Some	university require students	to choose a	major when entering school while others	require students to study several fields at first and then choose a	major. Which do you prefer?
-+ I argue that college students should study several fields at frist and then choose a major.
-+ First, it is beneficial for college students. It can help students broaden horizons and knowledge base if studying several fields at first, as it can help students build a solid foundation of learning, as well as help them know the complexity and diversity of this world.
-+ Second, college is the best time for students to study, as they have enough time and passion to explore this world, and studying more courses is the convenient and effective way to know this world.
-
-+ 我主张大学生应该首先学习多个领域，然后再选择一个专业。
-+ 首先，这对大学生有益。如果一开始就学习多个领域，可以帮助学生拓宽视野和知识基础，因为这可以帮助他们建立坚实的学习基础，同时让他们了解这个世界的复杂性和多样性。
-+ 其次，大学期间是大学生学习的最佳时期，因为他们有足够的时间和热情去探索这个世界，而学习更多的课程是了解这个世界的便捷和有效的方式。
-
-## Do you agree or disagree? Parents can know their children’s grades only when they get permission by their children?
-+ I disagree with this view.
-+ first, as the guardians of their children, parents have the right to understand the growth of their children, and also have the right to check the grades of their children. Parents can guide and supervise their children's learning only by knowing their children's academic performance.
-+ Of course, this doesn't mean that parents can excessively intervene in their children's lives and studies. Parents need to grasp the boundaries of parent-child relationship, which can not only repsect children's independence but also help children grow up better.
-
-+ 我不同意父母需要在得到他们孩子的许可下才能知道孩子的成绩这个观点。
-+ 首先，父母作为孩子的监护人，有权利关心孩子的成长，也有权利查看孩子的成绩。只有了解孩子的学习成绩，父母才能更好的指导和督促孩子的学习。
-+ 当然，这不意味着父母可以过度干预孩子的学习和生活，需要父母把握好亲子关系的界限，既能尊重孩子的独立性又能更好地帮助孩子地成长。
-
-## Do you agree	or disagree with the following statement? Kids should be allowed to keep pets.
-+ I agree with this view. 
-+ First, there are many benefits for children in keeping pets, which can help them cultivate warmth of heart, patience and responsibility, can accompany their growth, and help them how to take care of and respect life, etc.
-+ Second, there are some precondition to allow children to keep pets, for example, it needs good economic foundation, and there should be enough time and energy to look after pets. If the family condition allows, it is a good thing to keep a pet.
-
-+ 我同意这个观点
-+ 首先，养宠物对孩子有很多好处，可以帮助孩子培养爱心，耐心和责任感，可以陪伴孩子成长，帮助孩子学习如何照顾和尊重生命等等。
-+ 但是允许孩子养宠物有一些前置条件，比如需要一定的经济基础，有足够的时间和精力来照顾宠物等等，如果在家庭条件满足的情况下，允许孩子养宠物是一个好事。
-
-## A/D: We should be completely honest and open with friends 
-+ I agree with this view.
-+ Firstly, it's a necessary condition to be honest with friends. We can only gain true friendship from our friends if we are honest. So, it’s important to be honest with friends
-+ Secondly, it’s also essential for friends to be open-minded. Open-mindedness is the ability to allow friends to hold different opinions. Because everyone’s background, culture, and beliefs are different, we need to find common ground and respect differences with our friends.
-
-+ 我同意这个观点。
-+ 首先，对朋友保持真诚是建立友谊的必要条件。只有真诚的与朋友交往，我们才能从朋友那里获得真正的友谊。所以很有必要与朋友保持真诚。
-+ 再次，开放对于友谊也非常重要，开放指的是允许和朋友持有不同的观点，因为每个人的背景，文化，信仰不同，所以我们要和朋友们求同存异。
-
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 + 我更喜欢买已经做好的食物。
 + 第一个原因是这可以帮助我节省很多时间，我可以做一下我感兴趣的有趣的事，比如游泳，骑行或者阅读。这些有益于我的身心健康。
@@ -189,30 +126,30 @@
 + Second, I really hate that someone upset my **established** schedule, I will be very uncomfortable if my friends suddenly come to visit me, although I know he or she want to give me a surprise, it may confluct with the plans I have already made.
 
 ## Do you agree that people should be forced to retire after the age of 65? (2014.12.6)
-+ 我同意人们在 65 岁以后强制退休。
-+ 首先，这对老人非常有益，对他们来说这是最好的时间去享受生活。当一个人 65 岁退休的时候，他大概率有一个健康的身体，和良好的经济，退休以后，他有足够的时间和金钱去旅游，访友等。
-+ 再次，强制退休不意味着他不能继续工作，如果一个人真的对工作很有热情或者不得不工作赚钱，他可以以返聘的方式继续工作。 
++ 我同意人们应该在65岁后被迫退休。
++ 首先，这对老年人有利，因为这是他们享受生活的最佳时期。当一个人在65岁退休时，他更可能拥有健康的身体和丰富的财务，退休后，他有足够的时间和金钱去旅行，拜访朋友等。
++ 其次，被迫退休并不意味着他就不能再工作了，如果一个人对工作真的有很大的热情，或者必须工作来赚钱，他可以以再就业的形式继续工作。 
 
 + I agree that people should be forced to retire after the age of 65.
-+ First, it's beneficial for old people, because it's the best time for them to enjoy life. When one retire at the age of 65, he is more likely to have a healthy body and be rich fancianlly, after retirement, he have enough time and moeny to travel, visit friends etc.
++ First, it's beneficial for old people, because it's the best time for them to enjoy life. When one retire at the age of 65, he is more likely to have a healthy body and be rich financially, after retirement, he have enough time and money to travel, visit friends etc.
 + Secondly, being forced to retire doesn't mean he could never work again, if one really has great passion on work or has to work to earn money, he can continue to work in the forms of reemployment
 
 ## Do you agree that parents should use money as an incentive for kids to behave well in school?
 
-+ 我同意这个观点
-+ 首先，这是一个非常有效的方式来引导孩子好好学习。小朋友也需要金钱购买一些他们喜欢的东西，这就是他们会好好学习的动力，好的成绩也会培养他们的自信心。
-+ 再次，这个方式有助于培养小朋友的金钱观，金钱观是正确对待金钱和使用金钱的能力，我们需要和金钱打一辈子的交道，因此，这个能力非常需要尽早地培养。
++ 我同意这个观点。
++ 首先，这是一种有效的方式来引导孩子们努力学习。孩子们也需要钱来购买他们感兴趣的东西，所以这是他们在学校表现好，获得好成绩的动力，而好的成绩可以培养他们的自信心。
++ 其次，这种方法帮助孩子们培养他们对金钱的观念，即正确对待和使用金钱的能力。我们应该一生都要处理金钱。这种能力非常重要，需要尽早发展。
 
 + I agree with this view.
-+ First of all, it's an efficient way to lead kids to study hard. Kids also need money to buy something they are interested in. so it is the motivation to behave well in school and good grades can cultivate their condfidence.
++ First of all, it's an efficient way to lead kids to study hard. Kids also need money to buy something they are interested in. so it is the motivation to behave well in school and good grades can cultivate their confidence.
 + Secondly, this method helps children foster their view of money which is the ability to treat and use money correctly. We are supposed to deal with money for a lifetime. This ability is so important that needs to be developed as early as possible.
 
 ## Some managers like to closely watch their employees, while others prefer to give their employees more freedom. Which do you think is more effective?
 
-+ 我认为经理应该少关注一些员工
-+ 首先，一直被领导观察的员工会感觉到不自在，他们会觉得自己不被尊重和重视，这也会影响员工的办公效率，因为他们不能集中在工作上。
-+ 再次，经理应该多关注一些他们自己的事情，多花点时间和精力做好自己的本职工作给自己的员工做一个好的榜样，这样才能更好的领导部门取得更好的成绩。
++ 我认为经理应该少关注他们的员工。
++ 首先，如果员工被领导紧密监视，他们会感到不舒服，他们会觉得自己没有得到尊重或重视，这也会影响员工的办公效率，因为他们无法专注于工作。
++ 其次，经理应该更多地关注自己的事情，花更多的时间和精力做好自己的工作，为员工树立一个好榜样，以便更好地带领部门取得更好的成果。
 
 + I think managers should pay less attention to their employees.
-+ First, the employees will be uncomfortable if they are colsely watched by their leader, they will feel that they are not respected or valued, which will also affect the office efficiency of the employees, as they can't focus on their work.
++ First, the employees will be uncomfortable if they are closely watched by their leader, they will feel that they are not respected or valued, which will also affect the office efficiency of the employees, as they can't focus on their work.
 + Secondly, managers are supposed to pay more attention to their own things and spend more time and effort to do their own work well to set an good example for their employees, so as to better lead the department to achieve better results.
