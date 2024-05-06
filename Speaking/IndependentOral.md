@@ -153,3 +153,12 @@
 + I think managers should pay less attention to their employees.
 + First, the employees will be uncomfortable if they are closely watched by their leader, they will feel that they are not respected or valued, which will also affect the office efficiency of the employees, as they can't focus on their work.
 + Secondly, managers are supposed to pay more attention to their own things and spend more time and effort to do their own work well to set an good example for their employees, so as to better lead the department to achieve better results.
+
+## Your professor is asking you to help with some research work on the weekend, but you have planned to go to your sister’s birthday party. Which would you choose to do?
++ 我大概率会去参加我妹妹的生日。
++ 首先，我认为周末没有必要继续做实验，因为一天的时间也不能取得很大的进展，与其在实验室里浪费时间，我们还不如去做点别的事情放松一下心情.
++ 再次，我们需要合理地安排自己的时间，平衡我们的工作和娱乐，这样工作效率才会更高。周末是休息的时间，应该尽可能少的再去工作，因为这既破坏心情，又影响实验进展。
+
++ I will probably to go to my sister's birthday party.
++ First, I don't think it's necessary to continue doing research work on weekends, because we can't make munch progress on the weekend. Instead of wasting time in the lab, we should do something else to releax
++ Secondly, wo are supposed to arrange our time properly to balance the weight of our work and entertainment, so that our work will be more efficient. Weekend is the reset time and we should go to work as little as possibile, because it destorys our mood, and affect the progress of the research.
