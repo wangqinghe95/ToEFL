@@ -162,3 +162,9 @@
 + I will probably to go to my sister's birthday party.
 + First, I don't think it's necessary to continue doing research work on weekends, because we can't make munch progress on the weekend. Instead of wasting time in the lab, we should do something else to releax
 + Secondly, wo are supposed to arrange our time properly to balance the weight of our work and entertainment, so that our work will be more efficient. Weekend is the reset time and we should go to work as little as possibile, because it destorys our mood, and affect the progress of the research.
+
+## （2016.06.25）Your community has been donated a piece of land. Should it be used to build an amusement center, or to grow trees and flowers
+
++ 我觉得都可以
++ 一方面，建一个娱乐中心可以允许大家有一个地方可以休闲娱乐。这对所有居住在社区的人都非常有好处，因为这能够帮助大家在一天工作或者学习之后放松心情，享受生活。
++ 另一方面，如果种一些花草树木能够让社区变得更宜居。这对大家也很有很多好处，因为这可以美化社区，净化空气，提供一个舒适的环境让大家有更好的心情生活和学习。
