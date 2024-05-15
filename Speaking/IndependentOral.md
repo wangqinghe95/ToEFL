@@ -170,7 +170,7 @@
 + 另一方面，种植一些花草树木可以使社区变得更加宜居。这对所有人都有很多好处，因为它可以美化社区，净化空气，并提供一个舒适的环境，使大家在生活和学习中拥有更好的心情。
 
 + I believe both options are viable.
-+ On one hand, building an entertainment center can provide everyone with a place for leisure and entertainment. This is very beneficial for all residents in the community, as it can help people relax and enjoy life after a day of work or study.
++ On one hand, building an entertainment center can provide everyone with a place for leisure and enjoyment. This is very beneficial for all residents in the community, as it can help people relax and enjoy life after a day of work or study.
 + On the other hand, planting some flowers and trees can make the community more livable. This also has many benefits for everyone, as it can beautify the community, purify the air, and provide a comfortable environment that makes everyone have a better mood for life and study.
 
 ## Do you agree that experienced doctors are better than young doctors? 
