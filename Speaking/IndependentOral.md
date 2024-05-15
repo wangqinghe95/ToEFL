@@ -165,6 +165,26 @@
 
 ## （2016.06.25）Your community has been donated a piece of land. Should it be used to build an amusement center, or to grow trees and flowers
 
-+ 我觉得都可以
-+ 一方面，建一个娱乐中心可以允许大家有一个地方可以休闲娱乐。这对所有居住在社区的人都非常有好处，因为这能够帮助大家在一天工作或者学习之后放松心情，享受生活。
-+ 另一方面，如果种一些花草树木能够让社区变得更宜居。这对大家也很有很多好处，因为这可以美化社区，净化空气，提供一个舒适的环境让大家有更好的心情生活和学习。
++ 我认为这两个选择都是可行的。
++ 一方面，建设一个娱乐中心可以为大家提供一个休闲娱乐的场所。这对社区的所有居民都非常有益，因为它可以帮助人们在一天的工作或学习后放松心情，享受生活。
++ 另一方面，种植一些花草树木可以使社区变得更加宜居。这对所有人都有很多好处，因为它可以美化社区，净化空气，并提供一个舒适的环境，使大家在生活和学习中拥有更好的心情。
+
++ I believe both options are viable.
++ On one hand, building an entertainment center can provide everyone with a place for leisure and entertainment. This is very beneficial for all residents in the community, as it can help people relax and enjoy life after a day of work or study.
++ On the other hand, planting some flowers and trees can make the community more livable. This also has many benefits for everyone, as it can beautify the community, purify the air, and provide a comfortable environment that makes everyone have a better mood for life and study.
+
+## Do you agree that experienced doctors are better than young doctors? 
+
++ 这个观点并不一定完全准确。
++ 首先，经验丰富的医生在医术上确实可能优于年轻医生，因为他们处理过众多病例，进行过大量手术，知道如何与病人沟通，以及如何根据不同症状进行用药。这些经验对于治疗病人来说是非常重要的。
++ 然而，年轻医生也有他们自身的优势。他们有充足的时间进行学习，有足够的热情与病人交流，同时也有无限的潜力。因此，我们不应该简单地用好或不好来评价年轻的医生，而应该为他们创造条件，让他们能够尽快成长。
+
++ This viewpoint is not necessarily entirely accurate.
++ Firstly, experienced doctors may indeed be superior in medical skills compared to young doctors, as they have handled numerous cases, performed a large number of surgeries, know how to communicate with patients, and how to medicate based on different symptoms. These experiences are very important for treating patients.
++ However, young doctors also have their own advantages. They have ample time to learn, enough enthusiasm to communicate with patients, and unlimited potential. Therefore, we should not simply evaluate young doctors as good or bad, but should create conditions for them to grow as quickly as possible.
+
+## Do you agree that it’s impolite to make calls or send text messages on a dinner table?
+
++ 我认为这样做确实不礼貌
++ 首先，这样的行为对共餐的人不尊重。当有人在餐桌上使用手机时，他的注意力会被分散，不能将注意力全部集中到餐桌和共餐的人身上，这样会让一起吃饭的人会感受忽视或者不受重视。
++ 再次，
