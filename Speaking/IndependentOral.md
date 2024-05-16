@@ -173,7 +173,7 @@
 + On one hand, building an entertainment center can provide everyone with a place for leisure and enjoyment. This is very beneficial for all residents in the community, as it can help people relax and enjoy life after a day of work or study.
 + On the other hand, planting some flowers and trees can make the community more livable. This also has many benefits for everyone, as it can beautify the community, purify the air, and provide a comfortable environment that makes everyone have a better mood for life and study.
 
-## Do you agree that experienced doctors are better than young doctors? 
+## Do you agree that experienced doctors are better than young doctors? (2016.7.2)
 
 + 这个观点并不一定完全准确。
 + 首先，经验丰富的医生在医术上确实可能优于年轻医生，因为他们处理过众多病例，进行过大量手术，知道如何与病人沟通，以及如何根据不同症状进行用药。这些经验对于治疗病人来说是非常重要的。
@@ -183,8 +183,15 @@
 + Firstly, experienced doctors may indeed be superior in medical skills compared to young doctors, as they have handled numerous cases, performed a large number of surgeries, know how to communicate with patients, and how to medicate based on different symptoms. These experiences are very important for treating patients.
 + However, young doctors also have their own advantages. They have ample time to learn, enough enthusiasm to communicate with patients, and unlimited potential. Therefore, we should not simply evaluate young doctors as good or bad, but should create conditions for them to grow as quickly as possible.
 
-## Do you agree that it’s impolite to make calls or send text messages on a dinner table?
+## Do you agree that it’s impolite to make calls or send text messages on a dinner table?(2016.7.3)
 
 + 我认为这样做确实不礼貌
-+ 首先，这样的行为对共餐的人不尊重。当有人在餐桌上使用手机时，他的注意力会被分散，不能将注意力全部集中到餐桌和共餐的人身上，这样会让一起吃饭的人会感受忽视或者不受重视。
-+ 再次，
++ 首先，这样的行为对共餐的人缺乏尊重。当有人在餐桌上使用手机时，他的注意力会被分散，无法全心全意地投入到餐桌上的交流中。这可能会让其他人感到被忽视或者不受重视，从而破坏了餐桌上的和谐氛围。
++ 其次，餐桌上的时间应该是用来享受美食、与他人交流以及建立更深的人际关系的时间。然而，使用手机会破坏这种轻松愉快的氛围，可能会让其他人觉得你并不珍视此时的陪伴和交流。
+
++ I agree with this view.
++ Firstly, such behavior shows a lack of respect for the people sharing the meal. When someone uses a mobile phone at the dining table, their attention is diverted and they cannot fully engage in the conversation at the table. This might make others feel ignored or unimportant, thereby disrupting the harmonious atmosphere at the table.
++ Secondly, the time at the dining table should be used to enjoy food, communicate with others, and build deeper interpersonal relationships. However, using a mobile phone can disrupt this relaxed and pleasant atmosphere, and may make others feel that you do not value their company and conversation at this time.
+
+## Do you agree that it’s easier to teach primary school kids than university students?(2016.7.9)
+
