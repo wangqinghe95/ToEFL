@@ -2,7 +2,7 @@
 
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 + 我更喜欢买已经做好的食物。
-+ 第一个原因是这可以帮助我节省很多时间，我可以做一下我感兴趣的有趣的事，比如游泳，骑行或者阅读。这些有益于我的身心健康。
++ 第一个原因是这可以帮助我节省很多时间，我可以做一下我感兴趣的有趣的事，比如游泳，骑行或者阅读，这些有益于我的身心健康。
 + 第二个原因是有很多种食物供我选择，如果我在外面吃，我认为这会比我自己做的食物更美味，因为它们都是由很多年厨艺经验的人做的。
 
 + I prefer buying food that is already prepared. 
@@ -180,17 +180,17 @@
 + 然而，年轻医生也有他们自身的优势。他们有充足的时间进行学习，有足够的热情与病人交流，同时也有无限的潜力。因此，我们不应该简单地用好或不好来评价年轻的医生，而应该为他们创造条件，让他们能够尽快成长。
 
 + This viewpoint is not necessarily entirely accurate.
-+ Firstly, experienced doctors may indeed be superior in medical skills compared to young doctors, as they have handled numerous cases, performed a large number of surgeries, know how to communicate with patients, and how to medicate based on different symptoms. These experiences are very important for treating patients.
-+ However, young doctors also have their own advantages. They have ample time to learn, enough enthusiasm to communicate with patients, and unlimited potential. Therefore, we should not simply evaluate young doctors as good or bad, but should create conditions for them to grow as quickly as possible.
++ Firstly, experienced doctors may indeed be superior in medical skills compared to young doctors, as they have handled numerous cases, performed a large number of **surgeries**, know how to communicate with patients, and how to medicate based on different symptoms. These experiences are very important for treating patients.
++ However, young doctors also have their own advantages. They have ample time to learn, enough enthusiasm to talk with patients, and unlimited potential. Therefore, we should not simply evaluate young doctors as good or bad, but should create conditions for them to grow as quickly as possible.
 
 ## Do you agree that it’s impolite to make calls or send text messages on a dinner table?(2016.7.3)
 
-+ 我认为这样做确实不礼貌
++ 我赞同这个观点
 + 首先，这样的行为对共餐的人缺乏尊重。当有人在餐桌上使用手机时，他的注意力会被分散，无法全心全意地投入到餐桌上的交流中。这可能会让其他人感到被忽视或者不受重视，从而破坏了餐桌上的和谐氛围。
 + 其次，餐桌上的时间应该是用来享受美食、与他人交流以及建立更深的人际关系的时间。然而，使用手机会破坏这种轻松愉快的氛围，可能会让其他人觉得你并不珍视此时的陪伴和交流。
 
 + I agree with this view.
-+ Firstly, such behavior shows a lack of respect for the people sharing the meal. When someone uses a mobile phone at the dining table, their attention is diverted and they cannot fully engage in the conversation at the table. This might make others feel ignored or unimportant, thereby disrupting the harmonious atmosphere at the table.
++ Firstly, such behavior shows a lack of respect for the people sharing the meal. When someone uses a mobile phone at the dining table, their attention is **diverted** and they cannot fully engage in the conversation at the table. This might make others feel **ignored** or unimportant, thereby disrupting the **harmonious** atmosphere at the table.
 + Secondly, the time at the dining table should be used to enjoy food, communicate with others, and build deeper interpersonal relationships. However, using a mobile phone can disrupt this relaxed and pleasant atmosphere, and may make others feel that you do not value their company and conversation at this time.
 
 ## Do you agree that it’s easier to teach primary school kids than university students?(2016.7.9)
