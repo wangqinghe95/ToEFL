@@ -195,3 +195,20 @@
 
 ## Do you agree that it’s easier to teach primary school kids than university students?(2016.7.9)
 
++ 我并不同意这个观点，反而我认为教授大学生会比教授中学生更轻松一些。
++ 首先，中学生的年纪较小，他们的成熟度不足。教师仅需要教授他们知识，批改他们的作业，还需要关注他们的身心健康。此外，老师还需要与他们的父母沟通，讨论他们的学业进展和在学校的表现，以尽可能地帮助他们健康成长。这些任务都非常耗费时间和精力。
++ 然而，教授大学生则相对轻松一些。因为大学生已经是成年人，他们已经形成了成熟的世界观和价值观。老师的主要任务就是在课堂上传授知识，并不需要过多地关注他们，允许他们根据自己的情况规划自己的未来。
+
++ I don’t agree with this viewpoint. On the contrary, I believe that teaching university students is somewhat easier than teaching middle school students.
++ Firstly, middle school students are younger and less mature. Teachers not only need to teach them knowledge and correct their homework, but also need to pay attention to their physical and mental health. In addition, teachers need to communicate with their parents, discuss their academic progress and performance in school, and help them grow healthily as much as possible. These tasks are very time-consuming and energy-consuming.
++ However, teaching university students is relatively easier. Because university students are adults, they have formed mature worldviews and values. The main task of teachers is to impart knowledge in the classroom, and they don’t need to pay too much attention to them, allowing them to plan their future according to their own situation.
+
+## Task 2: Do you agree that it is important to learn about the history of the city you live in?（2016.7.10）
+
++ 我认为了解生活所在城市的历史非常重要。
++ 首先，这有助于扩展我们的知识基础和视野。一个城市的历史是一个丰富的教育资源，通过了解这段历史，我们可以学习到发生在这个城市的事件、变化和趋势，这些都可以增加我们的知识储备，从而更好地理解现在和未来。
++ 其次，了解城市的历史可以增强我们对这座城市的归属感和参与感。这不仅可以帮助我们更好地融入生活的城市，而且还能帮助我们理解城市的文化、建筑和社区的起源和发展，这些都对我们的成长有着极大的益处
+
++ I believe that understanding the history of the city where we live is very important.
++ Firstly, this helps to expand our knowledge base and broaden our horizons. The history of a city is a rich educational resource. By understanding this history, we can learn about the events, changes, and trends that have occurred in the city. This can enhance our knowledge reserve, enabling us to better understand the present and the future.
++ Secondly, understanding the city’s history can enhance our sense of belonging and participation in the city. This not only helps us to better integrate into the city where we live, but also helps us understand the origins and development of the city’s culture, architecture, and communities. All of these are greatly beneficial to our growth.
