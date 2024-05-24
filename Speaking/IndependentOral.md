@@ -212,3 +212,23 @@
 + I believe that understanding the history of the city where we live is very important.
 + Firstly, this helps to expand our knowledge base and broaden our horizons. The history of a city is a rich educational resource. By understanding this history, we can learn about the events, changes, and trends that have occurred in the city. This can enhance our knowledge reserve, enabling us to better understand the present and the future.
 + Secondly, understanding the city’s history can enhance our sense of belonging and participation in the city. This not only helps us to better integrate into the city where we live, but also helps us understand the origins and development of the city’s culture, architecture, and communities. All of these are greatly beneficial to our growth.
+
+## Task 2: Do you agree that it is okay for people to use surgeries to change their appearance?(2016.7.16)
+
++ 我非常不赞同做这种事。
++ 首先，外貌并不能代表一个人的所有。人们确实会因为外貌影响对他人的第一印象，但是还有其他更品质会比外貌更重要，比如正直诚实的品行，勤劳美好的德行，这些对于一个人的工作和生活更重要。
++ 再次，我们还有其他更好的方法来改变外貌，比如坚持运动保持一个积极的生活心态，早起早睡培养一个健康的生活作息，多读书可以武装我们的思想等等，这些措施都可以潜移默化的修改我们的外貌，让我们变得更好看。
+
++ I strongly disagree with doing this.
++ First of all, appearance does not represent everything about a person. People indeed form first impressions based on appearance, but there are other qualities that are more important than appearance, such as honesty and diligence. These qualities are more important for a person’s work and life.
++ Furthermore, we have other better ways to change our appearance, such as maintaining a positive lifestyle by exercising regularly, cultivating a healthy daily routine by getting up early and going to bed early, and enriching our minds by reading more. These measures can subtly change our appearance and make us look better.
+
+## Some people prefer to watch entertainment programs on television, while  others prefer to watch educational programs. Which do you prefer?（2016.08.20）
+
++ 我更喜欢娱乐节目
++ 首先，娱乐节目通常比较有趣和轻松，这帮助我在忙碌一天后放松身心，调节情绪。而且热门的娱乐节目往往都是人们社交时的话题，看些娱乐节目可以让我更好的与朋友，家人和同事交流。
++ 再次，通过观看不同类型的娱乐节目，我能接触到多元的文化元素，培养审美观，增加文化素养，扩展眼界。此外有些娱乐节目非常有创造力，能够帮助我们发散思维，激发我们的想象力和创造力。
+
++ I prefer entertainment programs.
++ Firstly, entertainment programs are usually more interesting and relaxing, which helps me unwind and adjust my mood after a busy day. Moreover, popular entertainment programs often become topics of social conversation. Watching these programs allows me to better communicate with friends, family, and colleagues.
++ Secondly, by watching different types of entertainment programs, I can be exposed to diverse cultural elements, cultivate aesthetic appreciation, increase cultural literacy, and broaden my horizons. In addition, some entertainment programs are very creative, which can help us diverge our thinking, stimulate our imagination and creativity.
