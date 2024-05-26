@@ -1,6 +1,6 @@
 # Practice 2016-2018
 
-## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
+## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?(2016-01-09)(need to write again)
 + 我更喜欢买已经做好的食物。
 + 第一个原因是这可以帮助我节省很多时间，我可以做一下我感兴趣的有趣的事，比如游泳，骑行或者阅读，这些有益于我的身心健康。
 + 第二个原因是有很多种食物供我选择，如果我在外面吃，我认为这会比我自己做的食物更美味，因为它们都是由很多年厨艺经验的人做的。
@@ -14,9 +14,9 @@
 + 第一个原因是名人只是被很多人知道，但是名人并不一定由其他好的品质，比如正直，远见或者能力。
 + 第二个原因是我认为那些为社会和国家做过贡献的人才有资格成为年轻人好的榜样，比如科学家，优秀的老师，和伟大的政治家，因为他们做的事非常有意义，也值得年轻人学习。
 
-+ I disagree with the view that celebrities are good examples for young people.
++ I disagree with the view that **celebrities** are good examples for young people.
 + The first reason is that celebrities are just known to a lot of people, but celebrities don't necessarily have other good characteristics, such as integrity, vision or competence.
-+ The second reason is that I think the people who contribute to the society and country qualified to be good examples for young children, such as scientists, excellent teachers, and great politicians, because what they do is very meaningful and worth learning for young children.
++ The second reason is that I think the people who contribute to the society and country qualified to be good examples for young children, such as scientists, **excellent** teachers, and great politicians, because what they do is very meaningful and worth learning for young children.
 
 ## Some people prefer to make a plan with their friends about social activities, while others prefer to decide about what to do when they meet their friends. Which do you prefer?
 + 我喜欢和我的朋友制定关于社会活动的计划。
@@ -195,13 +195,13 @@
 
 ## Do you agree that it’s easier to teach primary school kids than university students?(2016.7.9)
 
-+ 我并不同意这个观点，反而我认为教授大学生会比教授中学生更轻松一些。
-+ 首先，中学生的年纪较小，他们的成熟度不足。教师仅需要教授他们知识，批改他们的作业，还需要关注他们的身心健康。此外，老师还需要与他们的父母沟通，讨论他们的学业进展和在学校的表现，以尽可能地帮助他们健康成长。这些任务都非常耗费时间和精力。
-+ 然而，教授大学生则相对轻松一些。因为大学生已经是成年人，他们已经形成了成熟的世界观和价值观。老师的主要任务就是在课堂上传授知识，并不需要过多地关注他们，允许他们根据自己的情况规划自己的未来。
++ 我并不同意这个观点。
++ 首先，中学生的年纪较小不够成熟，教师不仅需要教授他们知识，批改他们的作业，还需要关注他们的身心健康。此外，老师还需要与他们的父母沟通，讨论他们的学业进展和在学校的表现，这些会耗费老师很多时间和精力。
++ 然而，教授大学生则相对轻松一些。因为他们已经是成年人，他们已经形成了成熟的世界观和价值观。老师的主要任务就是在课堂上传授知识，并不需要过多地关注他们，允许他们根据自己的情况规划自己的未来。
 
-+ I don’t agree with this viewpoint. On the contrary, I believe that teaching university students is somewhat easier than teaching middle school students.
-+ Firstly, middle school students are younger and less mature. Teachers not only need to teach them knowledge and correct their homework, but also need to pay attention to their physical and mental health. In addition, teachers need to communicate with their parents, discuss their academic progress and performance in school, and help them grow healthily as much as possible. These tasks are very time-consuming and energy-consuming.
-+ However, teaching university students is relatively easier. Because university students are adults, they have formed mature worldviews and values. The main task of teachers is to impart knowledge in the classroom, and they don’t need to pay too much attention to them, allowing them to plan their future according to their own situation.
++ I don’t agree with this viewpoint. On the contrary, I believe that teaching university students is somewhat easier than teaching primary school students.
++ Firstly, primary school students are younger and less mature，teachers not only need to teach them knowledge and correct their homework, but also need to pay attention to their physical and mental health. In addition, teachers need to communicate with their parents, discuss their academic progress and performance in school, and help them grow healthily as much as possible. These tasks are very time-consuming and energy-consuming.
++ However, teaching university students is relatively easier. Because university students are adults, they have formed mature worldviews and values. The main task of teachers is to impart knowledge in the classroom, and don’t need to pay too much attention to them, allowing them to plan their future according to their own situation.
 
 ## Task 2: Do you agree that it is important to learn about the history of the city you live in?（2016.7.10）
 
