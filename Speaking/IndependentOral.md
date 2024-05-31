@@ -1,76 +1,83 @@
 # Practice 2016-2018
 
 ## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?(2016-01-09)(need to write again)
-+ 我更喜欢买已经做好的食物。
-+ 第一个原因是这可以帮助我节省很多时间，我可以做一下我感兴趣的有趣的事，比如游泳，骑行或者阅读，这些有益于我的身心健康。
-+ 第二个原因是有很多种食物供我选择，如果我在外面吃，我认为这会比我自己做的食物更美味，因为它们都是由很多年厨艺经验的人做的。
 
-+ I prefer buying food that is already prepared. 
-+ The first reason is that it will help me save plenty of time so that I can do some interesting things I enjoy, such as swimming, riding and reading, which are beneficial for my mental and physical health. 
-+ The second reason is that there are various types of foods that I can choose from. If I eat outside, I think it will be more delicious than the food I cook by myself, because they are made by the people who have many years of cooking.
++ 我倾向于选择现成的食物。
++ 首先，这样做能大幅节约我的时间——无需购物、准备食材、烹饪以及清洁厨房。我可以利用节省下来的时间去从事我感兴趣的活动，如游泳、骑自行车和阅读，这些活动对我的身心健康都大有裨益。
++ 此外，这也丰富了我的生活体验和见识。我有机会探索不同的餐饮文化、尝试多样的菜肴和餐厅，通过品味各式各样的美食来了解不同地区和国家的文化，这对我的个人成长极为有益
+
++ I prefer buying food that is already prepared.
++ Firstly, this approach saves me a significant amount of time—eliminating the need for shopping, food preparation, cooking, and kitchen cleanup. I can use the time saved to engage in activities I enjoy, such as swimming, cycling, and reading, all of which are beneficial to my physical and mental health.
++ Additionally, it enriches my life experiences and broadens my horizons. I have the opportunity to explore diverse culinary cultures, try a variety of dishes and restaurants, and through savoring a wide range of cuisines, I gain insights into the cultures of different regions and countries, which is immensely helpful for my personal growth.
 
 ##  Do you agree that celebrities are good examples for young people? 
-+ 我不同意名人是年轻人很好的榜样这一观点。
-+ 第一个原因是名人只是被很多人知道，但是名人并不一定由其他好的品质，比如正直，远见或者能力。
-+ 第二个原因是我认为那些为社会和国家做过贡献的人才有资格成为年轻人好的榜样，比如科学家，优秀的老师，和伟大的政治家，因为他们做的事非常有意义，也值得年轻人学习。
 
-+ I disagree with the view that **celebrities** are good examples for young people.
-+ The first reason is that celebrities are just known to a lot of people, but celebrities don't necessarily have other good characteristics, such as integrity, vision or competence.
-+ The second reason is that I think the people who contribute to the society and country qualified to be good examples for young children, such as scientists, **excellent** teachers, and great politicians, because what they do is very meaningful and worth learning for young children.
++ 我持有不同意见，认为名人并非年轻人理想的榜样。
++ 首先，尽管名人广为人知，但他们不一定具备对年轻人成长至关重要的其他优良品质，如正直、远见或能力。缺乏这些品质却拥有巨大影响力的名人，可能会误导年轻人的价值观。
++ 其次，我相信，只有那些为社会和国家做出显著贡献的人，如科学家、杰出教师和伟大政治家，才真正有资格成为年轻人的良好榜样。他们的贡献不仅意义深远，而且值得年轻人效仿和学习
+
++ I hold a different opinion, believing that celebrities are not ideal role models for the youth. 
++ Firstly, despite their fame, celebrities may not possess other excellent qualities that are crucial for the growth of young people, such as integrity, foresight, or capability. Celebrities lacking these qualities but with significant influence can easily mislead the values of the young. 
++ Secondly, I believe that only those who have made significant contributions to society and the country, such as scientists, outstanding teachers, and great politicians, truly deserve to be good role models for the youth. Their contributions are not only meaningful but also worthy of emulation and learning by the young.
 
 ## Some people prefer to make a plan with their friends about social activities, while others prefer to decide about what to do when they meet their friends. Which do you prefer?
+
 + 我喜欢和我的朋友制定关于社会活动的计划。
-+ 第一个原因是这可以节省所有参与者的时间，制定一个好的计划可以告诉所有人我们需要做什么， 什么时间什么地点去做。尽管所有的社会活动可能不会如计划那样进行，至少我们知道我们的目标是什么，我们应该做什么。
-+ 第二个原因是如果我们提前做了计划，我们可以为社会活动提前准备些什么，比如携带一些必要的设备，穿上合适的衣服和鞋子。这样社会活动可能会更成功。
++ 首先，这样做可以提高效率并节省时间。通过提前与朋友规划，我们可以合理安排所有参与者的时间，确保活动有序进行，避免因临时安排而产生的混乱和压力，从而使活动更加迅速和高效地完成。
++ 此外，提前规划可以增加成功举办社会活动的可能性。在活动准备过程中，我们可以做足充分准备，例如携带必要的设备，穿着适当的服装和鞋子，这些都对活动的成功至关重要。
 
 + I would like to make a plan with my friends about social acitivities.
-+ The first reason is that it can save time for all participants. Making a good plan can tell everyone what we need to do, when and where to do it. Although the social activities may not proceed exactly as planned, at least we know what our goal is and what we should do.
-+ The second reason is that we can prepare something for social activities if we make a plan in advance, such as taking some necessary equipment, wearing proper clothes and shoes. That way the social activities would be even more successful.
++ Firstly, it can enhance efficiency and save time. By planning ahead with friends, we can allocate everyone’s time effectively, ensuring the event proceeds smoothly and avoiding the chaos and pressure that come with last-minute arrangements, which helps the event to be completed more quickly and efficiently.
++ Moreover, planning in advance can increase the likelihood of successfully holding a social event. During the preparation process, we can make thorough preparations, such as bringing necessary equipment and wearing appropriate clothes and shoes, all of which are very helpful for the success of the event.
 
 ## Do you agree that universities are successful because of experienced professors?
-+ 我不同意大学因为有经验的教授而成功。
-+ 第一个原因是我认为大学是一个教书的地方，所以大学的成功取决于是否能够培育优秀的大学生，他们有正直和能力。
-+ 第二个原因是有很多因素影响培养有道德和能力的大学生，比如大学的校风，老师的品德。所以只有经验丰富的教授是不够的。
++ 我不同意这个观点，大学的成功不仅仅取决于有经验的教授。
++ 首先，学生是大学的核心，学生的道德水平，学术成就和创新能力直接影响大学的声誉，学生积极地参与研究项目，国际竞赛提升学校的知名度，这些对大学的成功都是至关重要的因素。
++ 再次，校园设施和资源也非常重要，比如图书馆，实验室，体育设施等等这些现代化的校园设施能够极大影响学生的学习体验和满意度。良好的设施也能吸引顶尖的教师和研究人员，进一步提升大学的教学和研究水平。
 
-+ I disagree with the view that universities are successful because of experienced professors.
-+ The first reason is that I think the university is a place for teaching, so the success of a univeristy depends on whether it is able to teach excellent college students who both have integrity and competence.
-+ The second reason is that there are many factors that affect the cultivation of moral character and ability of college students, such as school spirit of the university and the quality of teachers. So it's not enough to only have experienced professors.
++ I disagree with this view; the success of a university does not solely depend on experienced professors.
++ Firstly, students are the heart of a university. Their moral standards, academic achievements, and innovative capabilities directly impact the university’s reputation. Students’ active participation in research projects and international competitions enhances the school’s visibility, which are crucial factors for the university’s success.
++ Secondly, campus facilities and resources are also very important. Modern campus facilities such as libraries, laboratories, and sports facilities can greatly affect students’ learning experiences and satisfaction. Good facilities can also attract top teachers and researchers, further improving the university’s teaching and research levels.
 
 ## Which is more important to the success of an artist: natural talent or hard work?
-+ 我认为对一个艺术家的成功来说，天赋要比努力更重要。
-+ 第一个原因是，天赋是一个人的上限，特别是对于一个艺术家。天赋高的人更有可能想出好的想法，或者从他生活中或者想象力中获得灵感，因此对于他们来说更容易创造出非凡的艺术品。
-+ 第二个原因是天赋能够培养出创造力，这些对于艺术家想要成功非常重要，比如它们能够帮助他们在艺术领域达到更大的高度。
 
-+ I think the natural talent is more important than hard work to the success of an artist.
-+ The first reason is that natural talent sets the upper limit for a person, especially for an artist. People who are born with high talent are more likely to come up with good ideas, or draw inspiration from things in their life or imagination, Therefore it is easier for them to create extraordinary works of art.
-+ The second reason is that talent can foster creativity and innovation, These are essential qualities for artists to be successful, as they can help them achieve greater heights in the field of art.
++ 对于艺术家而言，天赋与努力同等重要。
++ 首先，天赋是艺术创作的重要组成部分，它是艺术家与生俱来的独特能力。拥有天赋的艺术家能够直观地洞察艺术的精髓，轻松捕捉灵感，并且更有可能创作出杰出的作品。
++ 其次，努力对于艺术家的成功同样不可或缺。艺术创作是一个持续的学习与成长过程，即便是最有天赋的艺术家也必须不懈努力，以磨砺技艺，开阔艺术视野。只有这样，他们才能创造出能够超越时代的艺术佳作。
+
++ For artists, both talent and effort are of paramount importance.
++ Firstly, talent plays a crucial role in the creation of art; it is an innate ability that artists are born with. Artists with talent can intuitively understand the essence of art, easily capture inspiration, and are more likely to produce extraordinary works.
++ Secondly, hard work is equally vital for success. The process of artistic creation is also one of continuous learning and growth. Even the most talented artists need to tirelessly hone their skills and broaden their artistic horizons. Only through persistent effort can they create timeless masterpieces that transcend the ages.
 
 ## Do you agree that schools should encourage students to be creative and imaginative in order for them to be successful?
-+ 我同意为了学生更加的成功，学校应该鼓励学生更有创造力和想象力这一观点。
-+ 第一个原因是这可以帮助学生应对学术的要求和挑战，学生可以运用他们的创造力和想象力设计和实施他们的科学实验，发现和解释他们的科学现象。
-+ 第二个原因是创造力和想象力对大学生成功非常重要，它们对学生非常有价值，因为它可以帮助他们克服学习的困难和压力，激发他们对科学的热情。
 
-+ I agree with the view that schools should encourage students to be creative and imaginative in order for them to be successful.
-+ The first reason is that it can help students cope with the academic demands and challenges, students can use their creativity and imagination to design and implement their own scientific projects, to discover and explain their own scientific phenomena.
-+ The second reason is that it is so significant for students to be successful with creativity and imagination, which are valuable for students as it can help them overcome the difficulties and pressure of the learning, and stimulate their enthusiasm and passion for science.
++ 我赞同这种看法。
++ 首先，它能够促进学生更好地适应未来的挑战。在这个日新月异的世界里，无论是职场还是日常生活，创新和解决问题的能力都至关重要，而想象力与创造力是这些能力的根本。
++ 其次，想象力和创造力对学生的个人学习和成长也大有裨益。这些能力不仅能帮助学生满足学术要求，应对各种挑战，还能培养他们的好奇心和探索欲，激发终身学习的热情。这对于学生未来的职业道路和生活质量都极为重要。
 
-## Do you agree that it is more important to maintain the relationship with family members than with friends? 
-+ 我认为家庭成员和朋友同等重要
-+ 首先，友谊和亲情对每个人都非常重要，我们能够从爱我们的家人获得无条件的支持，我们也能够和我们的好朋友玩耍，成长，开心。
-+ 再次，友谊和亲情在我们的生活中互相补充。尽管我们的父母无条件地爱着我们，但是有些事他们不会理解因为成长的环境。好朋友能够互相帮助，但是极少好朋友陪伴对方一辈子。
++ I agree with this perspective.
++ Firstly, it helps students better adapt to future challenges. In our rapidly changing world, both the workplace and everyday life require the ability to innovate and solve complex problems, and imagination and creativity are the foundations of these skills.
++ Secondly, imagination and creativity also greatly benefit students’ personal learning and development. These abilities not only help students meet academic demands and face various challenges but also cultivate their curiosity and desire to explore, inspiring a passion for lifelong learning. This is extremely important for students’ future career paths and quality of life.
 
-+ I think family members and friends are equally important.
-+ First of all, friendship and family love are essential for everyone, we can gain unconditional support from family members who love us, we can also play, grow up, and have fun with our good friends.
-+ Secondly, friendship and family affection complement in our life. Although our parents love us unconditionally, but they can't understand something because of the different environment of growing up. Good friends can help each other, but fewer friends can accompany others for a life time.
+## Do you agree that it is more important to maintain the relationship with family members than with friends?
+
++ 家人和朋友都是生活中非常重要的存在，它们各自在我们的生活中扮演着不同但同样重要的角色。
++ 家人通常是我们最初的社会联系，为我们提供了基本的情感支持、安全感和归属感。他们在我们成长的过程中起着至关重要的作用，教会我们许多基本的生活技能和价值观。
++ 朋友则是我们选择与之共度时光的人。他们丰富了我们的社交生活，提供了不同的观点和经验，帮助我们扩展视野。在许多情况下，朋友可以成为我们的精神支柱，与我们分享快乐和悲伤。
+
++ Both family and friends are very important in life, each playing different but equally significant roles.
++ Family is usually our first social connection, providing us with emotional support, security, and a sense of belonging. They play a crucial role in our upbringing, teaching us many basic life skills and values.
++ Friends are the people we choose to spend our time with. They enrich our social lives, offer different perspectives and experiences, and help us broaden our horizons. In many cases, friends can become our emotional pillars, sharing in our joys and sorrows.
 
 ## Some people tend to judge a person on the basis of the first observation,  while other people believe that it takes a long time to know a person well. Which do you think is better?
-+ 我认为需要花很长时间去真正了解一个人。
-+ 首先，第一眼判断一个人不可靠，第一眼获得的信息是有限的，你无法从外表分辨出很多事情，比如他们的过去，饮食习惯，爱好等等
-+ 再次，分辨一个人的品质需要花费大量的实践，比如正直，言行一致。这些品质非常重要并且不能在短时间内观察出来，它们都需要在一个人特定的场景或者特定的条件才会显现。
 
-+ I believe that it takes a long time to truly know a person.
-+ First of all, it's not reliable to judge a person at first glance, the information you can get from a glance is very limited, you can't discern many things just from appearance, such as their past, hobbies, eating habits, and so on.
-+ Secondly, it should take a considerable amount of time to tell one's characteristics, such as honesty, consistency in one's words and actions. These qualities can't be discovered in a short time. they all need to be displayed by a person on certain occasions or under certain conditions.
++ 我认为想要真正了解一个人，是一个漫长的过程
++ 首先，了解一个人需要建立深厚的信任。这不仅包括对他们的兴趣和习惯的认识，更涉及对他们内心世界和道德观的理解。信任的建立基于长期的相处、共同的经历和相互的支持
++ 再次，了解一个人是一个持续的过程。每个人的人格特质都是复杂且多变的，随着时间和经历的积累而演变。因此，我们需要在不同的情境中观察他们的行为、思想和情感反应。
+
++ I believe that truly understanding a person is a long journey.
++ Firstly, understanding someone requires the establishment of profound trust. This involves not only recognizing their interests and habits but also comprehending their inner world and moral values. Trust is built on long-term companionship, shared experiences, and mutual support.
++ Furthermore, understanding a person is an ongoing process. Everyone has complex and evolving personality traits that change over time and through experiences. Therefore, we need to observe their behaviors, thoughts, and emotional responses in various situations.
 
 ## Do you agree that students should be allowed to take additional courses to graduate as soon as possible?
 + 我不同意学生应该参加额外的课程才能毕业。
