@@ -1,6 +1,6 @@
 # Practice 2016-2018
 
-## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?(2016-01-09)(need to write again)
+## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?(2016-01-09)
 
 + 我倾向于选择现成的食物。
 + 首先，这样做能大幅节约我的时间——无需购物、准备食材、烹饪以及清洁厨房。我可以利用节省下来的时间去从事我感兴趣的活动，如游泳、骑自行车和阅读，这些活动对我的身心健康都大有裨益。
@@ -10,15 +10,15 @@
 + Firstly, this approach saves me a significant amount of time --- eliminating the need for shopping, food preparation, cooking, and kitchen cleanup. I can use the time saved to engage in activities I enjoy, such as swimming, cycling, and reading, all of which are beneficial to my physical and mental health.
 + Additionally, it enriches my life experiences and broadens my horizons. I have the opportunity to explore diverse **culinary** cultures, try a variety of **dishes** and restaurants, and through **savoring** a wide range of **cuisines**, I gain insights into the cultures of different regions and countries, which is **immensely** helpful for my personal growth.
 
-##  Do you agree that celebrities are good examples for young people? 
+##  Do you agree that celebrities are good examples for young people? (2016-01-23)
 
-+ 我持有不同意见，认为名人并非年轻人理想的榜样。
-+ 首先，尽管名人广为人知，但他们不一定具备对年轻人成长至关重要的其他优良品质，如正直、远见或能力。缺乏这些品质却拥有巨大影响力的名人，可能会误导年轻人的价值观。
++ 我不同意这个观点。
++ 首先，尽管名人广为人知，但他们不一定具备对年轻人成长至关重要的其他优良品质，如正直、远见或能力。缺乏这些品质却拥有巨大影响力的名人很容易误导年轻人的价值观。
 + 其次，我相信，只有那些为社会和国家做出显著贡献的人，如科学家、杰出教师和伟大政治家，才真正有资格成为年轻人的良好榜样。他们的贡献不仅意义深远，而且值得年轻人效仿和学习
 
-+ I hold a different opinion, believing that celebrities are not ideal role models for the youth. 
-+ Firstly, despite their fame, celebrities may not possess other excellent qualities that are crucial for the growth of young people, such as integrity, foresight, or capability. Celebrities lacking these qualities but with significant influence can easily mislead the values of the young. 
-+ Secondly, I believe that only those who have made significant contributions to society and the country, such as scientists, outstanding teachers, and great politicians, truly deserve to be good role models for the youth. Their contributions are not only meaningful but also worthy of emulation and learning by the young.
++ I disagree with this view. 
++ Firstly, **despite** their fame, **celebrities** may not **possess** other **excellent** qualities that are crucial for the growth of **youth**, such as integrity, foresight, or capability. Celebrities lacking these qualities but with significant influence can easily mislead the values of the youth. 
++ Secondly, I believe that only those who have made significant contributions to society and the country, such as scientists, outstanding teachers, and great **politicians**, truly deserve to be good examples for the youth. Their contributions are not only meaningful but also **worthy** of **emulation** and learning by the youth.
 
 ## Some people prefer to make a plan with their friends about social activities, while others prefer to decide about what to do when they meet their friends. Which do you prefer?
 
