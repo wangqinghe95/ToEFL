@@ -1,16 +1,16 @@
 # Practice 2016-2018
 
-## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?(2016-01-09)
+## Some people buy food that is already prepared. Other people buy fresh food and prepare meals themselves. Which do you prefer?
 
 + 我倾向于选择现成的食物。
-+ 首先，这样做能大幅节约我的时间——无需购物、准备食材、烹饪以及清洁厨房。我可以利用节省下来的时间去从事我感兴趣的活动，如游泳、骑自行车和阅读，这些活动对我的身心健康都大有裨益。
++ 首先，这样做能大幅节约我的时间——无需购物、准备食材、烹饪以及清洁厨房。我可以利用节省下来的时间去从事我感兴趣的活动，如游泳、骑自行车和阅读，这些对我的身心健康都大有裨益。
 + 此外，这也丰富了我的生活体验和见识。我有机会探索不同的餐饮文化、尝试多样的菜肴和餐厅，通过品味各式各样的美食来了解不同地区和国家的文化，这对我的个人成长极为有益
 
 + I prefer buying food that is already prepared.
 + Firstly, this approach saves me a significant amount of time --- eliminating the need for shopping, food preparation, cooking, and kitchen cleanup. I can use the time saved to engage in activities I enjoy, such as swimming, cycling, and reading, all of which are beneficial to my physical and mental health.
 + Additionally, it enriches my life experiences and broadens my horizons. I have the opportunity to explore diverse **culinary** cultures, try a variety of **dishes** and restaurants, and through **savoring** a wide range of **cuisines**, I gain insights into the cultures of different regions and countries, which is **immensely** helpful for my personal growth.
 
-##  Do you agree that celebrities are good examples for young people? (2016-01-23)
+##  Do you agree that celebrities are good examples for young people? (2016-01-09)
 
 + 我不同意这个观点。
 + 首先，尽管名人广为人知，但他们不一定具备对年轻人成长至关重要的其他优良品质，如正直、远见或能力。缺乏这些品质却拥有巨大影响力的名人很容易误导年轻人的价值观。
@@ -20,15 +20,15 @@
 + Firstly, **despite** their fame, **celebrities** may not **possess** other **excellent** qualities that are crucial for the growth of **youth**, such as integrity, foresight, or capability. Celebrities lacking these qualities but with significant influence can easily mislead the values of the youth. 
 + Secondly, I believe that only those who have made significant contributions to society and the country, such as scientists, outstanding teachers, and great **politicians**, truly deserve to be good examples for the youth. Their contributions are not only meaningful but also **worthy** of **emulation** and learning by the youth.
 
-## Some people prefer to make a plan with their friends about social activities, while others prefer to decide about what to do when they meet their friends. Which do you prefer?
+## Some people prefer to make a plan with their friends about social activities, while others prefer to decide about what to do when they meet their friends. Which do you prefer?(2016-01-23)
 
 + 我喜欢和我的朋友制定关于社会活动的计划。
-+ 首先，这样做可以提高效率并节省时间。通过提前与朋友规划，我们可以合理安排所有参与者的时间，确保活动有序进行，避免因临时安排而产生的混乱和压力，从而使活动更加迅速和高效地完成。
++ 首先，这样做可以提高效率并节省时间。通过提前与朋友规划，我们可以合理安排所有参与者的时间，确保活动有序进行，避免因临时安排而产生的混乱和压力，这能帮助活动更加迅速和高效地完成。
 + 此外，提前规划可以增加成功举办社会活动的可能性。在活动准备过程中，我们可以做足充分准备，例如携带必要的设备，穿着适当的服装和鞋子，这些都对活动的成功至关重要。
 
 + I would like to make a plan with my friends about social acitivities.
-+ Firstly, it can enhance efficiency and save time. By planning ahead with friends, we can allocate everyone’s time effectively, ensuring the event proceeds smoothly and avoiding the chaos and pressure that come with last-minute arrangements, which helps the event to be completed more quickly and efficiently.
-+ Moreover, planning in advance can increase the likelihood of successfully holding a social event. During the preparation process, we can make thorough preparations, such as bringing necessary equipment and wearing appropriate clothes and shoes, all of which are very helpful for the success of the event.
++ Firstly, it can enhance efficiency and save time. By planning ahead with friends, we can allocate everyone’s time effectively, ensuring the event proceeds **smoothly** and avoiding the **chaos** and pressure that come with temporary arrangements, which helps the event to be completed more quickly and **efficiently**.
++ Moreover, planning in advance can increase the **likelihood** of successfully holding a social event. During the preparation process, we can make **thorough** preparations, such as bringing necessary equipment and wearing **appropriate** clothes and shoes, all of which are very helpful for the success of the event.
 
 ## Do you agree that universities are successful because of experienced professors?
 + 我不同意这个观点，大学的成功不仅仅取决于有经验的教授。
