@@ -5,4 +5,4 @@
 |49-1|
 |plot|thickens|annotations|extraneous|
 |47-1|
-|audition|
+|audition|scholarly|ballads|nasal|lyrics|castles|royalty|lords|stuff|antique|

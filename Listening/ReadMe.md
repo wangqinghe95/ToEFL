@@ -1,5 +1,8 @@
 # Listening
 
+## Articles
+1. 49-1,47-1
+
 ## Resources
 
 1. Articels

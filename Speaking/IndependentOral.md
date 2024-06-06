@@ -30,24 +30,25 @@
 + Firstly, it can enhance efficiency and save time. By planning ahead with friends, we can allocate everyone’s time effectively, ensuring the event proceeds **smoothly** and avoiding the **chaos** and pressure that come with temporary arrangements, which helps the event to be completed more quickly and **efficiently**.
 + Moreover, planning in advance can increase the **likelihood** of successfully holding a social event. During the preparation process, we can make **thorough** preparations, such as bringing necessary equipment and wearing **appropriate** clothes and shoes, all of which are very helpful for the success of the event.
 
-## Do you agree that universities are successful because of experienced professors?
-+ 我不同意这个观点，大学的成功不仅仅取决于有经验的教授。
+## Do you agree that universities are successful because of experienced professors?(2016.1.24)
+
++ 我不同意这个观点
 + 首先，学生是大学的核心，学生的道德水平，学术成就和创新能力直接影响大学的声誉，学生积极地参与研究项目，国际竞赛提升学校的知名度，这些对大学的成功都是至关重要的因素。
 + 再次，校园设施和资源也非常重要，比如图书馆，实验室，体育设施等等这些现代化的校园设施能够极大影响学生的学习体验和满意度。良好的设施也能吸引顶尖的教师和研究人员，进一步提升大学的教学和研究水平。
 
-+ I disagree with this view; the success of a university does not solely depend on experienced professors.
-+ Firstly, students are the heart of a university. Their moral standards, academic achievements, and innovative capabilities directly impact the university’s reputation. Students’ active participation in research projects and international competitions enhances the school’s visibility, which are crucial factors for the university’s success.
++ I disagree with this view.
++ Firstly, students are the **heart** of a university. Their moral standards, academic achievements, and innovative capabilities directly impact the university’s reputation. Students’ active participation in research projects and international competitions enhances the school’s visibility, which are crucial factors for the university’s success.
 + Secondly, campus facilities and resources are also very important. Modern campus facilities such as libraries, laboratories, and sports facilities can greatly affect students’ learning experiences and satisfaction. Good facilities can also attract top teachers and researchers, further improving the university’s teaching and research levels.
 
 ## Which is more important to the success of an artist: natural talent or hard work?
 
 + 对于艺术家而言，天赋与努力同等重要。
 + 首先，天赋是艺术创作的重要组成部分，它是艺术家与生俱来的独特能力。拥有天赋的艺术家能够直观地洞察艺术的精髓，轻松捕捉灵感，并且更有可能创作出杰出的作品。
-+ 其次，努力对于艺术家的成功同样不可或缺。艺术创作是一个持续的学习与成长过程，即便是最有天赋的艺术家也必须不懈努力，以磨砺技艺，开阔艺术视野。只有这样，他们才能创造出能够超越时代的艺术佳作。
++ 其次，努力对于成功同样不可或缺。艺术创作是一个持续的学习与成长过程，即便是最有天赋的艺术家也必须不懈努力，以磨砺技艺，开阔艺术视野。只有这样，他们才能创造出能够超越时代的艺术佳作。
 
 + For artists, both talent and effort are of paramount importance.
-+ Firstly, talent plays a crucial role in the creation of art; it is an innate ability that artists are born with. Artists with talent can intuitively understand the essence of art, easily capture inspiration, and are more likely to produce extraordinary works.
-+ Secondly, hard work is equally vital for success. The process of artistic creation is also one of continuous learning and growth. Even the most talented artists need to tirelessly hone their skills and broaden their artistic horizons. Only through persistent effort can they create timeless masterpieces that transcend the ages.
++ Firstly, talent plays a crucial role in the creation of art; it is an **innate** ability that artists are born with. Artists with talent can **intuitively** understand the essence of art, easily capture inspiration, and are more likely to produce **extraordinary** works.
++ Secondly, hard work is **equally** vital for success. The process of artistic creation is also one of continuous learning and growth. Even the most talented artists need to tirelessly hone their skills and broaden their artistic horizons. Only through persistent effort can they create timeless masterpieces that transcend the ages.
 
 ## Do you agree that schools should encourage students to be creative and imaginative in order for them to be successful?
 
