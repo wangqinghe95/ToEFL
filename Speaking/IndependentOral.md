@@ -37,28 +37,28 @@
 + 再次，校园设施和资源也非常重要，比如图书馆，实验室，体育设施等等这些现代化的校园设施能够极大影响学生的学习体验和满意度。良好的设施也能吸引顶尖的教师和研究人员，进一步提升大学的教学和研究水平。
 
 + I disagree with this view.
-+ Firstly, students are the **heart** of a university. Their moral standards, academic achievements, and innovative capabilities directly impact the university’s reputation. Students’ active participation in research projects and international competitions enhances the school’s visibility, which are crucial factors for the university’s success.
++ Firstly, students are the **heart** of a university. Their moral standards, academic achievements, and innovative capabilities directly impact the university’s reputation. Students’ active **participation** in research projects and international competitions enhances the school’s **visibility**, which are crucial factors for the university’s success.
 + Secondly, campus facilities and resources are also very important. Modern campus facilities such as libraries, laboratories, and sports facilities can greatly affect students’ learning experiences and satisfaction. Good facilities can also attract top teachers and researchers, further improving the university’s teaching and research levels.
 
-## Which is more important to the success of an artist: natural talent or hard work?
+## Which is more important to the success of an artist: natural talent or hard work?(2016.2.27)
 
 + 对于艺术家而言，天赋与努力同等重要。
 + 首先，天赋是艺术创作的重要组成部分，它是艺术家与生俱来的独特能力。拥有天赋的艺术家能够直观地洞察艺术的精髓，轻松捕捉灵感，并且更有可能创作出杰出的作品。
-+ 其次，努力对于成功同样不可或缺。艺术创作是一个持续的学习与成长过程，即便是最有天赋的艺术家也必须不懈努力，以磨砺技艺，开阔艺术视野。只有这样，他们才能创造出能够超越时代的艺术佳作。
++ 其次，努力对于成功同样不可或缺。艺术创作是一个持续的学习与成长过程，即便是最有天赋的艺术家也必须不停地磨砺技艺，开阔艺术视野。只有通过不懈地努力，他们才能创造出能够超越时代的艺术佳作。
 
-+ For artists, both talent and effort are of paramount importance.
-+ Firstly, talent plays a crucial role in the creation of art; it is an **innate** ability that artists are born with. Artists with talent can **intuitively** understand the essence of art, easily capture inspiration, and are more likely to produce **extraordinary** works.
-+ Secondly, hard work is **equally** vital for success. The process of artistic creation is also one of continuous learning and growth. Even the most talented artists need to tirelessly hone their skills and broaden their artistic horizons. Only through persistent effort can they create timeless masterpieces that transcend the ages.
++ For artists, both talent and effort are of **paramount** importance.
++ Firstly, talent plays a crucial role in the creation of art; it is an **innate** ability that artists are born with. Artists with talent can **intuitively** understand the **essence** of art, easily capture inspiration, and are more likely to produce **extraordinary** works.
++ Secondly, hard work is **equally** vital for success. The process of artistic creation is also one of **continuous** learning and growth. Even the most talented artists need to **tirelessly** **hone** their skills and broaden their artistic horizons. Only through persistent effort can they create timeless **masterpieces** that **transcend** the ages.
 
 ## Do you agree that schools should encourage students to be creative and imaginative in order for them to be successful?
 
 + 我赞同这种看法。
-+ 首先，它能够促进学生更好地适应未来的挑战。在这个日新月异的世界里，无论是职场还是日常生活，创新和解决问题的能力都至关重要，而想象力与创造力是这些能力的根本。
++ 首先，它能够帮助学生更好地适应未来的挑战。在这个日新月异的世界里，无论是职场还是日常生活都需要创新和解决问题的能力，而想象力与创造力是这些能力的根本。
 + 其次，想象力和创造力对学生的个人学习和成长也大有裨益。这些能力不仅能帮助学生满足学术要求，应对各种挑战，还能培养他们的好奇心和探索欲，激发终身学习的热情。这对于学生未来的职业道路和生活质量都极为重要。
 
 + I agree with this perspective.
 + Firstly, it helps students better adapt to future challenges. In our rapidly changing world, both the workplace and everyday life require the ability to innovate and solve complex problems, and imagination and creativity are the foundations of these skills.
-+ Secondly, imagination and creativity also greatly benefit students’ personal learning and development. These abilities not only help students meet academic demands and face various challenges but also cultivate their curiosity and desire to explore, inspiring a passion for lifelong learning. This is extremely important for students’ future career paths and quality of life.
++ Secondly, imagination and creativity also greatly benefit students’ personal learning and growth. These abilities not only help students meet academic demands and face various challenges but also cultivate their curiosity and **desire** to explore, inspiring a passion for lifelong learning. This is **extremely** important for students’ future career paths and quality of life.
 
 ## Do you agree that it is more important to maintain the relationship with family members than with friends?
 
