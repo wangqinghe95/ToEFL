@@ -50,7 +50,7 @@
 + Firstly, talent plays a crucial role in the creation of art; it is an **innate** ability that artists are born with. Artists with talent can **intuitively** understand the **essence** of art, easily capture inspiration, and are more likely to produce **extraordinary** works.
 + Secondly, hard work is **equally** vital for success. The process of artistic creation is also one of **continuous** learning and growth. Even the most talented artists need to **tirelessly** **hone** their skills and broaden their artistic horizons. Only through persistent effort can they create timeless **masterpieces** that **transcend** the ages.
 
-## Do you agree that schools should encourage students to be creative and imaginative in order for them to be successful?
+## Do you agree that schools should encourage students to be creative and imaginative in order for them to be successful?(2016-2-28)
 
 + 我赞同这种看法。
 + 首先，它能够帮助学生更好地适应未来的挑战。在这个日新月异的世界里，无论是职场还是日常生活都需要创新和解决问题的能力，而想象力与创造力是这些能力的根本。
@@ -62,13 +62,13 @@
 
 ## Do you agree that it is more important to maintain the relationship with family members than with friends?
 
-+ 家人和朋友都是生活中非常重要的存在，它们各自在我们的生活中扮演着不同但同样重要的角色。
++ 家人和朋友都是生活中非常重要，它们扮演着不同但同样重要的角色。
 + 家人通常是我们最初的社会联系，为我们提供了基本的情感支持、安全感和归属感。他们在我们成长的过程中起着至关重要的作用，教会我们许多基本的生活技能和价值观。
 + 朋友则是我们选择与之共度时光的人。他们丰富了我们的社交生活，提供了不同的观点和经验，帮助我们扩展视野。在许多情况下，朋友可以成为我们的精神支柱，与我们分享快乐和悲伤。
 
 + Both family and friends are very important in life, each playing different but equally significant roles.
-+ Family is usually our first social connection, providing us with emotional support, security, and a sense of belonging. They play a crucial role in our upbringing, teaching us many basic life skills and values.
-+ Friends are the people we choose to spend our time with. They enrich our social lives, offer different perspectives and experiences, and help us broaden our horizons. In many cases, friends can become our emotional pillars, sharing in our joys and sorrows.
++ Family is usually our first social connection, providing us with emotional support, **security**, and a sense of belonging. They play a crucial role in our upbringing, teaching us many basic life skills and values.
++ Friends are the people we choose to spend our time with. They enrich our social lives, offer different perspectives and experiences, and help us broaden our horizons. In many cases, friends can become our emotional **pillars**, sharing in our joys and **sorrows**.
 
 ## Some people tend to judge a person on the basis of the first observation,  while other people believe that it takes a long time to know a person well. Which do you think is better?
 
