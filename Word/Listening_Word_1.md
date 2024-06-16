@@ -6,5 +6,11 @@
 |plot|thickens|annotations|extraneous|
 |47-1|
 |audition|scholarly|ballads|nasal|lyrics|castles|royalty|lords|stuff|antique|
+|28-1|
+|twisted|ankle|philosophy|ciations|
 |17-1|
 |ironic|interpretation|
+|14-1|
+|judical|decisions|swamped|reasonable|
+|10-4|
+|refund|merchandise|gear|miscalculated|syllabus|pushy|intrigued|
