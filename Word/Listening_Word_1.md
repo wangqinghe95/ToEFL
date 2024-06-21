@@ -14,3 +14,5 @@
 |judical|decisions|swamped|reasonable|
 |10-4|
 |refund|merchandise|gear|miscalculated|syllabus|pushy|intrigued|
+|40-1|
+|eateries|cafeterias|hypothetical|protocols|soups|salads|dessert|desert|bakery|slice|

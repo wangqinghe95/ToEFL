@@ -60,14 +60,14 @@
 + Firstly, it helps students better adapt to future challenges. In our rapidly changing world, both the workplace and everyday life require the ability to innovate and solve complex problems, and imagination and creativity are the foundations of these skills.
 + Secondly, imagination and creativity also greatly benefit students’ personal learning and growth. These abilities not only help students meet academic demands and face various challenges but also cultivate their curiosity and **desire** to explore, inspiring a passion for lifelong learning. This is **extremely** important for students’ future career paths and quality of life.
 
-## Do you agree that it is more important to maintain the relationship with family members than with friends?
+## Do you agree that it is more important to maintain the relationship with family members than with friends?(2016-03-11)
 
 + 家人和朋友都是生活中非常重要，它们扮演着不同但同样重要的角色。
-+ 家人通常是我们最初的社会联系，为我们提供了基本的情感支持、安全感和归属感。他们在我们成长的过程中起着至关重要的作用，教会我们许多基本的生活技能和价值观。
++ 家人通常是我们最初的社会联系，为我们提供了情感支持、安全感和归属感。他们在我们成长的过程中起着至关重要的作用，教会我们许多基本的生活技能和价值观。
 + 朋友则是我们选择与之共度时光的人。他们丰富了我们的社交生活，提供了不同的观点和经验，帮助我们扩展视野。在许多情况下，朋友可以成为我们的精神支柱，与我们分享快乐和悲伤。
 
 + Both family and friends are very important in life, each playing different but equally significant roles.
-+ Family is usually our first social connection, providing us with emotional support, **security**, and a sense of belonging. They play a crucial role in our upbringing, teaching us many basic life skills and values.
++ Family is usually our first social connection, providing us with emotional support, **security**, and a sense of belonging. They play a **crucial** role in our upbringing, teaching us many basic life skills and values.
 + Friends are the people we choose to spend our time with. They enrich our social lives, offer different perspectives and experiences, and help us broaden our horizons. In many cases, friends can become our emotional **pillars**, sharing in our joys and **sorrows**.
 
 ## Some people tend to judge a person on the basis of the first observation,  while other people believe that it takes a long time to know a person well. Which do you think is better?
