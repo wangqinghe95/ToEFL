@@ -16,3 +16,5 @@
 |refund|merchandise|gear|miscalculated|syllabus|pushy|intrigued|
 |40-1|
 |eateries|cafeterias|hypothetical|protocols|soups|salads|dessert|desert|bakery|slice|
+|37-1|
+|exhibition|decorate|ceremonial|anthropological|forest|coast|decay|booklets|curator|

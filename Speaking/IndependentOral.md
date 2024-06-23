@@ -70,15 +70,15 @@
 + Family is usually our first social connection, providing us with emotional support, **security**, and a sense of belonging. They play a **crucial** role in our upbringing, teaching us many basic life skills and values.
 + Friends are the people we choose to spend our time with. They enrich our social lives, offer different perspectives and experiences, and help us broaden our horizons. In many cases, friends can become our emotional **pillars**, sharing in our joys and **sorrows**.
 
-## Some people tend to judge a person on the basis of the first observation,  while other people believe that it takes a long time to know a person well. Which do you think is better?
+## Some people tend to judge a person on the basis of the first observation,  while other people believe that it takes a long time to know a person well. Which do you think is better?(2016-03-13)
 
 + 我认为想要真正了解一个人，是一个漫长的过程
 + 首先，了解一个人需要建立深厚的信任。这不仅包括对他们的兴趣和习惯的认识，更涉及对他们内心世界和道德观的理解。信任的建立基于长期的相处、共同的经历和相互的支持
 + 再次，了解一个人是一个持续的过程。每个人的人格特质都是复杂且多变的，随着时间和经历的积累而演变。因此，我们需要在不同的情境中观察他们的行为、思想和情感反应。
 
-+ I believe that truly understanding a person is a long journey.
-+ Firstly, understanding someone requires the establishment of profound trust. This involves not only recognizing their interests and habits but also comprehending their inner world and moral values. Trust is built on long-term companionship, shared experiences, and mutual support.
-+ Furthermore, understanding a person is an ongoing process. Everyone has complex and evolving personality traits that change over time and through experiences. Therefore, we need to observe their behaviors, thoughts, and emotional responses in various situations.
++ I believe that truly understanding a person is a long **journey**.
++ Firstly, understanding someone requires the establishment of profound trust. This involves not only **recognizing** their interests and habits but also comprehending their **inner** world and **moral** values. Trust is built on long-term **companionship**, shared experiences, and **mutual** support.
++ Furthermore, understanding a person is an ongoing process. Everyone has complex and evolving personality traits that change over time and through experiences. Therefore, we need to observe their behaviors, thoughts, and emotional responses in various **situations**.
 
 ## Do you agree that students should be allowed to take additional courses to graduate as soon as possible?
 + 我不同意学生应该参加额外的课程才能毕业。
