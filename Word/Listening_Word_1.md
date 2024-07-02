@@ -14,6 +14,8 @@
 |judical|decisions|swamped|reasonable|
 |10-4|
 |refund|merchandise|gear|miscalculated|syllabus|pushy|intrigued|
+|41-4|
+||
 |40-1|
 |eateries|cafeterias|hypothetical|protocols|soups|salads|dessert|desert|bakery|slice|
 |37-1|
@@ -22,3 +24,5 @@
 |dorm|学生宿舍|campus|校园|odd|古怪的，奇数的|disturb|打扰，打断|
 |24-1|
 |undergrad|author|
+|2-1|
+|graphs|stuff|casual|thumb|recognize|meteorological|statistical|jot down|

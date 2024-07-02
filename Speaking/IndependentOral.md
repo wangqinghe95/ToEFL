@@ -81,21 +81,24 @@
 + Furthermore, understanding a person is an ongoing process. Everyone has complex and evolving personality traits that change over time and through experiences. Therefore, we need to observe their behaviors, thoughts, and emotional responses in various **situations**.
 
 ## Do you agree that students should be allowed to take additional courses to graduate as soon as possible?
-+ 我不同意学生应该参加额外的课程才能毕业。
-+ 首先，学校应该根据大学生的接受能力为他们安排适当的课程，因为一个人的时间和精力是有限的，参加太多的课程对学生没有任何好处。
-+ 其次，社会活动对学生来说同样重要，因为社会活动可以帮助学生了解社会的复杂性和多样性，同时为他们的未来生活和职业生涯做好准备。
-+ I disagree that students should take additional courses to graduate.
-+ First of all, schools should arrange proper courses for college students according to their ability to accept them, because the time and energe one has are limited, Taking too many courses does not bring any benefits to students.
-+ Secondly, Social activities are equally important for students, because social acitivities can help students understand the **complexity** and diversity of society, as well as prepare them for their future life and career.
+
++ 我同意这个观点
++ 首先，这个政策有助于学生的个人发展。学生根据自己的兴趣和目标选择额外的课程，这将有助于学生更深入的了解自己的潜力和优势，并且通过选项的方式，在特定学科和领域获取更深入的知识和技能，对学生将来的个人发展很有好处。
++ 再次，这项规定也为学生提供更多的机遇和选择。通过选修额外的课程尽早毕业和进入社会，可以让学生更早地参与到社会的各种活动中，为学生提供更多的时间和机会去尝试不同的职业道路，有助于他们找到更合适的职业方向。
+
++ I agree with this point of view.
++ First, this policy contributes to the personal development of students. By choosing additional courses based on their interests and goals, students can gain a deeper understanding of their potential and strengths. Moreover, by selecting courses, they can acquire more in-depth knowledge and skills in specific subjects and fields, which is very beneficial for their future personal development.
++ Secondly, this regulation also provides students with more opportunities and choices. Graduating early and entering society by taking additional courses allows students to participate in various social activities sooner, providing them with more time and opportunities to try different career paths, which helps them find more suitable career directions.
 
 ## Some students prefer to study alone, while others prefer to study with a group of students. Which do you prefer? 
-+ 我更喜欢独自学习。
-+ 首先，我独自学习，我的学习效率很好，因为我能够专注于学习没有别人的打扰。我能够花费更多的时间和精力在思考上而不是和同伴聊天，交流或者玩耍，这对学习有负面影响。
-+ 再次，独自学习更自由。我能根据自己的情况安排去哪，什么时候去学习，不需要考虑别人的感受，这对我非常重要，因为我很讨厌别人打乱我的个人计划。
 
-+ I prefer to study alone.
-+ First, my study efficiency is higher I study alone, because I can really focus on studying without others' distractions. I can spend more time and energy on thinking rather than **chatting**, talking or playing with **parnters**, which have a negative effect on learning.
-+ Secondly, it's more free for me to study alone. I can arrange where and when to study according to my own situation and don't need to consider others' feelings, This is so essential for me since I really hate it when someone disrupt my personal plans.
++ 我更喜欢独自学习。
++ 首先，独自学习时灵活性更好。因为我可以根据自己的日程安排规划学习时间，根据自己喜好选择学习地点，比如安静的图书馆，舒适的书房等等。独自学习还能够根据学习状态调整学习科目，这些灵活性都能够有效提高我的学习效率。
++ 再次，独自学习自我驱动力更高。独自学习的动力来自于自己的内心，这种自我驱动力更能激发个人的学习热情和学习的持久力。并且一个人学习也能培养自我管理，自我管控的能力。这些能力对个人的整体发展和未来的职业生涯都非常宝贵。
+
++ I prefer studying alone.
++ First, studying alone offers better flexibility. I can plan my study time according to my own schedule, choose the study location based on my preferences, such as a quiet library or a comfortable study room. Studying alone also allows me to adjust the subjects I study based on my learning state, and this flexibility can effectively improve my learning efficiency.
++ Secondly, studying alone enhances self-motivation. The motivation for studying alone comes from within, and this self-driven force can better stimulate personal enthusiasm for learning and the persistence to learn. Studying alone can also cultivate the ability to self-manage and self-regulate. These abilities are very valuable for personal overall development and future career.
 
 ## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
 + 我认为在课堂上留出一些时间做小组讨论对学生有好处。
