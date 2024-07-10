@@ -97,8 +97,9 @@
 + 再次，独自学习自我驱动力更高。独自学习的动力来自于自己的内心，这种自我驱动力更能激发个人的学习热情和学习的持久力。并且一个人学习也能培养自我管理，自我管控的能力。这些能力对个人的整体发展和未来的职业生涯都非常宝贵。
 
 + I prefer studying alone.
-+ First, studying alone offers better flexibility. I can plan my study time according to my own schedule, choose the study location based on my preferences, such as a quiet library or a comfortable study room. Studying alone also allows me to adjust the subjects I study based on my learning state, and this flexibility can effectively improve my learning efficiency.
-+ Secondly, studying alone enhances self-motivation. The motivation for studying alone comes from within, and this self-driven force can better stimulate personal enthusiasm for learning and the persistence to learn. Studying alone can also cultivate the ability to self-manage and self-regulate. These abilities are very valuable for personal overall development and future career.
++ First, studying alone offers better flexibility. I can plan my study time according to my own **schedule**, choose the study location based on my **preferences**, such as a quiet library or a comfortable study room. Studying alone also allows me to adjust the subjects I study based on my learning state, and this flexibility can effectively improve my learning efficiency.
++ Once again, self-study has a higher degree of self-motivation. The motivation for self-study comes from one's inner drive, which can better stimulate an individual's enthusiasm for learning and their ability to sustain it over time. Moreover, studying alone can cultivate the ability to self-manage and self-regulate. These abilities are extremely valuable for an individual's overall development and their future career prospects.
+
 
 ## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
 + 我认为在课堂上留出一些时间做小组讨论对学生有好处。
