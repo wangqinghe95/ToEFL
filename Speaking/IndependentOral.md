@@ -94,21 +94,21 @@
 
 + 我更喜欢独自学习。
 + 首先，独自学习时灵活性更好。因为我可以根据自己的日程安排规划学习时间，根据自己喜好选择学习地点，比如安静的图书馆，舒适的书房等等。独自学习还能够根据学习状态调整学习科目，这些灵活性都能够有效提高我的学习效率。
-+ 再次，独自学习自我驱动力更高。独自学习的动力来自于自己的内心，这种自我驱动力更能激发个人的学习热情和学习的持久力。并且一个人学习也能培养自我管理，自我管控的能力。这些能力对个人的整体发展和未来的职业生涯都非常宝贵。
++ 再次，独自学习能够激发更强烈的内在驱动力。这种源自内心深处的动力，不仅能唤起个人对学习的热情，还能增强学习的持久性。同时，独立学习还有助于培养自我管理和自我控制的能力。这些能力对于个人的全面发展和未来职业道路都极为重要。
 
 + I prefer studying alone.
 + First, studying alone offers better flexibility. I can plan my study time according to my own **schedule**, choose the study location based on my **preferences**, such as a quiet library or a comfortable study room. Studying alone also allows me to adjust the subjects I study based on my learning state, and this flexibility can effectively improve my learning efficiency.
-+ Once again, self-study has a higher degree of self-motivation. The motivation for self-study comes from one's inner drive, which can better stimulate an individual's enthusiasm for learning and their ability to sustain it over time. Moreover, studying alone can cultivate the ability to self-manage and self-regulate. These abilities are extremely valuable for an individual's overall development and their future career prospects.
-
++ Secondly, it is emphasized that self-study can evoke a stronger internal drive. This motivation, **stemming** from deep within, not only arouses an individual's passion for learning but also enhances the **endurance** of learning. Additionally, studying independently helps to cultivate abilities in self-management and self-control. These abilities are extremely important for personal comprehensive development and future career paths.
 
 ## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
-+ 我认为在课堂上留出一些时间做小组讨论对学生有好处。
-+ 首先，在课堂上交流他们的想法和经验对学生很重要，因为这对学生更好的理解老师教授的知识很有用。
-+ 再次，小组讨论对学生来说能够培养他们的团队精神，沟通和协作能力，这也为它们以后的职业和生活做准备。
 
-+ I agree that it is beneficial for students to set aside some time for group discussions in class.
-+ First, it's so essential for students to exchange their ideas and experiences in class, as it is very useful for students to better understand knowledge **taught** by the teachers.
-+ Secondly, group discussions are very helpful for students to cultivate their teamwork spirit, as well as communication and coordination skills, which will prepare them for their future career and life. 
++ 我支持这一观点。
++ 首先，这有助于加深学生的理解。通过小组讨论，学生不仅能迅速吸收老师在课堂上传授的知识，还能在与小组成员的交流和分享中学习尊重多元观点和提高归纳总结的能力。
++ 再次，小组讨论是培养学生沟通技巧和团队合作精神的有效方式。在讨论过程中，学生必须清晰地阐述自己的见解，同时认真倾听他人的意见，以实现有效沟通。这不仅锻炼了他们的语言表达能力，还增强了团队协作的意识。
+
++ I agree with this viewpoint.
++ Firstly, this helps to facilitate students' understanding. Through group discussions, students can not only quickly grasp the knowledge imparted by the teacher in class but also learn to respect diverse viewpoints and skills in summarization during the exchange and sharing with group members.
++ Secondly, group discussions are an effective way to cultivate students' communication skills and team spirit. During the discussion, students need to clearly express their own opinions and listen to others' views to achieve effective communication. This not only hones their language expression abilities but also fosters a sense of teamwork. 
 
 ## Some like to spend a lot of money to get a unique experience on vacations, while others prefer to spend only a little money on vacations. Which one do you prefer?
 + 我认为两个都可以，取决于个人的经济条件。
