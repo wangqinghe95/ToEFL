@@ -80,7 +80,7 @@
 + Firstly, understanding someone requires the establishment of profound trust. This involves not only **recognizing** their interests and habits but also comprehending their **inner** world and **moral** values. Trust is built on long-term **companionship**, shared experiences, and **mutual** support.
 + Furthermore, understanding a person is an ongoing process. Everyone has complex and evolving personality traits that change over time and through experiences. Therefore, we need to observe their behaviors, thoughts, and emotional responses in various **situations**.
 
-## Do you agree that students should be allowed to take additional courses to graduate as soon as possible?
+## Do you agree that students should be allowed to take additional courses to graduate as soon as possible?(2016-03-19)
 
 + 我同意这个观点
 + 首先，这个政策有助于学生的个人发展。学生根据自己的兴趣和目标选择额外的课程，这将有助于学生更深入的了解自己的潜力和优势，并且通过选项的方式，在特定学科和领域获取更深入的知识和技能，对学生将来的个人发展很有好处。
@@ -90,7 +90,7 @@
 + First, this policy contributes to the personal development of students. By choosing additional courses based on their interests and goals, students can gain a deeper understanding of their potential and strengths. Moreover, by selecting courses, they can acquire more in-depth knowledge and skills in specific subjects and fields, which is very beneficial for their future personal development.
 + Secondly, this regulation also provides students with more opportunities and choices. Graduating early and entering society by taking additional courses allows students to participate in various social activities sooner, providing them with more time and opportunities to try different career paths, which helps them find more suitable career directions.
 
-## Some students prefer to study alone, while others prefer to study with a group of students. Which do you prefer? 
+## Some students prefer to study alone, while others prefer to study with a group of students. Which do you prefer? (2016-03-26)
 
 + 我更喜欢独自学习。
 + 首先，独自学习时灵活性更好。因为我可以根据自己的日程安排规划学习时间，根据自己喜好选择学习地点，比如安静的图书馆，舒适的书房等等。独自学习还能够根据学习状态调整学习科目，这些灵活性都能够有效提高我的学习效率。
@@ -100,24 +100,27 @@
 + First, studying alone offers better flexibility. I can plan my study time according to my own **schedule**, choose the study location based on my **preferences**, such as a quiet library or a comfortable study room. Studying alone also allows me to adjust the subjects I study based on my learning state, and this flexibility can effectively improve my learning efficiency.
 + Secondly, it is emphasized that self-study can evoke a stronger internal drive. This motivation, **stemming** from deep within, not only arouses an individual's passion for learning but also enhances the **endurance** of learning. Additionally, studying independently helps to cultivate abilities in self-management and self-control. These abilities are extremely important for personal comprehensive development and future career paths.
 
-## Do you agree that it is beneficial for students to set aside some time for group discussions in class?
+## Do you agree that it is beneficial for students to set aside some time for group discussions in class?(2016-04-09)
 
 + 我支持这一观点。
 + 首先，这有助于加深学生的理解。通过小组讨论，学生不仅能迅速吸收老师在课堂上传授的知识，还能在与小组成员的交流和分享中学习尊重多元观点和提高归纳总结的能力。
 + 再次，小组讨论是培养学生沟通技巧和团队合作精神的有效方式。在讨论过程中，学生必须清晰地阐述自己的见解，同时认真倾听他人的意见，以实现有效沟通。这不仅锻炼了他们的语言表达能力，还增强了团队协作的意识。
 
 + I agree with this viewpoint.
-+ Firstly, this helps to facilitate students' understanding. Through group discussions, students can not only quickly grasp the knowledge imparted by the teacher in class but also learn to respect diverse viewpoints and skills in summarization during the exchange and sharing with group members.
-+ Secondly, group discussions are an effective way to cultivate students' communication skills and team spirit. During the discussion, students need to clearly express their own opinions and listen to others' views to achieve effective communication. This not only hones their language expression abilities but also fosters a sense of teamwork. 
++ Firstly, this helps to facilitate students' understanding. Through group **discussions**, students can not only quickly **grasp** the knowledge imparted by the teacher in class but also learn to respect diverse viewpoints and skills in summarization during the exchange and sharing with group members.
++ Secondly, group discussions are an effective way to cultivate students' communication skills and team **spirit**. During the discussion, students need to clearly express their own opinions and listen to others' views to achieve effective communication. This not only **hones** their language expression abilities but also fosters a sense of teamwork. 
 
-## Some like to spend a lot of money to get a unique experience on vacations, while others prefer to spend only a little money on vacations. Which one do you prefer?
-+ 我认为两个都可以，取决于个人的经济条件。
-+ 首先如果你有足够的钱，你可以参加一些昂贵的活动在假期获取一些独特的经验，比如国外旅行，滑雪等等，这会成为你生命中的财富，丰富你的经历。
-+ 第二，如果你经济上不富有，也有很多不贵但是有意义的事情可以在假期做，比如学习做美味的食物犒劳父母，参加社会实践活动挣点钱，这也能使得人更优秀。
++ Some like to spend a lot of money to get a unique experience on vacations, while others prefer to spend only a little money on vacations. Which one do you prefer?
 
-+ I think both are ok, and it depends on personal **economical** conditions.
-+ First of all, If you have enough money, you can take part in expensive activities to get **unique** experiences on vacation, such as travelling abroad, **skiing**, etc, which will become a **treasure** in your life and enrich your experiences.
-+ Secondly, If you are not rich financially, there are still some inexpensive but meaningful things you can do during holidays, such as learning to make **delicious** **meals** to reward your parents, participating in social practice activities to earn money, which will also make people more **excellent**.
+我认为两个都可以，取决于个人的经济条件。
+如果经济条件允许，你可以选择参与一些成本较高的活动，以获得难忘的体验。例如，利用假期时间进行海外旅行或尝试滑雪等活动。这些独特的体验能够转化为你生命中宝贵的财富，为你的人生经历增添色彩。
+另一方面，如果你的经济状况有限，也有许多成本不高但同样有意义的活动可供选择。你可以学习制作美食来慰劳父母，或者参与社会实践活动来赚取一些收入。这些活动不仅能够提升你的个人技能，还能促进你的全面发展。
+
+I think both are ok, and it depends on personal **economical** conditions.
+On one hand, If financial conditions permit, you may opt to engage in activities with a higher cost for an unforgettable experience. For instance, you could travel overseas or try skiing during the holiday season. These unique experiences can become precious assets in your life, adding color to your personal journey.
+
+On the other hand, if your economic situation is modest, there are also many meaningful activities that come at a low cost. You could learn to cook delicious meals to reward your parents or participate in social practice activities to earn some income. These activities can not only enhance your personal skills but also promote your overall development.
+
 
 ## Some college students like to join clubs and enjoy club activities in their spare time, while others like to use this time to study another course or do schoolwork. Which one do you think is better?
 + 我认为两个都应该经历。
